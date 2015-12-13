@@ -1,0 +1,37 @@
+T5	TranscriptionCoactivator 75 102	transcriptional coactivator
+T9	Enzyme 177 183	ATPase
+T10	CatalyticActivity 184 192	activity
+T13	MessengerRNA 265 269	mRNA
+T22	Protein 409 414	BRCA1
+T29	ProteinComplex 601 610	NF-kappaB
+T33	ProteinComplex 810 819	NF-kappaB
+T34	ReporterGene 830 843	reporter gene
+T37	Protein 871 898	tumor necrosis factor-alpha
+T44	ProteinComplex 992 1001	NF-kappaB
+T45	ReporterGene 1012 1025	reporter gene
+T48	TranscriptionActivator 1054 1064	activators
+T49	SmallInterferingRNA 1099 1120	short interfering RNA
+T51	ProteinComplex 1133 1142	NF-kappaB
+T54	ProteinComplex 1247 1254	complex
+T57	ProteinComplex 1300 1309	NF-kappaB
+T6	Enzyme 120 123	RHA
+T7	Enzyme 278 281	RHA
+T8	TranscriptionCoactivator 353 373	CREB-binding protein
+T17	RNAPolymeraseIIHoloenzyme 434 470	RNA Polymerase II holoenzyme complex
+T18	BindingAssay 478 504	yeast two-hybrid screening
+T19	Enzyme 525 528	RHA
+T20	ProteinSubunit 563 574	p65 subunit
+T21	ProteinSubunit 637 640	p65
+T23	Enzyme 645 648	RHA
+T24	BindingAssay 666 707	glutathione-S transferase pull-down assay
+T25	ExperimentalMethod 725 753	co-immunoprecipitation assay
+T28	Enzyme 797 800	RHA
+T31	ProteinSubunit 866 869	p65
+T38	Enzyme 903 928	NF-kappaB inducing kinase
+T39	MutantProtein 934 945	mutant form
+T58	Enzyme 949 952	RHA
+T60	Enzyme 1089 1092	RHA
+T61	Enzyme 1194 1197	RHA
+T62	Function 1288 1296	activity
+T1	Enzyme 0 14	RNA helicase A
+T3	ProteinSubunit 52 55	p65

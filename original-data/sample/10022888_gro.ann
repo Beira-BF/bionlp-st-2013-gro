@@ -1,0 +1,89 @@
+T1	Protein 27 49	snRNP assembly factors
+T4	Eukaryote 53 58	yeast
+T6	Protein 92 97	Sad1p
+T7	PreMicroRNA 118 128	pre - mRNA
+T8	Splicing 129 137	splicing
+E2	Splicing:T8 hasPatient:T7
+T9	ProteinMaturation 144 160	assembly pathway
+E3	ProteinMaturation:T9 
+T10	Spliceosome 164 183	spliceosomal snRNPs
+T12	Eukaryote 187 192	yeast
+T14	Inhibition 258 266	blocking
+E5	Inhibition:T14 hasPatient:E6
+T15	ProteinMaturation 271 279	assembly
+E6	ProteinMaturation:T15 hasPatient:T16
+T16	RNA 301 309	U4 snRNA
+T17	ComplexOfProteinAndRNA 328 333	snRNP
+T20	RNA 410 418	U4 snRNA
+T21	RNA 436 438	U4
+T26	Mutation 630 639	Mutations
+E10	Mutation:T26 hasPatient:T28
+T27	ProteinComplex 647 658	U4/U6 snRNP
+R6	hasPart Arg1:T27 Arg2:T30
+R7	hasPart Arg1:T27 Arg2:T29
+R8	hasPart Arg1:T27 Arg2:T28
+T28	Protein 670 675	Prp3p
+T29	Protein 678 683	Prp4p
+T30	Protein 690 696	Prp24p
+T31	MolecularInteraction 704 715	disassembly
+E11	MolecularInteraction:T31 hasPatient:T32 hasPatient:T19
+T32	ComplexOfProteinAndRNA 726 734	U6 snRNP
+T33	ProteinCatabolism 748 759	degradation
+E12	ProteinCatabolism:T33 hasPatient:T34
+T34	RNA 767 775	U6 snRNA
+T35	Localization 816 827	accumulated
+E13	Localization:T35 hasPatient:T36 hasAgent:T3
+T36	RNA 833 835;843 848	U4 snRNA
+T37	RNA 840 848	U6 snRNA
+T42	PreMicroRNA 1075 1094	the RP29 pre - mRNA
+T43	Localization 1104 1115	accumulates
+E17	Localization:T43 hasPatient:T42
+T45	Producing 1141 1151	production
+E19	Producing:T45 hasPatient:T46
+T46	Enzyme 1155 1175	beta - galactosidase
+T47	Inhibition 1204 1213	abolished
+E20	Inhibition:T47 hasPatient:E19
+T49	Splicing 1270 1276	splice
+E21	Splicing:T49 hasPatient:T50
+T50	PreMicroRNA 1277 1298	pre - mRNA substrates
+T53	Mutation 1385 1393	mutation
+E23	Mutation:T53 
+T54	Affecting 1409 1416	affects
+E24	Affecting:T54 hasAgent:E23 hasPatient:E25
+T55	ProteinMaturation 1417 1425	assembly
+E25	ProteinMaturation:T55 hasPatient:T56
+T56	RNA 1447 1455	U4 snRNA
+T60	Protein 1561 1566	Sad1p
+T62	Nucleus 1584 1591	nucleus
+T64	Protein 1648 1653	Sad1p
+R12	hasPart Arg1:T64 Arg2:T65
+T65	ProteinDomain 1674 1685	zinc finger
+R1	fromSpecies Arg1:T1 Arg2:T4	
+T2	BindingToRNA 425 433	assemble
+E1	BindingToRNA:T2 hasPatient:T21 hasPatient:T13
+T3	Protein 784 793	prp17 - 1
+T5	Protein 798 807	prp19 - 1
+T51	Activation 105 113	required
+E8	Activation:T51 hasAgent:T6 hasPatient:E2
+T13	RNA 439 441	U6
+T18	RegulatoryProcess 697 700	led
+E4	RegulatoryProcess:T18 hasPatient:E11 hasAgent:E10
+T19	ComplexOfProteinAndRNA 723 725;729 734	U4 snRNP
+R2	fromSpecies Arg1:T10 Arg2:T12	
+T11	Localization 377 387	accumulate
+E7	Localization:T11 hasPatient:T20
+T22	Localization 1567 1576	localizes
+E9	Localization:T22 hasPatient:T60
+R3	endsIn Arg1:E9 Arg2:T62	
+R4	resultsIn Arg1:E6 Arg2:T17	
+R5	resultsIn Arg1:E3 Arg2:T10	
+E14	Mutation:T26 hasPatient:T29
+E15	Mutation:T26 hasPatient:T30
+E16	RegulatoryProcess:T18 hasPatient:E12 hasAgent:E10
+E18	RegulatoryProcess:T18 hasPatient:E12 hasAgent:E14
+E22	RegulatoryProcess:T18 hasPatient:E12 hasAgent:E15
+E26	RegulatoryProcess:T18 hasPatient:E11 hasAgent:E14
+E27	RegulatoryProcess:T18 hasPatient:E11 hasAgent:E15
+E28	Localization:T35 hasPatient:T37 hasAgent:T3
+E29	Localization:T35 hasPatient:T36 hasAgent:T5
+E30	Localization:T35 hasPatient:T37 hasAgent:T5

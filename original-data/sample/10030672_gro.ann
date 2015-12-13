@@ -1,0 +1,51 @@
+T3	Eukaryote 67 77	Drosophila
+T4	Gene 100 118	hyperplastic discs
+R2	fromSpecies Arg1:T4 Arg2:T3
+T5	Chemical 174 183	progestin
+T6	RegulatoryProcess 186 195	regulated
+E1	RegulatoryProcess:T6 hasAgent:T5 hasPatient:T7
+T7	Gene 196 201	genes
+R3	locatedIn Arg1:T7 Arg2:T8
+T8	Cell 205 212	T - 47D
+T17	Eukaryote 420 443	Drosophila melanogaster
+T18	Gene 466 484	hyperplastic discs
+R6	fromSpecies Arg1:T18 Arg2:T17
+T24	MessengerRNA 589 597	EDD mRNA
+R10	locatedIn Arg1:T24 Arg2:T28
+T25	Chemical 602 611	progestin
+T26	Increase 614 621	induced
+E2	Increase:T26 hasAgent:T25 hasPatient:T24
+R11	locatedIn Arg1:E2 Arg2:T27
+T27	Cell 625 638	T - 47D cells
+T28	Tissue 666 672	testes
+T29	GeneExpression 677 686	expressed
+E3	GeneExpression:T29 hasPatient:T24
+T41	Protein 966 975	ubiquitin
+T42	RegulatoryProcess 978 986	mediated
+E4	RegulatoryProcess:T42 hasAgent:T41
+T48	BindingToProtein 1067 1072	bound
+E7	BindingToProtein:T48 hasPatient:T49
+T49	Protein 1073 1082	ubiquitin
+T50	ProteinDomain 1114 1125	HECT domain
+R14	hasPart Arg1:T50 Arg2:T51
+T51	AminoAcid 1126 1142	cysteine residue
+T52	Gene 1145 1148	EDD
+T58	Growth 1351 1357	growth
+E9	Growth:T58 hasPatient:T2
+T59	Eukaryote 1361 1371	Drosophila
+T60	Gene 1374 1377	EDD
+T61	RegulatoryProcess 1404 1414	regulation
+E10	RegulatoryProcess:T61 hasAgent:T60 hasPatient:E11
+T62	CellGrowth 1418 1436	cell proliferation
+E11	CellGrowth:T62 
+T63	CellDifferentiation 1418 1422;1440 1455	cell differentiation
+E12	CellDifferentiation:T63 
+R4	fromSpecies Arg1:E9 Arg2:T59	
+T9	RegulatoryProcess 1326 1333	control
+E6	RegulatoryProcess:T9 hasPatient:E9
+T10	Localization 1153 1162	localized
+E13	Localization:T10 hasPatient:T52
+T11	Eukaryote 213 218	human
+R9	fromSpecies Arg1:T8 Arg2:T11	
+T2	Tissue 1337 1350	imaginal disc
+E5	RegulatoryProcess:T61 hasAgent:T60 hasPatient:E12

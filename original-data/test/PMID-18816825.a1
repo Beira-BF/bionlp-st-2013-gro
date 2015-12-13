@@ -1,0 +1,36 @@
+T2	Tissue 82 88	retina
+T4	Chromatin 108 117	chromatin
+T10	Nucleotide 237 240	ATP
+T11	ProteinComplex 251 279	chromatin-remodeling complex
+T12	ProteinComplex 281 283	It
+T13	Protein 304 312	proteins
+T14	ProteinSubunit 327 341	ATPase subunit
+T15	ProteinSubunit 367 375	subunits
+T16	ProteinComplex 379 391	this complex
+T17	ProteinComplex 553 560	complex
+T21	Eukaryote 692 697	human
+T22	Tissue 698 705	retinas
+T23	Eukaryote 717 722	mouse
+T24	Tissue 723 729	retina
+T27	ProteinSubunit 815 818	its
+T29	Cell 844 855	progenitors
+T33	Protein 914 919	Notch
+T39	ProteinSubunit 0 6	Baf60c
+T1	ProteinComplex 56 67	BAF complex
+T8	ProteinComplex 215 230	SWI/SNF complex
+T9	ProteinSubunit 350 354	Brg1
+T41	ProteinSubunit 358 361	Brm
+T42	ProteinSubunit 393 399	Baf53a
+T43	ProteinSubunit 404 409	Baf45
+T44	Cell 452 469	neural progenitor
+T45	ProteinSubunit 508 514	Baf60c
+T46	Cell 580 597	neural progenitor
+T47	ProteinSubunit 647 653	Baf60c
+T20	Cell 670 688	neural progenitors
+T48	Tissue 731 737	cortex
+T49	Tissue 742 753	spinal cord
+T50	ProteinSubunit 755 761	Baf60c
+T51	Cell 788 794	neural
+T31	ProteinSubunit 951 957	Baf60c
+T32	Cell 981 1000	Mueller glial cells
+T38	Cell 29 46	neural progenitor

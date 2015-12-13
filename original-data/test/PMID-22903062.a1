@@ -1,0 +1,31 @@
+T3	Gene 73 78	VEGFA
+T4	TranscriptionFactor 109 119	E2F family
+T7	Function 270 279	functions
+T10	Eukaryote 408 412	mice
+T14	Tissue 540 553	blood vessels
+T16	Tissue 620 633	blood vessels
+T17	TranscriptionRepressor 667 693	transcriptional repressors
+T20	Gene 834 839	VEGFA
+T24	Gene 932 937	VEGFA
+T25	Promoter 938 946	promoter
+T32	Gene 1097 1102	VEGFA
+T34	Protein 1191 1196	VEGFA
+T8	TranscriptionFactor 337 343	E2F7/8
+T37	TranscriptionFactor 384 390	E2F7/8
+T38	Eukaryote 394 403	zebrafish
+T39	Tissue 429 437	vascular
+T41	Eukaryote 504 513	zebrafish
+T42	TranscriptionFactor 575 581	E2F7/8
+T43	TranscriptionFactor 755 761	E2F7/8
+T19	TranscriptionFactor 893 899	E2F7/8
+T26	TranscriptionFactorBindingSiteOfDNA 972 992	E2F binding elements
+T27	TranscriptionFactor 1003 1009	E2F7/8
+T28	TranscriptionFactorComplex 1017 1040	transcriptional complex
+T30	TranscriptionFactor 1078 1082	HIF1
+T33	Promoter 1103 1111	promoter
+T45	TranscriptionFactor 1171 1177	E2F7/8
+T46	TranscriptionFactor 1186 1190	HIF1
+T47	TranscriptionFactor 1246 1252	E2F7/8
+T49	TranscriptionFactor 0 4	E2F7
+T50	TranscriptionFactor 9 13	E2F8
+T52	TranscriptionFactor 99 103	HIF1

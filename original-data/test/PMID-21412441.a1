@@ -1,0 +1,57 @@
+T1	HMGTF 11 15	SOX9
+T4	HMGTF 69 72	SRY
+T5	HMGTF 74 78	SOX9
+T6	TranscriptionFactor 83 86	SF1
+T8	Eukaryote 101 106	human
+T11	Gene 130 133	SRY
+T12	Gene 165 169	SOX9
+T15	Gene 197 200	SF1
+T22	HMGTF 376 380	SOX9
+T25	HMGTF 453 456	SRY
+T27	Eukaryote 471 478	mammals
+T28	Eukaryote 483 487	mice
+T29	HMGTF 489 493	Sox9
+T32	HMGTF 545 548	SRY
+T33	TranscriptionFactor 550 553	SF1
+T34	HMGTF 558 562	SOX9
+T37	Gene 607 611	Sox9
+T39	HMGTF 633 637	SOX9
+T40	Eukaryote 641 646	human
+T44	Cell 787 800	Sertoli cells
+T46	Eukaryote 815 820	human
+T48	HMGTF 840 843	SRY
+T52	Chromatin 885 894	chromatin
+T56	HMGTF 952 956	SOX9
+T58	HMGTF 969 972	SRY
+T59	TranscriptionFactor 977 980	SF1
+T61	Eukaryote 1008 1013	human
+T62	Gene 1014 1018	SOX9
+T64	TranscriptionFactor 1080 1083	SF1
+T65	HMGTF 1085 1089	SOX9
+T67	TranscriptionFactor 1124 1127	SF1
+T69	HMGTF 1171 1175	SOX9
+T78	Eukaryote 1392 1397	human
+T80	Function 1436 1444	function
+T82	Gene 1479 1483	SOX9
+T83	Gene 1493 1497	gene
+T84	HMGTF 1577 1581	SOX9
+T86	Eukaryote 298 308	vertebrate
+T87	Tissue 395 402	gonadal
+T24	Cell 403 420	pre-Sertoli cells
+T35	Enhancer 579 603	testis-specific enhancer
+T36	Enhancer 613 616	TES
+T42	EukaryoticCell 710 745	human embryonal carcinoma cell line
+T43	EukaryoticCell 747 753	NT2/D1
+T53	EukaryoticCell 898 910	NT2/D1 cells
+T57	Enhancer 1019 1033	homologous TES
+T88	Enhancer 1035 1039	hTES
+T90	Enhancer 1105 1109	hTES
+T72	MutantProtein 1219 1229;1244 1251	mutant SRY protein
+T73	MutantProtein 1219 1225;1231 1234;1244 1251	mutant SF1 protein
+T74	MutantProtein 1219 1225;1239 1243;1244 1251	mutant SOX9 protein
+T93	Tissue 1292 1299	gonadal
+T95	Function 1341 1348	ability
+T96	Enhancer 1361 1365	hTES
+T79	TranscriptionFactor 1398 1421	sex-determining factors
+T97	Tissue 1452 1459	gonadal
+T10	Function 226 234	function

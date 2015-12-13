@@ -1,0 +1,47 @@
+T2	GeneralTranscriptionFactor 30 35	TFIIB
+T6	AminoAcid 95 103	residues
+T9	TranscriptionFactor 129 132	VDR
+T10	Ligand 139 145	ligand
+T14	TranscriptionFactor 224 227	RXR
+T21	Gene 331 335	gene
+T24	TranscriptionRegulator 390 401	coregulator
+T28	Ligand 465 471	ligand
+T29	TranscriptionFactor 482 485	VDR
+T31	TranscriptionRegulator 517 529	coregulators
+T33	ProteinComplex 566 573	complex
+T34	TranscriptionFactor 579 582	VDR
+T39	ProteinDomain 686 690	AF-2
+T40	TranscriptionFactor 776 779	VDR
+T43	AminoAcid 913 921	residues
+T44	TranscriptionFactor 971 974	VDR
+T46	Ligand 1050 1056	ligand
+T50	GeneralTranscriptionFactor 1138 1143	TFIIB
+T51	TranscriptionFactor 1149 1152	RXR
+T56	TranscriptionFactor 1227 1236	wild type
+T60	Ligand 1324 1330	ligand
+T62	TranscriptionFactor 1375 1378	VDR
+T65	TranscriptionRegulator 1439 1450	coregulator
+T13	GeneralTranscriptionFactor 252 281	basal transcription machinery
+T16	TranscriptionCofactor 286 311	transcriptional cofactors
+T17	TranscriptionCoactivator 350 366	p160 coactivator
+T18	TranscriptionCoactivator 367 372	GRIP1
+T22	TranscriptionRegulator 426 440	(SKIP)/NCoA-62
+T25	TranscriptionFactorActivity 486 510	transcriptional activity
+T27	TranscriptionCoactivator 589 594	GRIP1
+T32	ProteinDomain 610 645	activation function-2 (AF-2) domain
+T35	TranscriptionRegulator 650 662	SKIP/NCoA-62
+T37	TranscriptionRegulator 746 758	SKIP/NCoA-62
+T38	MolecularStructure 847 862	helices H10/H11
+T70	MolecularStructure 975 984	helix H10
+T71	TranscriptionRegulator 1024 1036	SKIP/NCoA-62
+T48	TranscriptionFactorActivity 1083 1091	activity
+T72	TranscriptionRegulator 1093 1105	SKIP/NCoA-62
+T49	GeneralTranscriptionFactor 1111 1137	basal transcription factor
+T53	MutantProtein 1173 1194	VDR helix H10 mutants
+T54	TranscriptionRegulator 1347 1359	SKIP/NCoA-62
+T63	TranscriptionCoactivator 1534 1551	p160 coactivators
+T64	TranscriptionRegulator 16 28	SKIP/NCoA-62
+T3	TranscriptionFactor 41 60	retinoid X receptor
+T4	TranscriptionFactor 66 84	vitamin D receptor
+T5	MolecularStructure 85 94	helix H10
+T7	TranscriptionFactor 156 176	transcription factor

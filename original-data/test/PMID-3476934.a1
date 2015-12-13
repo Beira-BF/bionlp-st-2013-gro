@@ -1,0 +1,27 @@
+T2	Eukaryote 16 21	human
+T3	Gene 22 26	gene
+T5	DNA 75 85	cDNA clone
+T6	Sequence 119 127	sequence
+T7	Eukaryote 133 138	human
+T8	Gene 139 143	gene
+T11	DNA 221 225	cDNA
+T12	Gene 261 270	this gene
+T13	Protein 293 300	protein
+T15	ProteinDomain 423 430	domains
+T16	DNARegion 462 469	regions
+T18	Transcript 564 574	transcript
+T22	Cell 708 713	cells
+T9	Gene 170 182	ets oncogene
+T25	Gene 150 153	erg
+T26	ProteinCodingRegion 112 118	coding
+T10	SequenceHomologyAnalysis 184 212	Nucleotide sequence analysis
+T14	AminoAcid 317 327	amino acid
+T27	Sequence 328 336	sequence
+T17	Gene 473 487	v-ets oncogene
+T19	Gene 582 590	erg gene
+T20	Gene 652 660;674 678	Hu-ets 1 gene
+T21	Gene 665 673;674 678	Hu-ets 2 gene
+T23	Gene 746 754	erg gene
+T24	Gene 774 793	ets oncogene family
+T1	Gene 4 12	erg gene
+T4	Gene 42 54	ets oncogene

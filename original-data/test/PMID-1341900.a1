@@ -1,0 +1,44 @@
+T4	ZincCoordinatingDomainTF 44 47	Sp1
+T6	Gene 76 91	T-cell receptor
+T11	Promoter 159 167	promoter
+T13	UpstreamRegulatorySequence 259 275	upstream regions
+T15	Gene 302 305	TCR
+T16	Enhancer 306 314	enhancer
+T17	RegulatoryDNARegion 320 339	regulatory elements
+T18	Gene 349 354	genes
+T19	Gene 386 389	TCR
+T22	Protein 424 432	proteins
+T26	ZincCoordinatingDomain 597 609	zinc fingers
+T27	ProteinDomain 614 637	transactivation domains
+T28	ZincCoordinatingDomainTF 658 661	Sp1
+T29	ZincCoordinatingDomainTF 668 671	Sp1
+T36	ZincCoordinatingDomainTF 835 838	Sp1
+T37	Sequence 849 857	sequence
+T39	ZincCoordinatingDomainTF 909 912	Sp1
+T42	Gene 1002 1007	genes
+T48	Gene 1115 1120	genes
+T2	Protein 11 34	GT box-binding proteins
+T3	Gene 123 158	T-cell antigen receptor (TCR) alpha
+T8	GeneRegion 175 200	variable gene segment (V)
+T9	RegulatoryDNARegion 221 235	GT box element
+T10	Gene 287 300	V alpha genes
+T12	RegulatoryDNARegion 361 368	element
+T14	Protein 440 463	GT box-binding proteins
+T24	ZincCoordinatingDomainTF 551 554	Sp2
+T23	ZincCoordinatingDomainTF 502 505	Sp1
+T25	ZincCoordinatingDomainTF 559 562	Sp3
+T49	ExperimentalMethod 569 575	cloned
+T50	ZincCoordinatingDomainTF 577 580	Sp2
+T51	ZincCoordinatingDomainTF 585 588	Sp3
+T52	ZincCoordinatingDomainTF 673 676	Sp2
+T53	ZincCoordinatingDomainTF 681 684	Sp3
+T31	Protein 723 751	in vitro-translated products
+T54	RegulatoryDNARegion 764 770	GT box
+T33	Promoter 774 795	TCR V alpha promoters
+T34	ZincCoordinatingDomainTF 797 800	Sp3
+T55	RegulatoryDNARegion 858 864	GC box
+T56	RegulatoryDNARegion 921 927	GT box
+T41	ZincCoordinatingDomainTF 1030 1033;1042 1049	Sp2 protein
+T43	ZincCoordinatingDomainTF 1038 1041;1042 1049	Sp3 protein
+T46	Gene 1093 1101	TCR gene
+T1	ExperimentalMethod 0 7	Cloning

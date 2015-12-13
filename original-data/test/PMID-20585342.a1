@@ -1,0 +1,32 @@
+T15	Gene 725 729	gene
+T1	Peptide 19 45	atrial natriuretic peptide
+T20	TranscriptionFactor 67 72	GATA4
+T3	OrganicChemical 135 146	acamprosate
+T7	Sequence 313 344	single nucleotide polymorphisms
+T24	Sequence 346 350	SNPs
+T9	ExperimentalMethod 389 392	GWA
+T26	OrganicChemical 618 629	acamprosate
+T27	OrganicChemical 631 641	naltrexone
+T28	Chemical 645 652	placebo
+T29	Chemical 588 595	placebo
+T14	Sequence 658 688	single nucleotide polymorphism
+T30	Sequence 690 700	rs13273672
+T31	Sequence 714 717	SNP
+T32	Intron 705 713	intronic
+T16	Protein 734 756	GATA-binding protein 4
+T17	Protein 758 763	GATA4
+T33	ExperimentalMethod 858 882	pharmacogenetic analyses
+T34	OrganicChemical 954 965	acamprosate
+T35	Gene 1010 1029	natriuretic peptide
+T36	Promoter 1030 1039	promoters
+T38	TranscriptionFactor 1057 1062	GATA4
+T39	Peptide 1114 1140	atrial natriuretic peptide
+T40	Peptide 1142 1145	ANP
+T41	TranscriptionFactor 1185 1190	GATA4
+T42	TranscriptionFactor 1250 1255	GATA4
+T43	Sequence 1228 1246	genetic variations
+T46	OrganicChemical 1306 1317	acamprosate
+T49	Peptide 1366 1369	ANP
+T53	OrganicChemical 1543 1554	acamprosate
+T54	PhysicalContinuant 1147 1153	plasma
+T55	PhysicalContinuant 1370 1376	plasma

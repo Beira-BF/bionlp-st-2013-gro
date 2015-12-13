@@ -1,0 +1,32 @@
+T1	Eukaryote 2 24	Caenorhabditis elegans
+T9	Cell 229 237	cellular
+T11	Cell 279 286	neurons
+T13	Gene 375 380	genes
+T14	Eukaryote 389 411	Caenorhabditis elegans
+T17	Eukaryote 553 558	yeast
+T21	Cell 704 711	neurons
+T22	Eukaryote 731 738	animals
+T29	Eukaryote 1030 1039	C.elegans
+T6	Enzyme 153 156	JNK
+T34	Enzyme 165 187	MAP kinase superfamily
+T35	Stress 238 246	stresses
+T36	Enzyme 314 317	JNK
+T37	Tissue 343 357	nervous system
+T38	Enzyme 428 433	JNK-1
+T39	Enzyme 526 530	Hog1
+T40	Enzyme 560 565	JKK-1
+T41	Enzyme 585 614	MAP kinase kinase superfamily
+T15	Enzyme 461 466	JKK-1
+T19	Enzyme 656 659	JNK
+T42	Gene 666 671	jnk-1
+T43	Gene 676 681	jkk-1
+T45	MutantGene 713 730	jkk-1 null mutant
+T46	Enzyme 822 827	JKK-1
+T49	MutantGene 831 837	mutant
+T50	LivingEntity 838 844	adults
+T51	Enzyme 945 950	JKK-1
+T27	Cell 954 974	type-D motor neurons
+T54	Enzyme 1040 1043	JNK
+T31	Cell 1065 1095	type-D GABAergic motor neurons
+T55	Enzyme 25 28	JNK
+T5	Cell 92 122	type-D GABAergic motor neurons

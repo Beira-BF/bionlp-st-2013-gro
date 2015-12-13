@@ -1,0 +1,72 @@
+T2	Eukaryote 46 51	human
+T5	Eukaryote 257 262	human
+T6	Eukaryote 331 336	human
+T8	Eukaryote 468 473	human
+T10	Tissue 499 504	colon
+T11	Protein 523 533	antibodies
+T13	TranscriptionFactor 609 630	transcription factors
+T14	Tissue 778 785	regions
+T15	Nucleus 888 895	nuclear
+T18	Cell 1062 1069	neurons
+T19	Eukaryote 1134 1139	human
+T21	Eukaryote 1231 1236	human
+T23	Eukaryote 1331 1336	human
+T28	Cell 147 159	enteric glia
+T30	Cell 161 164	EGC
+T35	Tissue 361 364	ENS
+T36	Cell 381 384	EGC
+T37	Eukaryote 388 391	man
+T7	Eukaryote 396 406	guinea pig
+T33	Protein 310 323	glial markers
+T38	Tissue 440 462	enteric nerve plexuses
+T9	Eukaryote 478 488	guinea pig
+T39	Tissue 489 494	ileum
+T41	Protein 542 547	S100b
+T12	Protein 549 580	glial fibrillary acidic protein
+T42	Protein 582 586	GFAP
+T43	Protein 593 600	p75NGFR
+T44	HMGTF 631 640	Sox8/9/10
+T45	Cell 645 655	neuronally
+T46	Protein 707 712	S100b
+T47	Protein 714 718	GFAP
+T48	Protein 720 727	p75NGFR
+T49	HMGTF 733 742	Sox8/9/10
+T50	Cell 759 762	EGC
+T51	CellComponent 800 813	cytoplasmatic
+T52	Protein 839 846	markers
+T53	Cell 862 867	glial
+T54	HMGTF 912 921	Sox8/9/10
+T55	Cell 959 962	EGC
+T17	Eukaryote 985 988	man
+T56	Eukaryote 993 1003	guinea pig
+T57	Tissue 1005 1022	myenteric ganglia
+T58	Cell 1054 1057	EGC
+T59	Tissue 1075 1092	submucous ganglia
+T60	Cell 1123 1126	EGC
+T20	Eukaryote 1152 1162	guinea pig
+T61	Tissue 1163 1179	myenteric plexus
+T62	Tissue 1181 1183	MP
+T63	Cell 1186 1191	glial
+T64	Tissue 1237 1240	ENS
+T65	Cell 1250 1254	glia
+T22	Cell 1262 1266	glia
+T66	Cell 1267 1273	neuron
+T67	Tissue 1337 1353	submucous plexus
+T68	Tissue 1355 1358	SMP
+T69	Tissue 1364 1366	MP
+T24	Eukaryote 1394 1404	guinea pig
+T70	Cell 1410 1414	glia
+T71	Tissue 1440 1443	SMP
+T72	Tissue 1459 1461	MP
+T73	Cell 1586 1589	EGC
+T74	Cell 1467 1471	glia
+T75	Eukaryote 1602 1605	man
+T25	Eukaryote 1610 1620	guinea pig
+T77	Cell 1674 1679	glial
+T27	Tissue 1721 1733	diseased gut
+T1	Cell 27 38	glial cells
+T3	Eukaryote 56 66	guinea pig
+T79	Tissue 67 89	enteric nervous system
+T80	Protein 98 121	anti-Sox8/9/10 antibody
+T81	ExperimentalMethod 0 23	Quantitative assessment
+T31	Cell 250 253	EGC

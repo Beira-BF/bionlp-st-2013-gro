@@ -1,0 +1,49 @@
+T1	Eukaryote 20 25	human
+T3	ProteinComplex 26 39	NF-E2 complex
+T4	DNA 41 45	cDNA
+T6	ProteinSubunit 89 96	subunit
+T8	Eukaryote 141 146	human
+T13	ProteinComplex 192 197	NF-E2
+T15	ExperimentalMethod 215 242	DNA affinity chromatography
+T16	Tissue 248 254	tissue
+T17	ProteinSubunit 275 284	p45 NF-E2
+T19	Eukaryote 344 350	murine
+T20	ProteinSubunit 351 360	p45 NF-E2
+T22	DNA 361 365	cDNA
+T23	Eukaryote 488 493	human
+T26	Gene 494 508	p45 NF-E2 gene
+T28	Chromosome 526 542	chromosome 12q13
+T29	ExperimentalMethod 546 579	fluorescent in situ hybridization
+T30	Eukaryote 581 586	Human
+T31	ProteinSubunit 587 596	p45 NF-E2
+T33	Eukaryote 601 607	murine
+T34	ProteinSubunit 608 617	p45 NF-E2
+T38	DNABindingDomainOfProtein 699 718	DNA-binding domains
+T39	ProteinSubunit 770 779	p45 NF-E2
+T42	ProteinSubunit 826 829	p18
+T45	DNA 859 862	DNA
+T46	ProteinComplex 895 900	NF-E2
+T48	ProteinSubunit 934 948	18-kDa subunit
+T49	TranscriptionFactor 960 964	AP-1
+T50	TranscriptionFactor 969 973	CREB
+T51	ProteinComplex 990 995	NF-E2
+T53	ProteinSubunit 1053 1062	p45 NF-E2
+T55	Protein 1067 1075	proteins
+T56	ProteinSubunit 1145 1154	p45 NF-E2
+T59	Cell 1158 1173	erythroid cells
+T60	ExperimentalMethod 1175 1182	Cloning
+T61	Eukaryote 1186 1191	human
+T62	ProteinSubunit 1192 1201	p45 NF-E2
+T64	ProteinComplex 1239 1244	NF-E2
+T65	Gene 1248 1259	globin gene
+T67	Cell 1275 1284	erythroid
+T10	bZIPTF 668 683	(bZIP) proteins
+T11	ExperimentalMethod 720 751	Immunoprecipitation experiments
+T12	bHLHTF 840 853	bZIP proteins
+T18	ProteinSubunit 926 929;937 948	45- kDa subunit
+T21	ProteinSubunit 1087 1090	p18
+T24	ProteinSubunit 1098 1101	p18
+T2	Cell 61 79	hematopoietic cell
+T5	ExperimentalMethod 46 53	cloning
+T25	Protein 128 135	partner
+T9	ExperimentalMethod 309 338	low-stringency library screen

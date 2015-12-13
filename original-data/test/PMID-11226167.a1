@@ -1,0 +1,34 @@
+T8	Protein 194 202	proteins
+T9	TranscriptionRegulator 222 248	transcriptional regulators
+T12	ZincCoordinatingDomain 302 313	this domain
+T13	Eukaryote 341 346	human
+T20	Ion 566 570	zinc
+T29	Protein 884 892	proteins
+T30	Sequence 1013 1021	sequence
+T5	ZincCoordinatingDomain 152 155	PHD
+T6	Eukaryote 183 193	eukaryotic
+T17	ZincCoordinatingDomain 486 496	PHD domain
+T18	ZincCoordinatingDomain 526 536	PHD domain
+T32	TranscriptionCorepressor 542 547	KAP-1
+T21	ZincCoordinatingDomain 645 649	RING
+T22	MolecularStructure 605 629	anti-parallel ss-strands
+T33	ExperimentalMethod 697 716	mutational analysis
+T34	MolecularStructure 732 751	structural features
+T35	TranscriptionCorepressor 795 800	KAP-1
+T26	ZincCoordinatingDomain 863 874	PHD domains
+T28	ZincCoordinatingDomain 920 923	PHD
+T36	ZincCoordinatingDomain 959 963	RING
+T37	ZincCoordinatingDomain 968 971	LIM
+T38	MolecularStructure 924 933	structure
+T39	MolecularStructure 992 1002	structures
+T31	ZincCoordinatingDomain 1067 1070	PHD
+T40	ZincCoordinatingDomain 1072 1076	RING
+T41	ZincCoordinatingDomain 1081 1084	LIM
+T42	MolecularStructure 9 18	structure
+T1	ZincCoordinatingDomain 26 36	PHD domain
+T43	TranscriptionCorepressor 46 51	KAP-1
+T2	MolecularStructure 65 75	structural
+T3	ZincCoordinatingDomain 93 96	PHD
+T4	ZincCoordinatingDomain 98 102	RING
+T44	ZincCoordinatingDomain 107 110	LIM
+T45	MolecularStructure 453 463	structural

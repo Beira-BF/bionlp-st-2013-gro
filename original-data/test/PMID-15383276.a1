@@ -1,0 +1,26 @@
+T1	Protein 2 9	protein
+T7	Protein 196 204	proteins
+T14	Function 593 603	functional
+T15	Protein 637 645	proteins
+T23	Protein 802 809	protein
+T28	Tissue 1067 1073	brains
+T32	Function 216 224	function
+T8	BindingAssay 271 278;290 314	library yeast two-hybrid screens
+T9	BindingAssay 283 314	matrix yeast two-hybrid screens
+T11	Protein 428 432;445 453	bait proteins
+T35	Protein 440 453	prey proteins
+T13	BindingAssay 541 560	binding experiments
+T16	Protein 679 683	GIT1
+T17	Protein 757 767	huntingtin
+T18	CellComponent 815 834	membranous vesicles
+T19	ExperimentalMethod 836 858	Coimmunoprecipitations
+T36	ExperimentalMethod 863 889	immunofluorescence studies
+T37	Protein 904 908	GIT1
+T38	Protein 913 923	huntingtin
+T24	EukaryoticCell 937 952	mammalian cells
+T39	Protein 995 999	GIT1
+T40	CellComponent 1022 1032	inclusions
+T41	Cell 1013 1021	neuronal
+T44	Function 1112 1120	function
+T45	Protein 36 40	GIT1
+T4	Protein 57 67	huntingtin

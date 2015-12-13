@@ -1,0 +1,63 @@
+T3	ProteinSubunit 42 46	BRG1
+T4	OrganicChemical 74 82	androgen
+T10	OrganicChemical 168 176	Androgen
+T11	OrganicChemical 192 200	androgen
+T15	OrganicChemical 363 371	androgen
+T16	OrganicChemical 390 397	hormone
+T17	OrganicChemical 445 453	androgen
+T21	MolecularEntity 558 567	molecules
+T23	Cell 617 621	cell
+T25	OrganicChemical 640 648	androgen
+T27	Protein 699 701	AR
+T29	OrganicChemical 744 752	androgen
+T31	OrganicChemical 884 892	androgen
+T39	ProteinSubunit 1035 1039	BRG1
+T46	OrganicChemical 1174 1182	Androgen
+T48	ProteinSubunit 1232 1236	BRG1
+T53	Protein 1317 1319	AR
+T54	ProteinSubunit 1339 1343	BRG1
+T60	Protein 1448 1450	AR
+T62	Promoter 1510 1518	promoter
+T64	ProteinSubunit 1549 1553	BRG1
+T65	Enzyme 1578 1582	p300
+T66	Promoter 1596 1604	promoter
+T67	ProteinSubunit 1666 1670	BRG1
+T72	Enzyme 1735 1739	p300
+T76	OrganicChemical 1772 1780	androgen
+T80	Protein 1879 1881	AR
+T83	OrganicChemical 1985 1993	androgen
+T88	Cell 2052 2057	cells
+T89	Antagonist 177 188	antagonists
+T12	Tissue 273 281	prostate
+T92	Antagonist 454 465	antagonists
+T93	Tissue 474 482	prostate
+T94	Tissue 601 609	prostate
+T95	Antagonist 649 660	antagonists
+T26	Antagonist 753 764	antagonists
+T30	Protein 795 805	prohibitin
+T96	Protein 828 838	prohibitin
+T97	MolecularStructure 862 874	structurally
+T98	Antagonist 893 904	antagonists
+T100	Gene 940 950	prohibitin
+T34	Gene 982 1001	AR-responsive genes
+T36	ProteinSubunit 1088 1091	BRM
+T37	Protein 1135 1145	prohibitin
+T38	Promoter 1149 1172	AR-responsive promoters
+T41	Antagonist 1183 1194	antagonists
+T43	Protein 1217 1227	prohibitin
+T44	Promoter 1251 1274	AR-responsive promoters
+T50	Protein 1324 1334	prohibitin
+T51	Protein 1364 1374	prohibitin
+T52	Promoter 1389 1412	AR-responsive promoters
+T56	Antagonist 1431 1441	antagonist
+T57	Protein 1452 1462	Prohibitin
+T58	Gene 1505 1508	PSA
+T101	Gene 1592 1595	PSA
+T102	Protein 1634 1644	prohibitin
+T70	Antagonist 1781 1791	antagonist
+T79	Protein 1939 1949	prohibitin
+T103	Antagonist 1994 2004	antagonist
+T104	Tissue 2036 2044	prostate
+T105	Protein 0 10	Prohibitin
+T2	Antagonist 83 93	antagonist
+T7	Gene 133 166	androgen receptor-regulated genes

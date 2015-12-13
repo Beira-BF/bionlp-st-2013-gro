@@ -1,0 +1,25 @@
+T1	ProteinIdentification 0 14	Identification
+T5	Sequence 145 153	sequence
+T6	TranscriptionFactor 163 184	transcription factors
+T7	ProteinComplex 190 199	complexes
+T10	Function 296 305	functions
+T12	ProteinComplex 358 386	chromatin remodeling complex
+T16	Eukaryote 510 516	murine
+T17	ProteinComplex 598 607	complexes
+T18	ProteinSubunit 624 632	subunits
+T19	Enzyme 651 658	ATPases
+T20	Enzyme 659 663	BRG1
+T23	Sequence 831 839	sequence
+T24	TranscriptionFactor 849 870	transcription factors
+T25	Cell 874 881	neurons
+T2	ProteinComplex 33 77	neuron-specific chromatin remodeling complex
+T3	ProteinComplex 92 122	chromatin remodeling complexes
+T4	EukaryoticCell 320 338	vertebrate neurons
+T11	ProteinComplex 388 392	bBAF
+T26	Protein 445 451	BAF53b
+T15	Cell 481 500	postmitotic neurons
+T27	Protein 545 551	BAF53b
+T28	Enzyme 668 671	BRM
+T21	ProteinComplex 691 705	bBAF complexes
+T29	Cell 713 721	neuronal
+T13	Protein 422 443	actin-related protein

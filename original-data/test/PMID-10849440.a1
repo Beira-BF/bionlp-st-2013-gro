@@ -1,0 +1,40 @@
+T7	TranscriptionCoactivator 147 158	coactivator
+T8	ProteinSubunit 159 166	subunit
+T9	TranscriptionFactorComplex 170 175	TFIID
+T13	ProteinComplex 232 241	NF-kappaB
+T19	ProteinComplex 439 448	NF-kappaB
+T23	ProteinDomain 550 557	domains
+T29	Protein 650 659	TNF-alpha
+T34	Protein 877 886	TNF-alpha
+T38	Gene 931 935	gene
+T41	Protein 1017 1026	TNF-alpha
+T42	Protein 1136 1148	IkappaBalpha
+T48	Protein 1316 1328	IkappaBalpha
+T50	ProteinComplex 1375 1384	NF-kappaB
+T51	TranscriptionCoactivator 1400 1411	coactivator
+T52	Gene 1447 1451	gene
+T54	ProteinSubunit 15 23	TAFII105
+T2	ProteinSubunit 38 46	p65/RelA
+T3	Gene 97 113	NF-kappa B genes
+T6	ProteinSubunit 115 125	TAF(II)105
+T16	Protein 270 303	tumor necrosis factor (TNF)-alpha
+T55	ProteinSubunit 360 370	TAF(II)105
+T56	Function 371 379	function
+T18	ProteinSubunit 414 422	p65/RelA
+T20	ProteinDomain 475 499	p65/RelA-binding domains
+T21	ProteinSubunit 525 535	TAF(II)105
+T22	ProteinSubunit 584 594	TAF(II)105
+T31	ProteinComplex 722 741	NF-kappaB complexes
+T32	ProteinSubunit 697 707	TAF(II)105
+T33	ProteinSubunit 826 834	p65/RelA
+T57	ProteinSubunit 798 808	TAF(II)105
+T58	ProteinSubunit 939 949	TAF(II)105
+T59	Protein 951 954	A20
+T61	MutantProtein 1200 1216	TAF(II)105DeltaC
+T44	Gene 1220 1245	NF-kappaB-dependent genes
+T11	Gene 208 228	anti-apoptotic genes
+T12	Gene 604 623	anti-apoptotic gene
+T25	Gene 1275 1295	anti-apoptotic genes
+T26	Gene 895 918	anti-apoptotic A20 gene
+T36	MutantProtein 1075 1095	mutant of TAF(II)105
+T37	MutantProtein 1097 1113	TAF(II)105DeltaC

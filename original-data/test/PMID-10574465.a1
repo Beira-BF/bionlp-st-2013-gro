@@ -1,0 +1,30 @@
+T1	Eukaryote 0 5	Human
+T3	Gene 28 32	gene
+T5	Gene 123 128	genes
+T11	Gene 314 318	gene
+T14	DNA 419 423	cDNA
+T15	Eukaryote 432 437	human
+T17	DNA 528 532	cDNA
+T18	OpenReadingFrame 554 572	open reading frame
+T19	DNA 590 594	cDNA
+T20	Eukaryote 649 654	Human
+T21	DNA 661 665	cDNA
+T23	Cell 133 141	neuronal
+T24	ExperimentalMethod 175 200	molecular indexing method
+T8	EukaryoticCell 242 249	NTera-2
+T9	DNAFragment 291 294	B18
+T25	Tissue 330 336	neural
+T13	DNA 372 376	cDNA
+T26	Sequence 377 385	sequence
+T27	DNAFragment 389 392	B18
+T16	Gene 438 448	SOX11 gene
+T28	HMGTF 522 527	SOX11
+T29	DNARegion 625 647	3' untranslated region
+T30	HMGTF 655 660	SOX11
+T22	Chromosome 698 704	2p25.3
+T31	DNARegion 721 731	AFMA070WC9
+T32	DNARegion 736 743	WI-1412
+T33	ExperimentalMethod 747 771	radiation hybrid mapping
+T34	Gene 6 11	SOX11
+T35	Tissue 44 50	neural
+T36	DNARegion 79 101	3' untranslated region

@@ -1,0 +1,38 @@
+T2	TranscriptionRegulator 27 52	transcriptional regulator
+T3	Heterochromatin 79 94	heterochromatin
+T4	Chromosome 117 139	acrocentric chromosome
+T5	Enzyme 181 189	helicase
+T6	Enzyme 190 197	ATPases
+T9	Chromatin 259 278	chromatin structure
+T15	Heterochromatin 510 541	pericentromeric heterochromatin
+T19	Eukaryote 620 625	mouse
+T20	Eukaryote 643 653	Drosophila
+T22	Protein 678 681	HP1
+T24	Protein 804 820	nuclear proteins
+T26	Heterochromatin 869 884	heterochromatin
+T27	Plant 949 954	plant
+T29	ProteinDomain 985 1003	coiled-coil domain
+T32	Heterochromatin 1041 1056	heterochromatin
+T35	Eukaryote 1111 1116	human
+T36	Chromosome 1117 1140	acrocentric chromosomes
+T40	TranscriptionRegulator 1230 1255	transcriptional regulator
+T41	DNA 1279 1282	DNA
+T42	Phenotype 1339 1348	phenotype
+T45	TranscriptionRegulator 54 58	ATRX
+T46	TranscriptionRegulator 142 146	ATRX
+T47	Enzyme 166 170	SNF2
+T48	Function 286 294	function
+T11	Gene 313 323	hATRX gene
+T50	ExperimentalMethod 407 458	indirect immunofluorescence and confocal microscopy
+T13	TranscriptionRegulator 478 490	ATRX protein
+T14	ExperimentalMethod 576 596	coimmunofluorescence
+T21	TranscriptionRegulator 598 602	ATRX
+T52	Protein 626 635	homologue
+T53	BindingAssay 718 735	two-hybrid screen
+T54	ExperimentalMethod 789 799	trap assay
+T55	TranscriptionRegulator 861 865	ATRX
+T56	ProteinDomain 903 920	N-terminal region
+T28	ProteinDomain 955 978	homeodomain-like finger
+T57	TranscriptionRegulator 1071 1075	ATRX
+T37	RibosomalDNA 1162 1175	ribosomal DNA
+T43	Gene 1393 1402	ATRX gene

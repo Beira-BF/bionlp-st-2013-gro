@@ -1,0 +1,35 @@
+T2	Eukaryote 14 19	human
+T3	Protein 58 69	oncoprotein
+T4	Eukaryote 71 76	human
+T10	Eukaryote 183 188	mouse
+T11	Eukaryote 199 209	Drosophila
+T12	Eukaryote 211 216	yeast
+T16	DNA 337 348	cDNA clones
+T17	Eukaryote 381 386	human
+T18	Eukaryote 406 411	human
+T19	Tissue 412 423	fetal liver
+T20	Eukaryote 428 433	human
+T21	Tissue 434 440	thymus
+T22	DNA 441 455	cDNA libraries
+T23	AminoAcid 466 476	amino acid
+T24	Eukaryote 506 511	human
+T25	Eukaryote 516 521	mouse
+T26	Protein 522 534	DRG proteins
+T27	Eukaryote 547 552	human
+T28	Eukaryote 660 665	human
+T29	PrimaryStructure 700 728	primary amino acid structure
+T31	Eukaryote 748 753	human
+T32	Eukaryote 772 777	mouse
+T33	Protein 33 36	DRG
+T34	Protein 120 123	DRG
+T9	Protein 778 781	DRG
+T35	Protein 666 669	DRG
+T36	Protein 553 556	DRG
+T30	Eukaryote 190 197	Xenopus
+T37	Microorganism 221 233	Halobacteria
+T5	Protein 0 3	SCL
+T6	Protein 255 258	SCL
+T7	BindingAssay 286 307	yeast 2-hybrid system
+T8	Protein 387 400	DRG homologue
+T13	Protein 158 168	homologues
+T14	Protein 754 763	homologue

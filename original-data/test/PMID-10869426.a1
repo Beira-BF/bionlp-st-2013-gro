@@ -1,0 +1,32 @@
+T1	Protein 0 3	pRB
+T9	Protein 134 137	pRB
+T11	Gene 184 189	genes
+T14	Protein 248 251	pRB
+T16	TranscriptionFactor 277 298	transcription factors
+T21	Protein 398 401	pRB
+T22	Protein 411 415	p107
+T23	Protein 420 424	p130
+T30	Cell 545 553	cellular
+T31	Protein 564 567	E1A
+T33	ProteinDomain 598 614	distinct regions
+T35	Protein 655 658	pRB
+T41	Protein 794 797	pRB
+T48	Protein 902 905	pRB
+T49	Protein 929 932	pRB
+T58	Protein 1099 1102	pRB
+T59	Cell 1120 1131	fibroblasts
+T61	TranscriptionFactor 98 105	p120E4F
+T4	TranscriptionRepressorActivity 31 55	transrepressing activity
+T24	TranscriptionFactor 465 474	p120(E4F)
+T27	Protein 501 528	GLI-Kruppel-related protein
+T32	TranscriptionFactor 618 627	p120(E4F)
+T34	ProteinDomain 636 651	C-terminal part
+T36	ProteinComplex 668 691	pRB-p120(E4F) complexes
+T38	Cell 716 737	growth-arrested cells
+T39	Promoter 816 839	E4F-responsive promoter
+T43	TranscriptionFactor 888 897	p120(E4F)
+T45	TranscriptionFactor 958 967	p120(E4F)
+T50	TranscriptionFactor 1005 1014	p120(E4F)
+T51	EukaryoticCell 1050 1067	mouse fibroblasts
+T56	TranscriptionFactor 1175 1184	p120(E4F)
+T5	Function 327 335	activity

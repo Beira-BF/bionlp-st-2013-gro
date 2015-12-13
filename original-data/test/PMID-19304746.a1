@@ -1,0 +1,41 @@
+T1	DNA 24 27	DNA
+T5	Eukaryote 62 67	human
+T12	CellComponent 200 213	mitochondrial
+T13	TranscriptionFactorComplex 214 235	transcription complex
+T14	Eukaryote 237 242	Human
+T17	CellComponent 344 357	mitochondrial
+T18	DNA 358 364	genome
+T19	Promoter 384 393	promoters
+T21	CellComponent 440 453	mitochondrial
+T22	DNA 543 546	DNA
+T27	HMG 643 652	HMG boxes
+T32	DNA 810 813	DNA
+T37	HMG 996 1003	HMG box
+T39	DNA 1135 1138	DNA
+T42	TranscriptionFactorComplex 1213 1234	transcription complex
+T8	HMGTF 148 153	mtTFA
+T9	HMGTF 250 257	h-mtTFA
+T15	HMGTF 294 298	HMGB
+T44	TranscriptionFactor 413 421	h-mtTFB1
+T45	TranscriptionFactor 423 431	h-mtTFB2
+T46	RNAPolymerase 454 468	RNA polymerase
+T47	HMGTF 491 498	h-mtTFA
+T24	ComplexOfProteinAndDNA 581 588	complex
+T25	Peptide 661 676	C-terminal tail
+T23	Promoter 620 629	(LSP) DNA
+T26	Promoter 725 732	LSP DNA
+T29	Peptide 749 764	C-terminal tail
+T35	HMG 827 832	box A
+T50	HMG 842 847	box B
+T51	Promoter 879 886	LSP DNA
+T36	ThreeDimensionalMolecularStructure 892 915	X-ray crystal structure
+T52	HMGTF 919 926	h-mtTFA
+T53	HMG 927 932	box B
+T54	HMG 1021 1026	box B
+T55	Peptide 1038 1045	regions
+T56	HMGTF 1049 1056	h-mtTFA
+T57	HMG 1161 1166	box B
+T41	HMG 1203 1209	domain
+T58	MolecularStructure 0 10	Structural
+T3	HMGTF 68 104	mitochondrial transcription factor A
+T4	HMG 43 54	HMG domains

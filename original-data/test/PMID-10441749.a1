@@ -1,0 +1,9 @@
+T2	Eukaryote 57 62	human
+T3	Gene 99 114	SOX gene family
+T4	ExperimentalMethod 18 53	high-resolution chromosomal mapping
+T5	HMGTF 63 68	SOX14
+T6	HMGTF 73 78	SOX21
+T7	HMGTF 126 130	SOX1
+T8	HMGTF 132 136	SOX2
+T9	HMGTF 142 146	SOX3
+T1	ExperimentalMethod 4 13	isolation

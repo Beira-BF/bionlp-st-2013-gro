@@ -1,0 +1,38 @@
+T2	TranscriptionFactor 19 24	c-MYC
+T4	OxidativeStress 33 49	Oxidative Stress
+T7	TranscriptionFactor 108 113	c-MYC
+T8	TranscriptionFactor 128 149	transcription factors
+T14	TranscriptionFactor 369 374	c-MYC
+T21	TranscriptionFactor 542 546	AP-2
+T22	TranscriptionFactor 563 567	AP-2
+T23	TranscriptionFactor 571 576	c-MYC
+T25	TranscriptionFactor 615 619	AP-2
+T26	TranscriptionFactor 624 629	c-MYC
+T28	Protein 664 671	protein
+T31	TranscriptionFactor 737 741	AP-2
+T33	Gene 789 794	c-MYC
+T34	MessengerRNA 795 799	mRNA
+T35	Protein 804 811	protein
+T36	TranscriptionFactor 843 847	AP-2
+T48	TranscriptionFactor 1114 1118	AP-2
+T49	TranscriptionFactor 1122 1127	c-MYC
+T56	TranscriptionFactor 1216 1220	AP-2
+T57	TranscriptionFactor 1224 1229	c-MYC
+T63	Tissue 1391 1395	skin
+T64	TranscriptionFactor 94 103	AP-2alpha
+T65	Function 225 235	capacities
+T15	Chemical 436 439	ROS
+T18	EukaryoticCell 458 477	human keratinocytes
+T29	Gene 880 890	c-myc gene
+T37	ExperimentalMethod 892 928	Chromatin immunoprecipitation assays
+T38	TranscriptionFactor 947 960	AP-2 proteins
+T39	TranscriptionFactorBindingSiteOfDNA 983 1001	AP-2 binding sites
+T40	UpstreamRegulatorySequence 1024 1050	upstream regulatory region
+T41	Gene 1054 1059	c-myc
+T44	TranscriptionFactor 1169 1181	AP-2 protein
+T45	Gene 1189 1199	c-myc gene
+T46	Chemical 1238 1241	ROS
+T50	Tissue 1272 1281	epidermal
+T52	Cell 1282 1295	keratinocytes
+T54	TranscriptionFactor 0 9	AP-2alpha
+T6	EukaryoticCell 67 72	HaCaT

@@ -1,0 +1,43 @@
+T5	Protein 88 93	c-Jun
+T9	Protein 137 142	c-Jun
+T17	Gene 339 360	tumor suppressor gene
+T19	Eukaryote 383 388	human
+T20	Tissue 389 393	lung
+T23	Protein 475 482	protein
+T25	Nucleus 509 516	nuclear
+T31	Protein 621 626	c-Jun
+T34	Protein 745 750	c-Jun
+T35	Function 751 759	activity
+T37	Protein 804 809	c-Jun
+T40	Protein 869 874	c-Jun
+T42	Protein 925 930	c-Jun
+T45	CatalyticActivity 1010 1018	activity
+T47	Protein 1070 1075	c-Jun
+T50	Protein 1114 1119	c-Jun
+T59	Protein 1225 1230	c-Jun
+T61	Protein 1330 1335	c-Jun
+T62	Function 1336 1344	activity
+T1	Protein 0 33	Transformation suppressor protein
+T63	Protein 34 39	Pdcd4
+T64	Enzyme 56 59	JNK
+T7	TranscriptionCoactivator 117 133	coactivator p300
+T8	Gene 148 178	transformation suppressor gene
+T10	Gene 179 184	Pdcd4
+T11	Gene 186 214	programmed cell death gene 4
+T12	Chemical 229 243	tumor-promoter
+T16	EukaryoticCell 271 290	mouse keratinocytes
+T22	Protein 446 459	Pdcd4 protein
+T65	Protein 552 557	Pdcd4
+T28	Promoter 592 617	AP-1 responsive promoters
+T32	Protein 686 691	Pdcd4
+T66	Protein 789 794	Pdcd4
+T67	Protein 824 829	Pdcd4
+T68	Enzyme 878 899	Jun N-terminal kinase
+T69	Enzyme 901 904	JNK
+T70	Protein 950 955	Pdcd4
+T71	Enzyme 1006 1009	JNK
+T72	Protein 1049 1054	Pdcd4
+T51	Protein 1146 1151	c-Jun
+T53	Protein 1169 1174	Pdcd4
+T57	TranscriptionCoactivator 1205 1221	coactivator p300
+T58	Protein 1282 1287	Pdcd4

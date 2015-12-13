@@ -1,0 +1,81 @@
+T14	Protein 287 295	proteins
+T15	Cell 299 303	HeLa
+T16	Nucleus 304 320	nuclear extracts
+T18	ProteinDomain 338 355	activation domain
+T23	ProteinDomain 439 456	activation domain
+T28	DNA 554 557	DNA
+T31	Cell 613 617	HeLa
+T32	Nucleus 618 634	nuclear extracts
+T33	ProteinDomain 658 675	activation domain
+T34	ProteinSubunit 706 713	subunit
+T36	FusionProtein 755 769	fusion protein
+T39	Cell 971 975	cell
+T41	Cell 1125 1129	HeLa
+T42	Nucleus 1130 1146	nuclear extracts
+T44	TranscriptionFactor 1270 1273	E2F
+T45	AminoAcid 1274 1279	sites
+T47	ExperimentalMethod 1344 1358	chromatography
+T50	Function 1436 1446	functional
+T52	Cell 1490 1495	cells
+T59	TranscriptionFactor 1654 1674	transcription factor
+T60	ProteinDomain 1690 1707	activation domain
+T64	Protein 1799 1821	retinoblastoma protein
+T65	Protein 1823 1825	Rb
+T74	DNA 2019 2022	DNA
+T76	Function 2031 2039	function
+T81	DNA 2144 2147	DNA
+T85	DNA 2244 2247	DNA
+T92	DNA 2346 2349	DNA
+T93	TranscriptionFactor 112 116	E2F1
+T8	Gene 179 200	DNA replication genes
+T9	TranscriptionFactor 267 271	E2F1
+T10	TranscriptionActivatorActivity 228 263	transcriptional activation function
+T11	TranscriptionFactor 359 363	E2F1
+T12	Protein 383 386	DDB
+T13	Protein 399 417	DNA repair protein
+T19	TranscriptionFactor 460 464	E2F1
+T20	Protein 466 469	DDB
+T24	Protein 490 511	heterodimeric protein
+T25	Function 599 607	activity
+T29	DNA 587 590	DNA
+T94	TranscriptionFactor 679 683	E2F1
+T95	Protein 717 720	DDB
+T37	TranscriptionFactor 773 777	E2F1
+T96	ProteinDomain 795 823	C-terminal activation domain
+T97	Protein 849 852	DDB
+T98	TranscriptionFactor 857 861	E2F1
+T99	ExperimentalMethod 886 919	coimmunoprecipitation experiments
+T101	Protein 962 965	DDB
+T102	ExperimentalMethod 921 940	Immunoprecipitation
+T103	TranscriptionFactor 1020 1024	E2F1
+T104	TranscriptionFactor 1076 1080	E2F1
+T105	Protein 1103 1106	DDB
+T106	TranscriptionFactor 1210 1214	E2F1
+T107	Protein 1219 1222	DDB
+T108	ExperimentalMethod 1190 1206	elution profiles
+T109	Protein 1238 1241	DDB
+T43	TranscriptionFactor 1332 1336	E2F1
+T46	DNA 1370 1386	E2F-specific DNA
+T48	Protein 1467 1470	DDB
+T49	TranscriptionFactor 1475 1479	E2F1
+T110	Protein 1525 1528	DDB
+T111	TranscriptionFactor 1553 1557	E2F1
+T56	TranscriptionActivatorActivity 1600 1635	transcriptional activation function
+T57	TranscriptionFactor 1711 1715	E2F1
+T58	Protein 1750 1753	DDB
+T112	Protein 1765 1768	DDB
+T113	TranscriptionFactor 1850 1854	E2F1
+T69	Protein 1910 1937	damaged-DNA binding protein
+T70	TranscriptionCoactivator 1956 1979	transcriptional partner
+T71	TranscriptionFactor 1983 1987	E2F1
+T73	Protein 2043 2046	DDB
+T78	TranscriptionRepressor 2081 2099	negative regulator
+T115	TranscriptionFactor 2103 2107	E2F1
+T117	Protein 2163 2166	DDB
+T82	TranscriptionFactor 2195 2199	E2F1
+T118	Protein 2229 2232	DDB
+T87	Gene 2288 2305	replication genes
+T89	Protein 0 3	DDB
+T1	Protein 16 34	DNA repair protein
+T2	TranscriptionFactor 81 85	E2F1
+T3	TranscriptionCofactor 54 77	transcriptional partner

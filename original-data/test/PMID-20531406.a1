@@ -1,0 +1,17 @@
+T14	Gene 420 425	genes
+T16	TranscriptionFactor 453 474	transcription factors
+T18	Protein 525 533	proteins
+T21	DNA 558 561	DNA
+T26	Eukaryote 711 716	human
+T27	Cell 717 721	cell
+T28	Phenotype 722 732	phenotypes
+T29	Tissue 807 814	tissues
+T7	Posttranslational 145 163	post-translational
+T9	Cell 197 204	B cells
+T5	TranscriptionFactor 305 308	MYB
+T10	TranscriptionFactor 313 318	FOXM1
+T31	Tissue 397 399	GC
+T32	Tissue 496 498	GC
+T2	TranscriptionFactor 38 41	MYB
+T33	TranscriptionFactor 46 51	FOXM1
+T34	Tissue 93 109	germinal centers

@@ -1,0 +1,35 @@
+T1	Function 0 8	Function
+T2	ProteinComplex 31 38	complex
+T3	TBP 47 50	TBP
+T5	RNAPolymeraseII 71 88	RNA polymerase II
+T8	Gene 123 127	gene
+T9	RNAPolymerase_II_Promoter 140 155	promoter region
+T10	RNAPolymeraseII 159 176	RNA polymerase II
+T17	Sequence 333 341	sequence
+T21	TBP 427 447	TATA-binding protein
+T22	TBP 449 452	TBP
+T23	Protein 458 480	TBP-associated factors
+T24	Promoter 510 519	promoters
+T25	ProteinComplex 573 580	complex
+T26	TBP 610 613	TBP
+T28	Protein 681 689	proteins
+T29	ProteinComplex 691 703	This complex
+T30	TranscriptionFactorComplex 716 721	TFIID
+T32	Promoter 763 772	promoters
+T37	TBP 852 855	TBP
+T38	TranscriptionFactorComplex 861 866	TFIID
+T42	ProteinComplex 929 936	complex
+T43	TBP 966 969	TBP
+T44	RNAPolymeraseII 975 992	RNA polymerase II
+T11	TranscriptionInitiationComplex 239 260	preinitiation complex
+T13	TranscriptionFactorComplex 366 400	TFIID transcription factor complex
+T14	Protein 482 490	TAF(II)s
+T15	TranscriptionFactor 619 634	TBP-like factor
+T16	Protein 662 670	TAF(II)s
+T19	TATAbox 730 734	TATA
+T20	TATAbox 750 754	TATA
+T27	ExperimentalMethod 776 805	in vitro transcription assays
+T33	Protein 820 837	anti-TBP antibody
+T39	EukaryoticCell 1040 1055	mammalian cells
+T40	TranscriptionInitiationComplex 1074 1097	preinitiation complexes
+T45	Protein 12 19	TAF(II)

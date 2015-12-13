@@ -1,0 +1,27 @@
+T1	DNA 9 12	DNA
+T5	ZincCoordinatingDomain 83 95	zinc fingers
+T8	DNA 140 143	DNA
+T12	Locus 186 190	loci
+T16	Enhancer 253 261	enhancer
+T19	DNA 306 312	genome
+T23	Locus 427 431	loci
+T30	DNA 892 895	DNA
+T13	ZincCoordinatingDomainTF 216 220	CTCF
+T18	Locus 389 403	Igf2/H19 locus
+T38	ZincCoordinatingDomainTF 468 472	CTCF
+T39	Chromatin 524 533	chromatin
+T40	ZincCoordinatingDomainTF 544 548	CTCF
+T41	ZincCoordinatingDomain 556 568	zinc fingers
+T26	DNA 673 676	DNA
+T27	Sequence 677 685	sequence
+T42	ProteinBindingSiteOfDNA 701 711	CTCF sites
+T44	ZincCoordinatingDomain 736 743	fingers
+T46	Orientation 793 804	orientation
+T47	ZincCoordinatingDomain 868 874	finger
+T48	ZincCoordinatingDomainTF 945 949	CTCF
+T34	CpGIsland 963 966	CpG
+T49	Nucleotide 967 975	residues
+T35	Locus 1008 1022	Igf2/H19 locus
+T53	ZincCoordinatingDomainTF 1117 1121	CTCF
+T3	ZincCoordinatingDomainTF 59 63	CTCF
+T4	ZincCoordinatingDomain 133 139	finger

@@ -1,0 +1,42 @@
+T4	TranscriptionActivator 96 99	Sp1
+T8	Tissue 203 209	tissue
+T10	Eukaryote 310 315	human
+T11	Promoter 325 333	promoter
+T15	Promoter 511 519	promoter
+T16	Sequence 520 529	sequences
+T17	MutantRegulatoryDNARegion 534 541	mutants
+T18	FusionOfGeneWithReporterGene 550 555	fused
+T19	ReporterGene 561 574	reporter gene
+T22	TranscriptionActivator 646 649	Sp1
+T25	TranscriptionActivator 757 766	activator
+T27	Promoter 804 812	promoter
+T28	ReporterGene 878 891	reporter gene
+T32	TranscriptionActivator 990 993	Sp1
+T35	TranscriptionActivator 1103 1106	Sp1
+T39	ProteinSubunit 1158 1169	hTAF(II)130
+T5	Protein 101 109	Vimentin
+T9	Cell 280 291	tumor cells
+T44	Gene 316 324	vimentin
+T45	RegulatoryDNARegion 360 377	multiple elements
+T13	PositiveTranscriptionRegulator 402 411;425 450	positive- acting regulatory factors
+T46	NegativeTranscriptionRegulator 416 450	negative-acting regulatory factors
+T47	Gene 495 503	vimentin
+T48	RegulatoryDNARegion 618 634	positive element
+T49	RegulatoryDNARegion 656 672	negative element
+T20	ZincCoordinatingDomainTF 696 702	ZBP-89
+T24	ZincCoordinatingDomainTF 704 710	ZBP-89
+T50	TranscriptionRepressor 741 750	repressor
+T51	Gene 837 845	vimentin
+T52	ZincCoordinatingDomainTF 852 858	ZBP-89
+T53	ZincCoordinatingDomainTF 863 869	ZBP-99
+T30	Cell 916 926	(S2) cells
+T55	AminoAcid 965 974	glutamine
+T57	Gene 1017 1025	vimentin
+T58	Peptide 980 986	region
+T59	Peptide 1053 1063	N-terminus
+T60	ZincCoordinatingDomainTF 1067 1073	ZBP-89
+T40	ZincCoordinatingDomainTF 1184 1190	ZBP-89
+T63	Cell 1205 1213	S2 cells
+T64	ZincCoordinatingDomainTF 1230 1236	ZBP-89
+T65	ZincCoordinatingDomainTF 0 6	ZBP-89
+T67	Gene 17 30	vimentin gene

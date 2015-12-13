@@ -1,0 +1,40 @@
+T1	Eukaryote 0 5	Human
+T4	DNA 42 45	DNA
+T7	TranscriptionFactor 77 80	E2F
+T10	TranscriptionFactor 128 132	E2Fs
+T12	DNA 182 185	DNA
+T16	ProteinIdentification 266 280	identification
+T17	Eukaryote 315 320	human
+T18	Sequence 355 363	sequence
+T20	TranscriptionFactor 477 489	E2F proteins
+T26	TranscriptionFactor 634 637	E2F
+T35	DNABindingDomainOfProtein 911 929	DNA binding domain
+T36	DNA 981 984	DNA
+T38	TranscriptionFactor 1004 1007	E2F
+T41	TranscriptionFactor 1049 1052	E2F
+T44	AminoAcid 1125 1136	amino acids
+T46	Function 1181 1191	functional
+T50	TranscriptionFactor 1338 1341	E2F
+T8	Protein 109 114	TFDP1
+T52	Protein 109 113;120 121	TFDP 2
+T54	Protein 321 326	TFDP3
+T55	Protein 376 381	TFDP3
+T56	Protein 410 415	TFDP1
+T57	Function 419 427	function
+T58	Protein 438 443	TFDP3
+T60	Protein 611 616	TFDP1
+T61	Protein 618 623	TFDP3
+T63	Protein 745 750	TFDP3
+T65	Protein 849 854	TFDP1
+T34	ExperimentalMethod 861 891	Sequence substitution analysis
+T66	Protein 933 938	TFDP3
+T67	Protein 1008 1013	TFDP3
+T69	ExperimentalMethod 1090 1102	Fine mapping
+T45	DNABindingDomainOfProtein 1145 1151	region
+T70	Protein 1222 1227	TFDP1
+T71	Protein 1246 1251	TFDP3
+T49	Protein 1297 1307	DP protein
+T72	Protein 6 11	TFDP3
+T2	TranscriptionFactorBindingSiteOfDNA 546 568	E2F consensus sequence
+T23	ProteinIdentification 1282 1290	identify
+T24	Function 1342 1350	function

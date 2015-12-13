@@ -1,0 +1,30 @@
+T3	Eukaryote 81 91	Drosophila
+T4	Eukaryote 147 157	Drosophila
+T6	Function 211 219	function
+T13	Eukaryote 341 346	human
+T17	ProteinDomain 393 412	interaction domains
+T19	Gene 475 479	gene
+T24	Gene 623 628	genes
+T26	Tissue 687 693	tissue
+T12	TranscriptionFactor 31 40	Vestigial
+T28	TranscriptionFactor 45 54	Scalloped
+T30	TranscriptionFactor 104 106	Sd
+T31	TranscriptionFactor 123 125	Vg
+T32	TranscriptionFactor 189 191	Sd
+T33	TranscriptionFactor 208 210	Vg
+T8	TranscriptionFactor 304 306	Vg
+T34	TranscriptionFactor 330 332	Sd
+T14	TranscriptionFactor 356 387	Transcription Enhancer Factor-1
+T15	TranscriptionFactor 438 440	Vg
+T16	TranscriptionFactor 463 465	Vg
+T35	TranscriptionFactor 527 529	Sd
+T36	ProteinDomain 502 523	carboxy-terminal half
+T37	TranscriptionFactor 562 564	Vg
+T38	TranscriptionFactor 569 571	Sd
+T21	TranscriptionFactor 679 681	Vg
+T27	TranscriptionCofactor 703 738	transcriptional intermediary factor
+T39	TranscriptionFactor 742 744	Sd
+T40	Tissue 63 67	wing
+T41	Tissue 158 162	wing
+T42	Tissue 278 282	wing
+T43	Tissue 642 646	wing

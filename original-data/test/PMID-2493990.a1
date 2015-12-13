@@ -1,0 +1,27 @@
+T5	Gene 44 58	immunoglobulin
+T6	Enhancer 59 67	enhancer
+T8	Protein 91 95	MyoD
+T11	DNA 119 124	cDNAs
+T12	Protein 155 163	products
+T16	Enhancer 253 261	enhancer
+T17	DNA 268 273	cDNAs
+T18	Eukaryote 318 328	Drosophila
+T22	Gene 406 410	MyoD
+T23	Eukaryote 431 441	Drosophila
+T24	Gene 460 465	twist
+T26	MolecularStructure 545 552	helices
+T27	AminoAcid 643 651	residues
+T28	MolecularStructure 668 675	helices
+T29	ProteinDomain 706 711	motif
+T31	DNA 758 761	DNA
+T14	DNARegion 201 209	kappa E2
+T15	Gene 226 252	immunoglobulin kappa chain
+T19	Gene 329 346	daughterless gene
+T34	DNARegion 375 382	segment
+T20	Gene 442 455	achaete-scute
+T21	Peptide 494 501	regions
+T25	DNARegion 282 288	region
+T35	MolecularStructure 581 585	loop
+T1	DNABindingDomainOfProtein 35 40;6 17	motif DNA binding
+T2	Protein 77 89	daughterless
+T9	Protein 101 113	myc proteins

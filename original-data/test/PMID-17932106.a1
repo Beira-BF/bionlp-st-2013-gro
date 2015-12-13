@@ -1,0 +1,39 @@
+T1	Protein 0 3	CBP
+T2	TranscriptionFactor 39 60	nuclear factor-kappaB
+T6	NuclearReceptor 122 124	ER
+T9	TranscriptionFactor 227 247	transcription factor
+T10	TranscriptionFactor 248 269	nuclear factor-kappaB
+T11	TranscriptionFactor 271 279	NFkappaB
+T19	Protein 355 358	CBP
+T22	NuclearReceptor 459 461	ER
+T23	TranscriptionFactor 466 474	NFkappaB
+T24	TranscriptionCofactor 492 500	cofactor
+T27	NuclearReceptor 604 606	ER
+T32	Gene 707 711	IL-8
+T33	Promoter 712 721	promoters
+T34	Protein 736 739	CBP
+T37	NuclearReceptor 805 807	ER
+T39	TranscriptionRegulator 837 849	coregulators
+T40	Gene 890 894	gene
+T41	Protein 913 916	CBP
+T42	Lipid 949 956	steroid
+T45	Protein 1039 1042	CBP
+T49	Gene 1103 1107	IL-8
+T51	Protein 1176 1179	CBP
+T52	Gene 1214 1218	gene
+T54	NuclearReceptor 1259 1261	ER
+T12	Protein 293 353	cAMP response element-binding protein (CREB)-binding protein
+T13	MolecularStructure 439 447	scaffold
+T15	TranscriptionFactor 546 568	transcriptional factor
+T16	ProteinBindingSiteOfDNA 627 652	NFkappaB response element
+T17	Gene 660 665	MCP-1
+T18	Gene 667 701	monocyte chemoattractant protein-1
+T28	Protein 749 752	p65
+T29	Cell 761 790	MCF-7 breast cancer cell line
+T30	Protein 818 821	p65
+T31	Gene 859 863	IL-6
+T35	Promoter 864 872	promoter
+T50	OrganicChemical 1060 1068	estrogen
+T59	Gene 1093 1098	MCP-1
+T53	TranscriptionFactor 1267 1275	NFkappaB
+T4	NuclearReceptor 80 97	estrogen receptor

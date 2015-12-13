@@ -1,0 +1,61 @@
+T1	TranscriptionFactor 4 24	transcription factor
+T4	Function 67 75	function
+T6	Tissue 105 122	Pancreatic islets
+T7	Eukaryote 136 140	mice
+T9	TranscriptionFactor 153 173	transcription factor
+T12	Cell 285 293	cellular
+T16	TranscriptionFactor 488 509	transcription factors
+T24	Eukaryote 701 705	mice
+T33	Eukaryote 1028 1032	mice
+T45	LivingEntity 1363 1370	embryos
+T62	Eukaryote 1732 1737	human
+T63	RegulatoryDNARegion 1763 1783	regulatory sequences
+T64	Promoter 1824 1832	promoter
+T67	Function 1925 1933	function
+T71	Promoter 1983 1991	promoter
+T73	TranscriptionFactor 174 178	Rfx3
+T11	Cell 209 237	insulin-producing beta-cells
+T74	ExperimentalMethod 347 373	Immunofluorescence studies
+T75	ExperimentalMethod 378 397	quantitative RT-PCR
+T14	Cell 446 468	insulin-positive cells
+T18	Cell 547 557	beta-cells
+T19	Cell 563 584	endocrine progenitors
+T21	Protein 608 632	mature beta-cell markers
+T26	Cell 817 832	Min6 beta-cells
+T78	TranscriptionFactor 798 802	Rfx3
+T79	ExperimentalMethod 878 882	ChIP
+T28	ExperimentalMethod 885 900	ChIP sequencing
+T80	ExperimentalMethod 906 915	bandshift
+T29	Gene 950 967	Rfx3 target genes
+T32	Cell 992 1014	insulin-positive cells
+T35	Cell 1064 1085	endocrine progenitors
+T82	Cell 1089 1101	beta-lineage
+T37	Cell 1151 1188	insulin-positive beta-cell precursors
+T39	Peptide 1233 1240	insulin
+T83	Protein 1242 1248	Glut-2
+T84	Enzyme 1254 1257	Gck
+T38	Cell 1193 1213	defective beta-cells
+T43	Cell 1306 1316	beta-cells
+T46	Cell 1372 1392	Defective beta-cells
+T47	Protein 1401 1407	Glut-2
+T86	Enzyme 1412 1415	Gck
+T89	LivingEntity 1453 1459	adults
+T91	Protein 1504 1510	Glut-2
+T92	Enzyme 1515 1526	glucokinase
+T93	Carbohydrate 1552 1559	glucose
+T94	Peptide 1571 1578	insulin
+T96	TranscriptionFactor 1651 1655	Rfx3
+T59	Cell 1670 1680	Min6 cells
+T58	TranscriptionFactor 1691 1695	Rfx3
+T61	Cell 1717 1727	Min6 cells
+T97	Tissue 1738 1744	islets
+T98	RegulatoryDNARegion 1785 1790	Pal-1
+T99	RegulatoryDNARegion 1795 1800	Pal-2
+T65	Gene 1840 1856	glucokinase gene
+T100	TranscriptionFactor 1880 1884	Rfx3
+T68	Cell 1944 1954	beta-cells
+T70	Cell 1973 1982	beta-cell
+T72	Gene 1999 2015	glucokinase gene
+T101	TranscriptionFactor 25 29	Rfx3
+T3	Cell 40 49	beta-cell
+T103	Enzyme 81 92	glucokinase

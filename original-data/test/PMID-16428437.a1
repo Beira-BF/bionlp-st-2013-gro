@@ -1,0 +1,60 @@
+T2	Chromatin 26 35	chromatin
+T6	Locus 95 100	locus
+T7	Cell 104 115	pre-B cells
+T11	Cell 230 236	B-cell
+T14	Cell 315 325	pre-B-cell
+T19	Enhancer 424 432	kappaE3'
+T20	Exon 457 461	exon
+T25	Cell 620 631	pre-B cells
+T31	Cell 856 867	pre-B cells
+T33	Eukaryote 883 888	human
+T34	Chromatin 925 934	chromatin
+T40	Enhancer 1112 1120	kappaE3'
+T42	Cell 1162 1173	pre-B cells
+T44	Enhancer 1205 1213	kappaE3'
+T48	Cell 1304 1315	pre-B cells
+T52	Enhancer 1388 1396	enhancer
+T56	Enhancer 1497 1505	enhancer
+T57	Chromatin 1506 1515	chromatin
+T63	Eukaryote 1705 1710	mouse
+T67	Cell 1765 1776	pre-B cells
+T68	Gene 1805 1809	gene
+T8	Locus 155 162	Igkappa
+T70	TemporalQuality 272 278	timing
+T16	Enhancer 394 401	kappaEi
+T17	TranscriptionFactor 463 466	E2A
+T21	TranscriptionFactor 606 609	E2A
+T71	TranscriptionFactor 673 676	E2A
+T72	Locus 686 693	Igkappa
+T73	Locus 726 733	Igkappa
+T75	NonPhysicalContinuant 734 743	germ line
+T78	TranscriptionFactor 826 829	E2A
+T79	MutantGene 849 855	E2A-/-
+T80	MutantProtein 889 899	E2A (E47R)
+T82	Locus 951 958	Igkappa
+T9	Gene 448 456	constant
+T74	Locus 970 977	Igkappa
+T83	NonPhysicalContinuant 978 987	germ line
+T37	Gene 1006 1017	Jkappa gene
+T84	Enzyme 1018 1029	recombinase
+T86	TranscriptionFactor 1081 1084	E2A
+T87	Enhancer 1100 1107	kappaEi
+T88	Locus 1151 1158	Igkappa
+T89	TranscriptionFactor 1198 1201	E2A
+T45	TranscriptionFactor 1263 1268	IRF-4
+T47	TranscriptionFactor 1284 1289	IRF-4
+T91	Locus 1352 1359	Igkappa
+T92	NonPhysicalContinuant 1360 1369	germ line
+T94	TranscriptionFactor 1428 1431	E2A
+T55	TranscriptionFactor 1443 1448	IRF-4
+T97	Locus 1489 1496	Igkappa
+T60	TranscriptionFactor 1593 1598	IRF-4
+T98	TranscriptionFactor 1603 1606	E2A
+T62	Locus 1646 1659	Igkappa locus
+T64	Gene 1716 1719	E2A
+T99	Locus 1797 1804	Igkappa
+T100	TranscriptionFactor 0 3	E2A
+T1	TranscriptionFactor 8 17	IRF-4/Pip
+T5	Peptide 74 94	immunoglobulin kappa
+T18	Locus 554 567	Igkappa locus
+T102	Cell 188 195	lineage

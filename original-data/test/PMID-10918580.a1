@@ -1,0 +1,37 @@
+T8	Chromatin 169 188	chromatin structure
+T9	TranscriptionFactor 193 197	AP-1
+T14	Phenotype 317 326	phenotype
+T18	EukaryoticCell 444 448	HeLa
+T22	EukaryoticCell 593 603	HeLa cells
+T26	Gene 827 831	gene
+T27	Protein 839 848	TNF-alpha
+T33	DNARegion 1061 1070	AP-1 site
+T34	TranscriptionFactor 1152 1156	AP-1
+T36	Cell 1216 1221	cells
+T39	Cell 1339 1344	cells
+T43	TranscriptionFactor 1494 1498	AP-1
+T44	Chromatin 1541 1550	chromatin
+T47	Protein 1613 1623	chemokines
+T11	Protein 269 274	MCP-1
+T12	Cell 330 350	somatic cell hybrids
+T15	EukaryoticCell 460 477	human fibroblasts
+T16	Gene 492 497	MCP-1
+T20	Cell 537 547	segregants
+T49	Cell 570 577	hybrids
+T50	Gene 620 625	MCP-1
+T25	DNARegion 801 805	DHSR
+T53	DNARegion 907 915	5'-DHSRs
+T54	DNARegion 919 930	3'-end DHSR
+T56	Cell 984 991	hybrids
+T31	ExperimentalMethod 993 1007	DNA sequencing
+T32	DNARegion 1024 1031	3'-DHSR
+T58	DNARegion 1100 1110	downstream
+T59	Protein 1183 1188	MCP-1
+T60	Protein 1228 1246	jun-family members
+T37	Protein 1304 1309	fra-1
+T62	Protein 1368 1371	jun
+T63	Protein 1376 1381	fra-1
+T65	Gene 1403 1413	MCP-1 gene
+T48	Cell 1655 1673	HPV-positive cells
+T2	Gene 83 88	MCP-1
+T3	Cell 130 151	HPV 18 positive cells

@@ -1,0 +1,41 @@
+T7	Cell 210 223	cell lineages
+T9	Eukaryote 321 326	human
+T12	Cell 517 522	cells
+T14	Eukaryote 589 593	mice
+T17	TranscriptionFactor 676 680	Oct4
+T24	TranscriptionFactor 924 928	Oct4
+T27	Function 1004 1014	functional
+T37	Cell 1323 1327	cell
+T43	Tissue 1405 1418	trophectoderm
+T48	Protein 1504 1521	stem cell factors
+T49	TranscriptionFactor 1533 1537	Oct4
+T4	EukaryoticCell 105 108	hES
+T5	Cell 130 141	blastocysts
+T51	EukaryoticCell 274 283	hES cells
+T53	Chemical 379 387	medicine
+T11	EukaryoticCell 445 454	hES cells
+T16	Cell 654 674	embryonic stem cells
+T57	TranscriptionFactor 682 687	Nanog
+T58	TranscriptionFactor 693 697	Sox2
+T20	EukaryoticCell 761 781	mouse embryonic stem
+T21	EukaryoticCell 786 795	hES cells
+T22	EukaryoticCell 878 887	hES cells
+T23	TranscriptionFactor 933 938	Nanog
+T59	Cell 986 995	stem cell
+T28	EukaryoticCell 1026 1035	hES cells
+T60	TranscriptionFactor 1062 1066	Sox2
+T30	EukaryoticCell 1082 1090	hES cell
+T65	Gene 1174 1178	Sox2
+T66	TranscriptionFactor 1209 1213	Sox2
+T34	EukaryoticCell 1228 1237	hES cells
+T36	Cell 1278 1287	stem cell
+T39	Cell 1348 1357	stem cell
+T69	Protein 1358 1364	marker
+T70	Protein 1419 1426	markers
+T45	Gene 1454 1458	Sox2
+T71	TranscriptionFactor 1542 1547	Nanog
+T72	TranscriptionFactor 1569 1576	factors
+T77	TranscriptionFactor 47 51	Sox2
+T2	EukaryoticCell 55 81	human embryonic stem cells
+T3	Protein 862 869	factors
+T78	Protein 616 623	factors

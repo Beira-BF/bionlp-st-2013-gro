@@ -1,0 +1,36 @@
+T1	TranscriptionFactor 4 14	NF-kappa B
+T2	Protein 19 28	I kappa B
+T5	TranscriptionFactor 94 104	NF-kappa B
+T7	Gene 249 254	genes
+T9	ProteinSubunit 340 348	subunits
+T12	TranscriptionFactor 431 441	NF-kappa B
+T16	Protein 499 508	I kappa B
+T17	Protein 570 579	I kappa B
+T19	TranscriptionFactor 604 614	NF-kappa B
+T20	TranscriptionFactor 639 649	NF-kappa B
+T22	Cell 682 687	cells
+T23	OrganicChemical 691 694	LPS
+T25	Protein 729 732	TNF
+T28	Virus 783 788	viral
+T29	GeneProduct 789 802	gene products
+T30	Cell 825 831	T cell
+T33	TranscriptionFactor 915 925	NF-kappa B
+T35	Nucleus 943 950	nucleus
+T40	Protein 1027 1036	I kappa B
+T42	TranscriptionFactor 1171 1181	NF-kappa B
+T43	Nucleus 1190 1197	nucleus
+T44	TranscriptionFactor 1199 1209	NF-kappa B
+T46	DNARegion 1232 1244	DNA elements
+T49	Gene 1275 1280	genes
+T50	Protein 1290 1298	proteins
+T55	TranscriptionFactor 1410 1420	NF-kappa B
+T57	Cell 1457 1467	cell types
+T60	TranscriptionFactor 1596 1606	NF-kappa B
+T62	TranscriptionFactor 1633 1643	NF-kappa B
+T64	ThreeDimensionalMolecularStructure 1697 1714	crystal structure
+T65	TranscriptionFactor 1731 1741	NF-kappa B
+T67	Protein 1811 1820	I kappa B
+T70	TranscriptionFactor 1920 1930	NF-kappa B
+T15	Protein 736 740	IL-1
+T71	Cell 820 821;827 831	B cell
+T63	TranscriptionFactor 1798 1803	NF-kB

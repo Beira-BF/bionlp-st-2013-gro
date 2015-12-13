@@ -1,0 +1,27 @@
+T5	Chromosome 206 211	22q11
+T6	Locus 163 166;213 218	IgH locus
+T8	Cell 262 268	B-cell
+T12	Chromosome 352 363	chromosomal
+T13	Locus 364 368	loci
+T22	MessengerRNA 987 991	mRNA
+T26	Eukaryote 1163 1168	human
+T29	Gene 130 139	oncogenes
+T30	Locus 178 181;213 218	IgL locus
+T31	Chromosome 168 173	14q32
+T32	Chromosome 190 194	2p11
+T11	Locus 305 314	IgH locus
+T33	ExperimentalMethod 482 502	cytogenetic analysis
+T36	Chromosome 795 800	16q23
+T19	Gene 771 791	c-maf proto-oncogene
+T37	Chromosome 752 763	centromeric
+T40	Chromosome 860 869	telomeric
+T41	Gene 873 878	c-maf
+T42	Gene 943 948	c-maf
+T44	bZIPTF 981 986	c-maf
+T45	Gene 1027 1032	c-maf
+T46	Gene 1088 1093	c-maf
+T27	bZIPTF 1188 1227	basic zipper c-maf transcription factor
+T48	Protein 1255 1263	oncogene
+T1	Gene 30 50	c-maf proto-oncogene
+T49	Chromosome 54 59	16q23
+T3	Locus 83 91	Ig locus

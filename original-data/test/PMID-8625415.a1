@@ -1,0 +1,29 @@
+T1	Enzyme 24 38	protein kinase
+T5	TranscriptionFactor 117 137	transcription factor
+T6	ProteinComplex 138 143	TFIID
+T10	Promoter 263 271	promoter
+T11	Protein 288 295	protein
+T12	DNA 296 299	DNA
+T30	ProteinSubunit 973 983	components
+T4	ProteinSubunit 101 113	TAF subunits
+T35	Protein 251 255	TAFs
+T37	Enzyme 355 363	TAFII250
+T13	Enzyme 369 390	protein serine kinase
+T38	GeneralTranscriptionFactor 423 428	RAP74
+T15	GeneralTranscriptionFactor 443 470	basal transcription factors
+T16	Protein 481 505	phosphoacceptor proteins
+T39	GeneralTranscriptionFactor 530 535	RAP74
+T18	ProteinComplex 579 592	TFIID complex
+T19	Enzyme 626 634	TAFII250
+T21	ProteinDomain 657 671	kinase domains
+T22	ProteinDomain 727 729;736 758	N- terminal kinase domain
+T24	ProteinDomain 734 758	C-terminal kinase domain
+T25	Enzyme 763 771	TAFII250
+T41	GeneralTranscriptionFactor 823 828	RAP74
+T26	AminoAcid 832 847	serine residues
+T27	GeneralTranscriptionFactor 909 914	RAP74
+T42	Enzyme 918 926	TAFII250
+T31	TranscriptionInitiationComplex 995 1013	initiation complex
+T33	Enzyme 0 8	TAFII250
+T34	GeneralTranscriptionFactor 89 94	RAP74
+T20	ExperimentalMethod 594 611	Deletion analysis

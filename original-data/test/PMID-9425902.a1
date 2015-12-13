@@ -1,0 +1,33 @@
+T3	Tissue 24 36	neural crest
+T5	Eukaryote 69 74	mouse
+T7	Tissue 157 169	neural crest
+T8	Tissue 253 265	distal colon
+T10	Eukaryote 408 414	Murine
+T13	Gene 496 501	genes
+T14	Eukaryote 517 521	mice
+T15	Protein 566 571	Ednrb
+T16	Enzyme 651 655	cRet
+T18	Eukaryote 703 708	mouse
+T20	Eukaryote 809 813	mice
+T22	Tissue 891 903	distal colon
+T23	Eukaryote 924 931	animals
+T28	Tissue 1110 1134	neural crest derivatives
+T29	Eukaryote 1142 1146	mice
+T31	Tissue 1193 1205	neural crest
+T32	Cell 1206 1211	cells
+T36	LivingEntity 1294 1301	embryos
+T38	Tissue 1315 1339	neural crest derivatives
+T42	Gene 1492 1496	gene
+T47	Tissue 208 223	enteric ganglia
+T9	Cell 313 344	neural crest-derived melanocyte
+T51	Protein 602 606	Edn3
+T17	Protein 660 693	glial-derived neurotrophic factor
+T21	Tissue 847 883	neural crest-derived enteric ganglia
+T24	HMGTF 1003 1008	Sox10
+T57	Gene 1177 1182	Sox10
+T59	Gene 1242 1247	Sox10
+T34	Gene 1274 1279	Ednrb
+T61	HMGTF 1383 1388	Sox10
+T62	Tissue 1413 1438	peripheral nervous system
+T63	Gene 1463 1468	SOX10
+T65	HMGTF 0 5	Sox10

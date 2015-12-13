@@ -1,0 +1,29 @@
+T10	Gene 217 222	genes
+T11	Tissue 285 291	tissue
+T15	Tissue 427 434	tissues
+T16	Function 453 463	functional
+T30	DNA 823 826	DNA
+T32	Cell 861 866	Cells
+T41	Gene 1125 1130	genes
+T46	Phenotype 1246 1255	phenotype
+T49	HMGTF 13 17	Sox4
+T6	ExpressionProfiling 70 119	Microarray RNA gene expression profiling analysis
+T7	Gene 135 139	Sox4
+T8	Gene 141 184	Sry-related high mobility group (HMG) box 4
+T12	HMGTF 322 334	Sox4 protein
+T54	ExperimentalMethod 370 390	immunohistochemistry
+T57	RNA 529 532	RNA
+T58	HMGTF 568 572	Sox4
+T20	Cell 591 612	ACC-derived cell line
+T59	Cell 614 618	ACC3
+T22	HMGTF 648 660	Sox4 protein
+T5	Cell 58 68	ACC3 cells
+T27	ExperimentalMethod 845 859	flow cytometry
+T61	HMGTF 917 921	Sox4
+T35	DNAMolecule 953 962	construct
+T62	HMGTF 985 989	Sox4
+T36	ExpressionProfiling 991 1027	Microarray gene expression profiling
+T63	HMGTF 1087 1091	Sox4
+T64	HMGTF 1212 1216	Sox4
+T47	Cell 1259 1268	ACC cells
+T29	Cell 806 810	cell

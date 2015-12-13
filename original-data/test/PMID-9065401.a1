@@ -1,0 +1,29 @@
+T11	Protein 184 191	protein
+T13	TranscriptionFactor 224 227;236 256	Tcf transcription factor
+T15	Gene 263 267	gene
+T20	Nucleus 452 458	Nuclei
+T26	TranscriptionFactor 616 619	Tcf
+T27	ReporterGene 620 633	reporter gene
+T28	Protein 653 656	APC
+T36	Protein 807 810	APC
+T37	Function 811 819	function
+T6	Protein 101 158	adenomatous polyposis coli (APC) tumor suppressor protein
+T7	Protein 168 180	beta-catenin
+T8	TranscriptionFactor 232 256	Lef transcription factor
+T9	TranscriptionFactor 277 283	hTcf-4
+T14	TranscriptionFactor 287 297	Tcf family
+T16	Tissue 326 333	colonic
+T38	Cell 334 344	epithelium
+T39	ExperimentalMethod 350 356	cloned
+T40	TranscriptionFactor 376 382	hTcf-4
+T41	Protein 438 450	beta-catenin
+T22	ProteinComplex 522 549	beta-catenin-hTcf-4 complex
+T23	Protein 665 677	beta-catenin
+T42	TranscriptionFactor 683 689	hTcf-4
+T31	Gene 771 787	Tcf target genes
+T33	Tissue 875 882	colonic
+T34	Cell 883 893	epithelium
+T2	ProteinComplex 45 69	beta-catenin-Tcf complex
+T43	Cell 485 490	cells
+T44	Tissue 80 85	colon
+T46	Tissue 469 474	colon

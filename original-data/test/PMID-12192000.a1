@@ -1,0 +1,41 @@
+T2	Gene 28 33	genes
+T7	Cell 183 201	non-neuronal cells
+T10	Enzyme 270 289	histone deacetylase
+T11	CatalyticActivity 290 298	activity
+T20	ProteinSubunit 539 544	BAF57
+T23	Promoter 596 604	promoter
+T25	Gene 628 632	gene
+T27	ProteinSubunit 663 668	BAF57
+T29	ProteinSubunit 681 685	BRG1
+T30	ProteinSubunit 690 696	BAF170
+T33	Protein 819 829	antibodies
+T34	ProteinSubunit 838 842	BRG1
+T35	ProteinSubunit 844 849	BAF57
+T36	ProteinSubunit 854 860	BAF170
+T39	ReporterGene 910 924	reporter genes
+T40	Nucleotide 958 961	ATP
+T4	TranscriptionFactor 118 122	REST
+T44	Cell 153 161	neuronal
+T45	Phenotype 162 179	phenotypic traits
+T46	TranscriptionFactor 236 240	REST
+T47	Enzyme 323 335	deacetylases
+T14	TranscriptionCorepressor 370 375	Sin3A
+T48	TranscriptionCorepressor 380 386	CoREST
+T15	StructuralDomainOfTranscriptionRepressor 418 434	repressor domain
+T49	TranscriptionCorepressor 438 444	CoREST
+T17	ProteinSubunit 483 491	(BAF) 57
+T18	ProteinComplex 512 528	hSWI.SNF complex
+T19	Gene 588 594	Nav1.2
+T21	TranscriptionFactor 642 646	REST
+T26	ProteinComplex 719 735	hSWI.SNF complex
+T28	TranscriptionFactorComplex 761 790	REST.CoREST repressor complex
+T31	ExperimentalMethod 792 806	Microinjection
+T32	Cell 866 882	Rat1 fibroblasts
+T50	Silencer 906 909	RE1
+T51	Histone 1005 1012	histone
+T53	TranscriptionFactor 1042 1046	REST
+T54	TranscriptionFactor 0 4	REST
+T55	Cell 19 27	neuronal
+T56	ProteinSubunit 43 53	components
+T3	ProteinComplex 61 77	hSWI.SNF complex
+T57	Function 81 89	function

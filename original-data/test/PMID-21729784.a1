@@ -1,0 +1,39 @@
+T14	Peptide 515 530	sequence motifs
+T18	BindingSiteOfProtein 635 640	sites
+T24	Chromatin 865 874	chromatin
+T25	NcRNA 67 85	noncoding Xist RNA
+T3	X_Chromosome 102 114	X?chromosome
+T26	Eukaryote 129 135	mammal
+T27	NcRNA 163 167	Xist
+T28	X_Chromosome 206 207	X
+T8	ProteinComplex 221 239	Polycomb complexes
+T30	NcRNA 269 273	Xist
+T33	NcRNA 361 369	Xist RNA
+T34	TranscriptionFactor 384 387	YY1
+T9	NcRNA 394 408	Xist particles
+T10	X_Chromosome 418 430	X chromosome
+T36	TranscriptionFactor 432 435	YY1
+T11	Protein 441 459	"bivalent" protein
+T13	NcRNA 532 536	Xist
+T39	X_Chromosome 576 577	X
+T40	Epigenetic 598 612	epigenetically
+T17	TranscriptionFactor 631 634	YY1
+T41	ComplexMolecularEntity 623 627	trio
+T42	DNARegion 652 666	allelic origin
+T21	NcRNA 733 747	Xist particles
+T44	X_Chromosome 753 754	X
+T45	NcRNA 775 783	Xist RNA
+T46	RNARegion 792 800	Repeat C
+T47	TranscriptionFactor 756 759	YY1
+T48	TranscriptionFactor 818 821	YY1
+T49	RNA 857 860	RNA
+T50	TranscriptionFactor 0 3	YY1
+T51	NcRNA 12 20	Xist RNA
+T53	X_Chromosome 37 38	X
+T20	TranscriptionFactor 677 680	YY1
+T54	RNA 684 687	RNA
+T55	TranscriptionFactor 692 695	YY1
+T56	DNA 699 702	DNA
+T12	RNA 485 488	RNA
+T58	DNA 493 496	DNA
+T6	MolecularStructure 39 56	nucleation center

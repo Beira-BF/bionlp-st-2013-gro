@@ -1,0 +1,43 @@
+T1	Eukaryote 25 29	mice
+T3	HMGTF 64 68	Sox9
+T4	HMGTF 70 74	Sox9
+T9	Tissue 231 238	tissues
+T10	Tissue 261 267	testis
+T11	Tissue 273 295	central nervous system
+T12	Tissue 297 303	kidney
+T13	Eukaryote 326 330	Mice
+T15	HMGTF 353 357	Sox9
+T16	HMGTF 392 396	Sox9
+T17	Tissue 406 413	tissues
+T18	HMGTF 456 460	Sox9
+T19	Tissue 474 481	tissues
+T22	Eukaryote 553 558	mouse
+T23	HMGTF 575 579	Sox9
+T25	Enhancer 669 677	enhancer
+T26	Eukaryote 682 689	chicken
+T27	Promoter 701 709	promoter
+T33	HMGTF 882 886	Sox9
+T37	HMGTF 957 961	Sox9
+T38	Cell 965 977	chondrocytes
+T40	Eukaryote 995 999	mice
+T41	Cell 1011 1022	chondrocyte
+T43	HMGTF 1119 1123	Sox9
+T44	Cell 1140 1152	chondrocytes
+T45	Eukaryote 1180 1184	mice
+T47	HMGTF 1229 1233	Sox9
+T48	Eukaryote 1257 1262	mouse
+T49	Tissue 1303 1309	tissue
+T51	Function 1352 1361	functions
+T52	HMGTF 1365 1369	Sox9
+T5	HMGTF 100 157	Sry-related high-mobility group box transcription factors
+T54	Tissue 250 259	cartilage
+T55	Tissue 309 324	gastrointestine
+T58	Enzyme 585 600	Cre recombinase
+T59	DNA 623 632	construct
+T24	Virus 647 668	human cytomegalovirus
+T60	Gene 690 700	Beta-actin
+T28	ReporterGene 762 767	mRFP1
+T61	ReporterGene 813 818	mRFP1
+T62	Enzyme 820 823	Cre
+T63	ReporterGene 847 857	mRFP1 gene
+T34	ReporterGene 891 925	enhanced green fluorescent protein

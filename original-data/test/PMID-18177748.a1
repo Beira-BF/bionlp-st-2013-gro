@@ -1,0 +1,19 @@
+T1	TranscriptionRepressor 18 43	transcriptional repressor
+T2	Eukaryote 51 56	human
+T4	Cell 87 98	fibroblasts
+T7	Cell 229 240	fibroblasts
+T10	Protein 305 313	TGF-beta
+T12	MessengerRNA 327 331	mRNA
+T13	Protein 336 343	protein
+T14	Promoter 426 434	promoter
+T17	TranscriptionRepressor 127 133	GATA-6
+T19	Gene 158 162	TN-C
+T20	TranscriptionRepressor 219 225	GATA-6
+T22	Protein 295 299	IL-4
+T23	Gene 322 326	TN-C
+T24	TranscriptionFactorBindingSiteOfDNA 354 377	GATA-6 response element
+T25	Gene 421 425	TN-C
+T15	TranscriptionRepressor 464 470	GATA-6
+T16	TranscriptionFactorBindingSiteOfDNA 482 486	site
+T27	TranscriptionRepressor 0 6	GATA-6
+T28	Gene 57 67	Tenascin-C

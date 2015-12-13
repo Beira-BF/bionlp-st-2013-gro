@@ -1,0 +1,42 @@
+T1	ProteinSubunit 0 4	BRG1
+T2	ProteinDomain 26 32	domain
+T3	Enzyme 40 56	SWI2/SNF2 family
+T6	Sequence 112 120	Sequence
+T11	DNA 224 227	DNA
+T13	Eukaryote 272 277	human
+T14	DNA 278 295	complementary DNA
+T17	ProteinSubunit 329 333	BRG1
+T18	Eukaryote 380 390	Drosophila
+T20	DNA 448 451	DNA
+T21	ProteinDomain 462 475	ATPase domain
+T22	Eukaryote 502 507	human
+T23	Sequence 508 516	sequence
+T35	Eukaryote 779 784	yeast
+T36	ProteinSubunit 852 856	BRG1
+T41	ProteinSubunit 924 928	BRG1
+T42	Nucleus 944 951	nuclear
+T43	ProteinComplex 979 986	complex
+T44	DNA 1047 1050	DNA
+T45	ProteinDomain 1061 1074	ATPase domain
+T46	Function 1079 1089	functional
+T47	Eukaryote 1111 1116	yeast
+T48	Eukaryote 1121 1127	humans
+T50	ProteinComplex 1147 1170	SWI/SNF protein complex
+T52	Eukaryote 1215 1224	mammalian
+T53	Gene 1225 1230	genes
+T7	TranscriptionActivator 130 152	DNA binding activators
+T8	Enzyme 194 205	SWI2 (SNF2)
+T15	Enzyme 371 375	SWI2
+T16	Enzyme 391 397	brahma
+T19	Enzyme 421 425	SWI2
+T54	ProteinSubunit 426 430	BRG1
+T55	FusionProtein 431 438	chimera
+T9	ProteinDomain 238 251	ATPase domain
+T30	AminoAcid 663 669	lysine
+T31	Enzyme 719 723	SWI2
+T58	AminoAcid 788 794	lysine
+T59	AminoAcid 798 806	arginine
+T61	AminoAcid 841 848	residue
+T27	EukaryoticCell 601 612	yeast cells
+T28	EukaryoticCell 911 922	human cells
+T39	Enzyme 1035 1046	SWI2 family

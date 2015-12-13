@@ -1,0 +1,52 @@
+T1	Substrate 24 33	substrate
+T5	Function 177 187	functional
+T7	ExpressionProfiling 298 308	microarray
+T10	Gene 383 387	gene
+T13	Gene 481 485	gene
+T16	Substrate 593 602	substrate
+T37	Substrate 1270 1279	substrate
+T50	Cell 142 153	endothelial
+T51	Tissue 188 196	vascular
+T52	Cell 263 274	endothelial
+T9	Cell 353 355	ES
+T53	Protein 431 435	ASB4
+T11	Tissue 493 501	vascular
+T15	Protein 551 579	SOCS box-containing proteins
+T54	Protein 581 585	ASB4
+T17	ProteinSubunit 630 639	elongin B
+T55	ProteinSubunit 640 649	elongin C
+T56	ProteinSubunit 650 656	cullin
+T57	ProteinSubunit 657 660	Roc
+T18	ProteinComplex 661 685	ubiquitin ligase complex
+T22	Protein 738 758	substrate protein(s)
+T23	Protein 775 779	ASB4
+T58	Tissue 808 819	vasculature
+T59	Gas 855 861	oxygen
+T60	Tissue 873 882	placental
+T61	PhysicalContinuant 883 888	blood
+T62	Tissue 920 927	vessels
+T64	Gas 939 945	oxygen
+T66	Protein 964 968	ASB4
+T67	Protein 1022 1026	ASB4
+T68	Cell 1055 1066	endothelium
+T70	Gas 1099 1105	oxygen
+T71	Protein 1151 1155	ASB4
+T72	Function 1156 1164	function
+T73	Gas 1181 1187	oxygen
+T74	Protein 1203 1207	ASB4
+T34	Enzyme 1256 1259	FIH
+T35	Enzyme 1284 1287	FIH
+T75	Gas 1318 1324	oxygen
+T76	Protein 1378 1382	ASB4
+T40	Cell 1386 1394	ES cells
+T77	Tissue 1429 1437	vascular
+T78	Gas 1452 1458	oxygen
+T80	Protein 1512 1516	ASB4
+T46	Protein 1568 1588	substrate protein(s)
+T47	Tissue 1601 1609	vascular
+T81	Protein 0 4	ASB4
+T83	Enzyme 37 40	FIH
+T84	Tissue 54 62	vascular
+T85	Gas 86 92	oxygen
+T86	Cell 502 509	lineage
+T87	Cell 1438 1445	lineage

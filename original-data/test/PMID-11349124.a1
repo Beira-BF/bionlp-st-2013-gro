@@ -1,0 +1,76 @@
+T1	Protein 8 27	zinc finger protein
+T2	Protein 52 60	CBP/p300
+T4	Eukaryote 73 78	human
+T6	Eukaryote 108 113	human
+T9	Tissue 170 177	tissues
+T11	Lipid 244 251	steroid
+T14	Gene 302 306	gene
+T18	Eukaryote 401 406	human
+T20	DNARegion 461 472	this region
+T21	Gene 480 484	gene
+T22	DNA 497 507	cDNA clone
+T23	Eukaryote 571 576	human
+T24	DNA 587 612	cDNA expression libraries
+T25	OpenReadingFrame 618 636	open reading frame
+T26	ZincCoordinatingDomain 651 663	zinc fingers
+T27	AminoAcid 718 727	glutamate
+T28	AminoAcid 729 736	proline
+T29	Protein 779 798	DNA-binding protein
+T32	DNA 849 853	cDNA
+T33	Cell 870 880	HeLa cells
+T34	Protein 890 897	protein
+T36	Tissue 1060 1066	thymus
+T37	Tissue 1088 1094	testis
+T41	Nucleus 1281 1288	nucleus
+T43	Cell 1330 1340	HeLa cells
+T46	DNA 1439 1443	cDNA
+T47	Cell 1457 1462;1484 1489	JEG-3 cells
+T53	FusionProtein 1628 1644	chimeric protein
+T57	Promoter 1745 1762	promoter activity
+T66	Promoter 1936 1953	promoter activity
+T67	Protein 1963 1971	proteins
+T75	Protein 28 36	TReP-132
+T77	Gene 79 86	CYP11A1
+T7	Gene 114 126	CYP11A1 gene
+T78	Protein 190 208	cytochrome P450scc
+T13	DNARegion 279 294	5'-flanking DNA
+T15	DNARegion 312 336	nucleotides -155 to -131
+T17	Tissue 407 416	placental
+T19	Tissue 431 438	adrenal
+T80	Cell 439 453	NCI-H295 cells
+T79	Cell 417 426;448 453	JEG-3 (1) cells
+T81	Cell 556 566	JEG-3 cell
+T82	Tissue 577 586	placental
+T83	ZincCoordinatingDomain 671 687	C(2)H(2) subtype
+T84	AminoAcid 742 751	glutamine
+T85	ExperimentalMethod 949 971	Northern blot analysis
+T86	Transcript 1002 1022	TReP-132 transcripts
+T87	Tissue 1068 1082	adrenal cortex
+T89	Cell 1146 1151;1173 1177	JEG-3 cell
+T88	Cell 1153 1161;1173 1177	NCI-H295 cell
+T90	Cell 1167 1177	MCF-7 cell
+T91	ExperimentalMethod 1185 1213	Immunocytochemistry analysis
+T40	Protein 1257 1273	TReP-132 protein
+T93	Protein 1318 1326	TReP-132
+T94	DNARegion 1379 1395	-155/-131 region
+T95	ExperimentalMethod 1399 1417	bandshift analysis
+T96	Tissue 1447 1456	placental
+T97	Tissue 1467 1474	adrenal
+T98	Cell 1475 1489	NCI-H295 cells
+T49	ReporterGene 1516 1534	reporter construct
+T51	Gene 1553 1565	P450scc gene
+T99	DNARegion 1566 1584	5'-flanking region
+T52	DNARegion 1590 1614	nucleotides -1676 to +49
+T54	Protein 1668 1676	TReP-132
+T55	DNABindingDomainOfProtein 1686 1709	Gal4 DNA-binding domain
+T100	ReporterGene 1768 1786	reporter construct
+T59	Promoter 1826 1846	E1b minimal promoter
+T58	ProteinBindingSiteOfDNA 1791 1809	Gal4-binding sites
+T61	Protein 1864 1884	CREB-binding protein
+T62	Protein 1885 1895	(CBP)/p300
+T63	Protein 1901 1909	TReP-132
+T65	ProteinIdentification 2056 2065	isolation
+T69	ZincCoordinatingDomainTF 2077 2123	zinc-finger transcriptional regulating protein
+T70	Protein 2136 2144	TReP-132
+T71	Gene 2176 2183	P450scc
+T45	Peptide 702 709	regions

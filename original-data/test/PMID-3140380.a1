@@ -1,0 +1,36 @@
+T1	Protein 0 9	I kappa B
+T3	TranscriptionFactor 39 49	NF-kappa B
+T5	Cell 75 80	cells
+T11	TranscriptionFactor 176 186	NF-kappa B
+T12	CellComponent 199 208	cytosolic
+T15	TranscriptionFactor 397 407	NF-kappa B
+T18	Protein 456 465	I kappa B
+T21	TranscriptionFactor 510 520	NF-kappa B
+T22	Nucleus 557 563	nuclei
+T25	CellComponent 649 660	cytoplasmic
+T27	ProteinComplex 677 688	the complex
+T28	TranscriptionFactor 692 702	NF-kappa B
+T29	Protein 707 716	I kappa B
+T31	Chemical 769 782	phorbol ester
+T34	CellComponent 869 880	cytoplasmic
+T35	ProteinComplex 881 888	complex
+T36	TranscriptionFactor 892 902	NF-kappa B
+T37	Protein 907 916	I kappa B
+T39	Protein 930 939	I kappa B
+T42	TranscriptionFactor 962 972	NF-kappa B
+T43	Nucleus 1004 1011	nucleus
+T45	Enhancer 1031 1040	enhancers
+T46	Chemical 1075 1088	phorbol ester
+T51	TranscriptionFactor 1203 1223	transcription factor
+T7	Gene 101 139	immunoglobulin kappa light chain genes
+T8	DNA 232 235	DNA
+T13	Chemical 306 325	sodium deoxycholate
+T52	Chemical 345 357	deoxycholate
+T16	Cell 567 594	phorbol ester-treated cells
+T17	Protein 485 494	inhibitor
+T19	ExperimentalMethod 734 757	enucleation experiments
+T23	Enzyme 827 843	protein kinase C
+T30	Function 955 961	active
+T41	Protein 1100 1118	regulatory protein
+T50	Cell 1173 1184	subcellular
+T54	DNA 1148 1151	DNA

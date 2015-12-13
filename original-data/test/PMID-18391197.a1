@@ -1,0 +1,30 @@
+T1	ProteinComplex 0 5	TFIID
+T3	TranscriptionFactor 54 59	TFIIH
+T4	TranscriptionFactor 64 70	P-TEFb
+T9	Promoter 185 193	promoter
+T14	ProteinComplex 265 270	TFIID
+T15	ProteinComplex 274 281	complex
+T17	TBP 320 323	TBP
+T18	Protein 341 363	TBP-associated factors
+T21	ProteinComplex 449 454	TFIID
+T22	ProteinComplex 476 481	TFIID
+T25	TranscriptionFactor 556 577	transcription factors
+T26	TranscriptionFactor 579 584	TFIIH
+T27	TranscriptionFactor 589 595	P-TEFb
+T35	TranscriptionFactor 841 847	P-TEFb
+T43	ProteinSubunit 16 20	TAF7
+T8	TranscriptionInitiationComplex 173 176	PIC
+T46	Protein 365 369	TAFs
+T47	ProteinSubunit 387 391	TAF7
+T48	TranscriptionInitiationComplex 416 419	PIC
+T19	ProteinSubunit 532 536	TAF7
+T29	Enzyme 634 651	Pol II CTD kinase
+T30	CatalyticActivity 652 662	activities
+T31	ExperimentalMethod 680 712	in vitro transcription reactions
+T49	ProteinSubunit 714 718	TAF7
+T51	ProteinSubunit 819 823	TAF7
+T53	RNAPolymeraseII 852 858	Pol II
+T54	ProteinSubunit 915 919	TAF7
+T55	PhosphateGroup 780 800	phosphodiester bonds
+T56	RNAPolymerase_II_Promoter 877 885	promoter
+T36	DNARegion 859 869	downstream

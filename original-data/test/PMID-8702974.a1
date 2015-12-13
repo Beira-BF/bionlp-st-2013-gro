@@ -1,0 +1,39 @@
+T3	Eukaryote 44 53	mammalian
+T4	TranscriptionFactor 54 75	transcription factors
+T6	ExperimentalMethod 136 153	molecular cloning
+T7	Eukaryote 167 172	human
+T8	Eukaryote 177 183	murine
+T9	TranscriptionFactor 184 205	transcription factors
+T13	TranscriptionFactor 313 320	factors
+T16	Virus 424 428	SV40
+T17	Enhancer 429 437	enhancer
+T20	Eukaryote 520 525	human
+T22	Cell 572 582	cell lines
+T23	Eukaryote 591 596	mouse
+T25	Tissue 667 674	tissues
+T26	LivingEntity 702 709	embryos
+T29	Tissue 793 808	skeletal muscle
+T31	Tissue 872 887	skeletal muscle
+T36	Tissue 1202 1205	gut
+T37	Tissue 1240 1246	kidney
+T39	Tissue 1316 1338	central nervous system
+T10	DNABindingDomainOfTF 221 248	TEA/ATTS DNA binding domain
+T12	TranscriptionFactor 299 304	TEF-1
+T15	ProteinBindingSiteOfDNA 343 372	TEA/ATTS cognate binding site
+T41	Enhancer 392 398;407 415	GT-IIC enhanson
+T42	Enhancer 403 415	Sph enhanson
+T19	DNARegion 491 514	tandemly repeated sites
+T44	TranscriptionFactor 526 530	TEFs
+T45	TranscriptionFactor 597 604	(m)TEFs
+T46	TranscriptionFactor 757 763	mTEF-3
+T47	Cell 809 819	precursors
+T48	TranscriptionFactor 829 835	mTEF-1
+T49	Tissue 904 914	myocardium
+T32	TranscriptionFactor 1016 1028	TEF proteins
+T34	TranscriptionFactor 1075 1081	mTEF-1
+T51	TranscriptionFactor 1111 1117	mTEF-4
+T53	Cell 1129 1140	neuroblasts
+T54	TranscriptionFactor 1160 1166	mTEF-4
+T56	Tissue 1214 1232	nephrogenic region
+T38	TranscriptionFactor 1300 1312	TEF proteins
+T5	DNABindingDomainOfTF 91 118	TEA/ATTS DNA binding domain

@@ -1,0 +1,74 @@
+T1	ProteinIdentification 0 14	Identification
+T2	Eukaryote 18 23	human
+T3	TranscriptionCofactor 24 32	proteins
+T4	Eukaryote 65 70	yeast
+T7	Function 159 167	function
+T8	Eukaryote 178 188	eukaryotic
+T9	TranscriptionActivator 196 206	activators
+T10	Eukaryote 214 219	yeast
+T11	Eukaryote 220 244	Saccharomyces cerevisiae
+T14	Eukaryote 373 378	human
+T15	TranscriptionCofactor 379 387	homologs
+T16	Eukaryote 391 396	yeast
+T17	Eukaryote 414 419	yeast
+T18	ProteinSubunit 434 444	components
+T20	Sequence 499 507	sequence
+T21	Eukaryote 531 536	yeast
+T22	Eukaryote 541 546	human
+T23	TranscriptionCofactor 547 555	proteins
+T24	Sequence 605 613	sequence
+T26	Function 666 676	functional
+T27	Eukaryote 702 707	human
+T28	Eukaryote 712 717	yeast
+T29	Eukaryote 765 770	human
+T30	Eukaryote 788 793	human
+T34	Eukaryote 928 933	human
+T35	TranscriptionCofactor 934 942	proteins
+T36	ProteinComplex 956 965	complexes
+T37	ProteinDomain 1012 1030	activation domains
+T41	Eukaryote 1278 1283	human
+T42	TranscriptionCofactor 1284 1292	proteins
+T46	Cell 1354 1364	HeLa cells
+T48	Eukaryote 1462 1467	human
+T49	TranscriptionCofactor 1468 1476	proteins
+T50	Function 1491 1501	functional
+T52	Eukaryote 1518 1523	yeast
+T53	TranscriptionCofactor 1556 1565	cofactors
+T5	TranscriptionCofactor 104 136	Transcriptional adaptor proteins
+T6	TranscriptionCofactor 397 401	ADA2
+T55	TranscriptionCofactor 403 408	yADA2
+T56	TranscriptionCofactor 420 424	GCN5
+T57	TranscriptionCofactor 426 431	yGCN5
+T58	ProteinIdentification 353 363	identified
+T19	ProteinComplex 459 474	adaptor complex
+T25	TranscriptionCofactor 640 648	adaptors
+T59	TranscriptionCofactor 718 726	adaptors
+T60	TranscriptionCofactor 748 753	yADA2
+T61	TranscriptionCofactor 758 763	yGCN5
+T62	TranscriptionCofactor 771 775	ADA2
+T63	TranscriptionCofactor 777 782	hADA2
+T64	TranscriptionCofactor 794 798	GCN5
+T65	TranscriptionCofactor 800 805	hGCN5
+T32	BindingAssay 831 853	yeast two-hybrid assay
+T66	TranscriptionCofactor 865 870	hGCN5
+T67	TranscriptionCofactor 887 892	yADA2
+T68	TranscriptionCofactor 980 985	yADA2
+T69	TranscriptionCofactor 990 995	hADA2
+T70	TranscriptionCofactor 1039 1044	hGCN5
+T71	TranscriptionCofactor 1049 1054	yGCN5
+T73	TranscriptionCofactor 1090 1095	yADA2
+T38	Peptide 1122 1128	region
+T39	TranscriptionCofactor 1132 1137	yADA2
+T74	TranscriptionCofactor 1159 1164	yGCN5
+T75	Peptide 1179 1193	amino terminus
+T76	TranscriptionCofactor 1197 1202	yADA2
+T77	TranscriptionCofactor 1233 1238	hADA2
+T43	EukaryoticCell 1296 1307	human cells
+T44	FusionProtein 1316 1326	GAL4-hADA2
+T78	TranscriptionCofactor 1385 1390	hADA2
+T79	TranscriptionCofactor 1394 1399	hGCN5
+T80	FusionProtein 1410 1419	GAL4-VP16
+T51	TranscriptionCofactor 1524 1532	adaptors
+T82	TranscriptionCofactor 80 88	adaptors
+T83	TranscriptionCofactor 89 93	ADA2
+T84	TranscriptionCofactor 98 102	GCN5

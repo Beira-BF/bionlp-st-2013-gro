@@ -1,0 +1,49 @@
+T4	Gene 23 27	SOX9
+T6	Cell 47 71	breast cancer cell lines
+T12	TranscriptionFactor 158 162	RARs
+T13	Ligand 168 174	ligand
+T14	TranscriptionFactor 185 206	transcription factors
+T26	Protein 424 438	growth factors
+T31	Gene 593 597	gene
+T32	Gene 613 617	SOX9
+T35	HMGTF 680 701	transcription factors
+T36	Gene 703 707	SOX9
+T41	Cell 765 776	T-47D cells
+T44	Gene 893 897	SOX9
+T47	Cell 937 942	cells
+T48	HMGTF 944 948	SOX9
+T50	Cell 977 989	chondrocytes
+T54	Tissue 1054 1060	testes
+T63	HMGTF 1224 1228	SOX9
+T69	HMGTF 1326 1330	SOX9
+T70	Cell 1334 1358	breast cancer cell lines
+T74	HMGTF 1419 1423	SOX9
+T75	Cell 1427 1438	T-47D cells
+T81	HMGTF 1551 1555	SOX9
+T86	TranscriptionFactor 1617 1621	SOX9
+T1	Agonist 0 12	RAR agonists
+T3	OrganicChemical 96 104	retinoid
+T11	Gene 232 276	steroid/thyroid hormone receptor gene family
+T15	Agonist 278 290	RAR-agonists
+T16	EukaryoticCell 325 355	human breast cancer cell lines
+T19	OrganicChemical 406 420	estradiol (E2)
+T20	ExperimentalMethod 440 479	PCR-amplified subtractive hybridization
+T22	Gene 511 535	retinoid-regulated genes
+T23	Gene 635 676	high mobility group (HMG) box gene family
+T27	Agonist 749 761	RAR-agonists
+T28	Cell 787 830	retinoid-inhibited breast cancer cell lines
+T33	DNA 917 920	EST
+T34	Tissue 924 936	breast tumor
+T39	Gene 1030 1046	type II collagen
+T40	HMGTF 996 998	it
+T42	HMGTF 1067 1069	it
+T46	Agonist 1115 1131	RAR pan-agonists
+T51	Agonist 1140 1166	RARalpha-selective agonist
+T52	Agonist 1167 1172	Am580
+T53	Agonist 1182 1194	RXR agonists
+T55	Cell 1250 1293	retinoid-inhibited breast cancer cell lines
+T57	Agonist 1295 1307	RAR-agonists
+T58	OrganicChemical 1394 1403	retinoids
+T61	Agonist 1490 1502	RAR-agonists
+T62	OrganicChemical 1563 1565	RA
+T65	OrganicChemical 1625 1633	retinoid

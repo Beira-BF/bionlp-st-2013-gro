@@ -1,0 +1,24 @@
+T5	Eukaryote 161 166	mouse
+T6	LivingEntity 167 174	embryos
+T8	Eukaryote 219 224	mouse
+T9	Locus 238 243	locus
+T15	Cell 482 489	oocytes
+T18	LivingEntity 750 757	embryos
+T19	DNA 791 794	DNA
+T26	Gene 32 37	Zfp57
+T30	Gene 232 237	Zfp57
+T10	ZincCoordinatingDomainTF 255 279	KRAB zinc finger protein
+T12	Gene 318 323	Zfp57
+T13	Phenotype 331 357	partial neonatal lethality
+T31	Gene 422 427	Zfp57
+T32	Phenotype 441 477	highly penetrant embryonic lethality
+T33	Gene 502 507	Zfp57
+T36	Gene 577 582	Snrpn
+T37	ChromosomalDNA 583 599	imprinted region
+T39	Gene 690 695	Snrpn
+T40	ChromosomalDNA 696 712	imprinted region
+T41	Gene 730 735	Zfp57
+T43	ZincCoordinatingDomainTF 848 853	Zfp57
+T23	ChromosomalDNA 958 984	multiple imprinted domains
+T24	Phenotype 1044 1070	maternal-zygotic lethality
+T25	MutantProtein 1074 1087	Zfp57 mutants

@@ -1,0 +1,46 @@
+T6	Eukaryote 111 116	human
+T9	Eukaryote 250 256	humans
+T11	Eukaryote 328 333	mouse
+T14	Cell 405 415	germ cells
+T15	Cell 434 441	oocytes
+T16	Eukaryote 527 532	human
+T17	DNA 558 564	genome
+T18	Eukaryote 598 603	human
+T20	Eukaryote 675 680	human
+T24	Tissue 752 759	tissues
+T28	Sequence 897 905	sequence
+T29	Sequence 932 941	sequences
+T31	Eukaryote 1016 1021	human
+T33	Eukaryote 1059 1064	mouse
+T37	Eukaryote 1137 1142	human
+T38	Promoter 1147 1155	promoter
+T39	Eukaryote 1200 1205	human
+T42	Eukaryote 1338 1343	human
+T43	Eukaryote 1354 1360	rodent
+T44	Cell 145 164	primordial follicle
+T12	TranscriptionFactor 349 354	Figla
+T49	Cell 462 482	primordial follicles
+T50	TranscriptionFactor 533 542	homologue
+T51	Tissue 604 609	ovary
+T52	ExperimentalMethod 636 652	real-time RT-PCR
+T21	Gene 681 691	FIGLA gene
+T23	Tissue 718 723	ovary
+T54	Cell 848 867	primordial follicle
+T55	ProteinCodingRegion 890 896	coding
+T56	Exon 925 931	exonic
+T57	ExperimentalMethod 954 991	Electrophoretic mobility shift assays
+T32	TranscriptionFactor 1022 1035	FIGLA protein
+T58	TranscriptionFactor 1066 1071	FIGLA
+T35	bHLHTF 1096 1107	E12 protein
+T59	RegulatoryDNARegion 1124 1129	E-box
+T60	Gene 1143 1146	ZP2
+T61	ExperimentalMethod 1165 1180	mobility shifts
+T40	Tissue 1212 1217	ovary
+T62	TranscriptionFactor 1255 1260	FIGLA
+T63	Cell 1286 1292	oocyte
+T64	Cell 1305 1325	primordial follicles
+T66	Tissue 1361 1366	ovary
+T3	TranscriptionFactor 28 33	FIGLA
+T4	Cell 74 93	primordial follicle
+T7	Tissue 123 128	ovary
+T67	ExperimentalMethod 623 631;646 652	Standard RT-PCR

@@ -1,0 +1,50 @@
+T2	Eukaryote 18 23	human
+T3	Eukaryote 40 50	Drosophila
+T5	Function 79 88	functions
+T11	Eukaryote 323 333	Drosophila
+T14	CellComponent 471 480	cytoplasm
+T20	Nucleus 695 702	nucleus
+T22	Nucleus 773 780	nucleus
+T24	Eukaryote 844 849	human
+T25	Phenotype 850 860	phenotypes
+T28	Function 935 943	activity
+T31	CellComponent 1040 1049	cytoplasm
+T36	Nucleus 1168 1175	nucleus
+T50	Eukaryote 1635 1641	humans
+T52	Eukaryote 1674 1684	Drosophila
+T55	Eukaryote 1755 1760	human
+T57	ZincCoordinatingDomainTF 1018 1022	GLI3
+T34	MutantProtein 1141 1149	GLI3-PHS
+T8	ZincCoordinatingDomainTF 135 139	GLI3
+T59	ZincCoordinatingDomainTF 301 305	GLI3
+T60	ZincCoordinatingDomainTF 355 357	Ci
+T61	Gene 389 392	ptc
+T62	Gene 407 410	gsb
+T63	Gene 434 437	dpp
+T13	ZincCoordinatingDomainTF 446 448	Ci
+T16	TranscriptionActivator 584 589	Ci155
+T65	TranscriptionRepressor 627 631	Ci75
+T66	Protein 640 648	hedgehog
+T67	TranscriptionActivator 664 669	Ci155
+T68	Protein 729 737	hedgehog
+T70	TranscriptionRepressor 743 747	Ci75
+T71	ZincCoordinatingDomainTF 810 814	GLI3
+T72	ZincCoordinatingDomainTF 883 887	GLI3
+T73	ZincCoordinatingDomainTF 984 986	Ci
+T74	Gene 1064 1069	PTCH1
+T75	TranscriptionActivator 1114 1119	Ci155
+T76	ZincCoordinatingDomainTF 1190 1194	GLI3
+T77	Gene 1205 1210	PTCH1
+T78	TranscriptionRepressor 1243 1247	Ci75
+T40	MutantProtein 1253 1272	GCPS mutant protein
+T79	ZincCoordinatingDomainTF 1290 1294	GLI3
+T80	Gene 1305 1310	PTCH1
+T43	MutantProtein 1417 1427	GLI3-PAP-A
+T83	ZincCoordinatingDomainTF 1495 1499	GLI3
+T84	Gene 1510 1515	PTCH1
+T85	MutantProtein 1577 1585	GLI3-PHS
+T86	ZincCoordinatingDomainTF 1617 1621	GLI3
+T53	Gene 1685 1692	ci gene
+T51	Function 1648 1666	functional effects
+T87	ZincCoordinatingDomainTF 0 4	GLI3
+T4	ZincCoordinatingDomainTF 51 78	cubitus interruptus protein

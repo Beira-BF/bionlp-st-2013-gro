@@ -1,0 +1,58 @@
+T1	TranscriptionFactor 12 16	AP-2
+T7	Protein 216 232	tumor suppressor
+T8	Function 233 241	activity
+T13	TranscriptionFactor 401 405	AP-2
+T18	TranscriptionFactor 524 528	AP-2
+T22	TranscriptionFactor 600 604	AP-2
+T23	Promoter 615 623	promoter
+T26	TranscriptionFactor 657 661	AP-2
+T28	Eukaryote 691 696	human
+T29	Promoter 704 712	promoter
+T31	DNA 736 754	expression vectors
+T33	TranscriptionFactor 836 840	AP-2
+T37	Promoter 936 944	promoter
+T38	TranscriptionFactor 949 953	AP-2
+T39	TranscriptionFactor 974 978	AP-2
+T43	TranscriptionFactor 1076 1080	AP-2
+T46	Promoter 1115 1123	promoter
+T49	TranscriptionFactor 1226 1230	AP-2
+T54	TranscriptionFactor 1342 1346	AP-2
+T56	TranscriptionFactor 1372 1376	AP-2
+T57	DNA 1394 1397	DNA
+T63	Promoter 1512 1520	promoter
+T68	TranscriptionFactor 1651 1655	AP-2
+T77	Enzyme 115 121	Mn-SOD
+T5	Enzyme 136 154	antioxidant enzyme
+T78	Gas 197 203	oxygen
+T79	LivingEntity 189 193	life
+T80	Enzyme 205 211	Mn-SOD
+T10	Cell 274 290	transformed cell
+T81	Enzyme 339 345	Mn-SOD
+T14	EukaryoticCell 438 455	human fibroblasts
+T15	EukaryoticCell 466 496	SV-40 transformed counterparts
+T17	Enzyme 547 553	Mn-SOD
+T19	Gene 608 614	Mn-SOD
+T25	Cell 672 683	HepG2 cells
+T27	Gene 697 703	Mn-SOD
+T82	ReporterGene 713 731	reporter construct
+T32	TranscriptionFactor 788 807	AP-2 family members
+T35	Promoter 876 884	promoter
+T83	Gene 869 875	Mn-SOD
+T84	Gene 929 935	Mn-SOD
+T40	Gene 1023 1034	Mn-SOD gene
+T41	Gene 1108 1114	Mn-SOD
+T44	TranscriptionFactor 1125 1134	AP-2alpha
+T47	TranscriptionFactor 1139 1148	AP-2gamma
+T85	TranscriptionFactor 1186 1194	AP-2beta
+T50	Gene 1310 1318	c-erbB-3
+T51	Enzyme 1362 1368	Mn-SOD
+T52	TranscriptionFactor 1425 1430	AP-2B
+T86	DNA 1465 1468	DNA
+T88	Gene 1505 1511	Mn-SOD
+T90	Enzyme 1537 1543	Mn-SOD
+T65	TranslationFactor 1562 1566	AP-2
+T66	Cell 1614 1621	MRC-5VA
+T71	Enzyme 1744 1750	Mn-SOD
+T73	Cell 1754 1782	SV40-transformed fibroblasts
+T91	Enzyme 1811 1817	Mn-SOD
+T3	Enzyme 40 70	manganese superoxide dismutase

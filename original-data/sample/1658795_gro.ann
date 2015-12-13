@@ -1,0 +1,67 @@
+T8	RegulatoryProcess 184 194	regulation
+E2	RegulatoryProcess:T8 hasPatient:T12
+T10	TranscriptionFactor 226 233	pAT 133
+T11	Activation 245 252	induced
+E3	Activation:T11 hasPatient:T12
+T19	Gene 360 364	gene
+T20	Activation 380 387	induced
+E10	Activation:T20 hasPatient:T19
+R7	locatedIn Arg1:E10 Arg2:T22
+R8	locatedIn Arg1:E10 Arg2:T23
+T21	Eukaryote 420 425	human
+T22	Cell 426 433	T cells
+R9	fromSpecies Arg1:T22 Arg2:T21
+T23	Cell 441 452	fibroblasts
+T24	Protein 494 513	the encoded protein
+R10	hasPart Arg1:T24 Arg2:T25
+T25	ZincCoordinatingDomain 536 559	zinc - finger sequences
+T26	ZincCoordinatingDomain 599 619	zinc - finger region
+T27	BindingOfDNABindingDomainOfProteinToDNA 642 646	bind
+E11	BindingOfDNABindingDomainOfProteinToDNA:T27 hasPatient:T28 hasAgent:T26
+T28	DNA 647 650	DNA
+T40	RegulatoryProcess 1075 1085	regulation
+E12	RegulatoryProcess:T40 hasPatient:T42
+T42	Gene 1089 1133	these related zinc - finger - encoding genes
+T45	Cell 1200 1213	T lymphocytes
+T46	Cell 1229 1240	fibroblasts
+T52	Gene 1334 1349	the three genes
+T53	RegulatoryProcess 1367 1376	regulated
+E19	RegulatoryProcess:T53 hasPatient:T52
+T54	Eukaryote 1382 1387	human
+T55	Cell 1388 1410	histiocytic U937 cells
+R15	fromSpecies Arg1:T55 Arg2:T54
+T56	MessengerRNA 1411 1415	mRNA
+T58	GeneExpression 1452 1461	expressed
+E20	GeneExpression:T58 hasPatient:T56
+T59	MessengerRNA 1472 1476	mRNA
+T61	Activation 1497 1504	induced
+E21	Activation:T61 hasPatient:T59
+T62	Activation 1510 1519	induction
+E22	Activation:T62 hasPatient:E23
+T63	CellDifferentiation 1523 1547	terminal differentiation
+E23	CellDifferentiation:T63 
+T64	MessengerRNA 1562 1566	mRNA
+T65	TranscriptionFactor 1580 1592	pAT 591/EGR2
+T68	RegulatoryProcess 1705 1712	control
+E25	RegulatoryProcess:T68 hasAgent:T70 hasPatient:E26
+T69	CellularProcess 1716 1734	cell proliferation
+E26	CellularProcess:T69 
+T70	Protein 1739 1762	the respective proteins
+T2	CellCyclePhaseTransition 258 268	transition
+E1	CellCyclePhaseTransition:T2 
+R3	fromSpecies Arg1:T23 Arg2:T21	
+T5	Activation 1177 1188	stimulation
+E4	Activation:T5 hasAgent:T6 hasPatient:T45
+T6	MolecularEntity 1167 1176	mitogenic
+R4	resultsIn Arg1:E22 Arg2:E21	
+R5	resultsIn Arg1:E1 Arg2:E3	
+T12	Gene 200 204	gene
+R1	encodes Arg1:T12 Arg2:T10	
+T13	TranscriptionFactor 352 359	pAT 133
+R11	encodes Arg1:T19 Arg2:T13	
+T15	TranscriptionFactor 1425 1432	pAT 133
+R12	encodes Arg1:T56 Arg2:T15	
+T16	TranscriptionFactor 1480 1492	pAT 225/EGR1
+R13	encodes Arg1:T59 Arg2:T16	
+R14	encodes Arg1:T64 Arg2:T65	
+E5	Activation:T5 hasAgent:T6 hasPatient:T46

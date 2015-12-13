@@ -1,0 +1,33 @@
+T8	Protein 338 346	proteins
+T11	Locus 452 456	loci
+T14	ExperimentalMethod 562 566	FISH
+T21	Sequence 882 890	sequence
+T34	Gene 1371 1376	genes
+T36	Cell 1421 1428	myeloid
+T5	Chromosome 147 157;159 160	chromosome 5
+T38	Chromosome 147 157;165 166	chromosome 7
+T7	Gene 289 293	PURA
+T41	Gene 298 302	PURB
+T42	Protein 354 364	Pur family
+T9	Chromosome 400 406	5q31.1
+T10	Chromosome 411 415	7p13
+T13	ExperimentalMethod 569 592	High-resolution mapping
+T15	Chromosome 628 644	1.1 Mb telomeric
+T45	Gene 652 662	EGR-1 gene
+T46	Gene 596 600	PURA
+T47	Gene 677 681	PURA
+T48	Gene 712 717	EGR-1
+T49	Gene 732 736	PURA
+T50	Chromosome 773 780	segment
+T52	ProteinCodingRegion 875 881	coding
+T53	Gene 894 898	PURA
+T54	Gene 924 928	PURA
+T55	Gene 933 937	PURB
+T24	Gene 1106 1125	gene family members
+T59	Protein 1184 1193	Pur alpha
+T26	Protein 1285 1294	Pur alpha
+T27	Protein 1299 1307	Pur beta
+T28	Gene 13 17	PURA
+T60	Chromosome 22 26	5q31
+T61	Gene 32 36	PURB
+T62	Chromosome 41 45	7p13

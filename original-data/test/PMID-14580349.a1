@@ -1,0 +1,30 @@
+T2	Eukaryote 56 61	mouse
+T5	Eukaryote 125 130	Human
+T6	TranscriptionFactorComplex 131 136	TFIID
+T8	TBP 172 175	TBP
+T10	TranscriptionFactorComplex 273 278	TFIID
+T11	Promoter 293 301	promoter
+T12	TranscriptionCoactivator 321 333	coactivators
+T13	Eukaryote 357 362	human
+T14	Function 410 420	functional
+T15	TranscriptionFactorComplex 421 426	TFIID
+T16	Eukaryote 477 482	mouse
+T17	Eukaryote 527 532	mouse
+T20	TranscriptionFactorComplex 640 645	TFIID
+T7	ProteinSubunit 213 218	hTAFs
+T31	ProteinSubunit 374 378	TAF8
+T32	Protein 443 451	ortholog
+T33	Protein 483 486	TBN
+T34	ProteinSubunit 588 592	TAF8
+T36	Cell 905 911	3T3-L1
+T37	Cell 670 676	3T3-L1
+T38	Cell 694 704	adipocytes
+T39	Protein 742 746	TAFs
+T25	HistoneFold 817 836	histone fold domain
+T40	ProteinSubunit 840 844	TAF8
+T41	MutantProtein 873 879	mutant
+T42	ProteinSubunit 952 956	TAF8
+T45	HistoneFold 1044 1056	histone fold
+T46	ProteinSubunit 1098 1102	TAF8
+T1	Protein 4 7	TBN
+T47	ProteinSubunit 91 96	TAFII

@@ -1,0 +1,19 @@
+T1	Eukaryote 19 29	eukaryotic
+T2	TranscriptionFactor 30 51	transcription factors
+T4	Protein 167 175	proteins
+T5	CellComponent 192 204	cell surface
+T6	CellComponent 242 252	organelles
+T7	Eukaryote 276 281	human
+T13	DNA 501 504	DNA
+T15	TranscriptionFactor 525 528	Sp1
+T20	TranscriptionFactor 671 687;696 717	RNA polymerase I transcription factors
+T22	Peptide 770 781	polypeptide
+T27	RNAPolymeraseII 1031 1048	RNA polymerase II
+T8	TranscriptionFactor 321 324	Sp1
+T9	OrganicChemical 370 376	GlcNAc
+T10	Protein 414 435	wheat germ agglutinin
+T16	TranscriptionFactor 554 593	RNA polymerase II transcription factors
+T17	OrganicChemical 613 628	GlcNAc residues
+T18	TranscriptionFactor 671 685;692 717	RNA polymerase III transcription factors
+T19	TranscriptionFactor 836 861	RNA polymerase II factors
+T23	OrganicChemical 930 954	O-linked GlcNAc residues

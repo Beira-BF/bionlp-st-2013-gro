@@ -1,0 +1,25 @@
+T5	Nucleus 70 77	nuclear
+T16	Phenotype 572 581	phenotype
+T20	Protein 665 672	protein
+T23	Cell 789 800	subcellular
+T34	Nucleus 1167 1174	nucleus
+T40	Nucleus 1318 1325	nuclear
+T41	Protein 1342 1349	protein
+T44	Protein 1468 1475	protein
+T46	Cell 1492 1503	subcellular
+T2	Protein 32 45	TWIST protein
+T48	Protein 88 95	H-TWIST
+T6	bHLHTF 121 172	basic helix-loop-helix (bHLH) transcription factors
+T8	Gene 276 283	H-TWIST
+T50	Function 673 681	function
+T52	MutantProtein 832 844	TWIST mutant
+T26	Protein 911 918	protein
+T55	Protein 1012 1019	H-TWIST
+T28	ProteinDomain 970 985	helical domains
+T31	bHLHTF 1048 1064	E12 bHLH protein
+T56	BindingAssay 1072 1089	two-hybrid system
+T33	Protein 1134 1147	TWIST protein
+T35	Cell 1178 1199	COS-transfected cells
+T43	Protein 1421 1434	TWIST protein
+T59	Function 1435 1443	function
+T62	Gene 630 634	gene

@@ -1,0 +1,29 @@
+T1	Enzyme 29 33	PCAF
+T2	ProteinComplex 52 59	complex
+T3	Enzyme 61 65	PCAF
+T8	Enzyme 193 197	PCAF
+T9	ProteinComplex 212 219	complex
+T10	Peptide 256 268	polypeptides
+T11	Peptide 287 299	polypeptides
+T13	ProteinSubunit 358 366	subunits
+T14	TranscriptionFactorComplex 370 375	TFIID
+T15	TranscriptionFactorComplex 382 387	TFIID
+T17	ProteinComplex 444 456	PCAF complex
+T18	ProteinSubunit 478 494	H2B-like subunit
+T20	ProteinComplex 507 519	PCAF complex
+T21	TranscriptionFactorComplex 550 555	TFIID
+T23	ProteinComplex 613 625	PCAF complex
+T24	ProteinSubunit 638 661	histone H4-like subunit
+T26	ProteinDomain 716 738	histone H3-like domain
+T28	ProteinComplex 768 780	PCAF complex
+T29	ProteinSubunit 793 800	subunit
+T30	ProteinDomain 806 818	WD40 repeats
+T12	ProteinSubunit 341 345	TAFs
+T31	HistoneFoldTF 389 420	histone fold-containing factors
+T32	ProteinSubunit 462 473;487 494	histone H3- subunit
+T33	ProteinSubunit 565 575	hTAF(II)31
+T34	ProteinSubunit 580 593	hTAF(II)20/15
+T16	ProteinSubunit 681 691	hTAF(II)80
+T19	ProteinSubunit 742 752	hTAF(II)31
+T22	ProteinSubunit 842 853	hTAF(II)100
+T27	ProteinSubunit 0 17	Histone-like TAFs

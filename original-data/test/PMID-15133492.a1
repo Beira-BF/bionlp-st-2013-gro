@@ -1,0 +1,30 @@
+T3	DNABindingDomainOfTF 71 90	DNA-binding domains
+T4	TranscriptionFactor 96 106	E2F family
+T8	Function 233 243	functional
+T9	Eukaryote 278 283	human
+T12	DNABindingDomainOfTF 341 360	DNA-binding domains
+T14	Eukaryote 408 417	mammalian
+T15	TranscriptionFactor 418 430	E2F proteins
+T19	DNA 536 539	DNA
+T24	TranscriptionFactor 674 686	E2F proteins
+T25	DNABindingDomainOfTF 747 766	DNA-binding domains
+T29	Protein 856 863	protein
+T31	DNA 909 912	DNA
+T33	DNABindingDomainOfTF 948 967	DNA-binding domains
+T34	TranscriptionFactor 1040 1043	E2F
+T36	Function 1081 1091	functional
+T39	Cell 1146 1154	cellular
+T5	TranscriptionFactor 311 316	E2F-7
+T10	TranscriptionFactor 318 323	E2F-7
+T11	TranscriptionFactor 485 502	E2F-like proteins
+T16	Plant 508 519	Arabidopsis
+T17	TranscriptionFactor 521 526	E2F-7
+T18	TranscriptionFactor 559 561	DP
+T22	TranscriptionFactor 620 625	E2F-7
+T43	Function 654 664	properties
+T46	MolecularStructure 864 873	modelling
+T48	TranscriptionFactor 1044 1046	DP
+T49	MolecularStructure 1066 1076	structural
+T37	TranscriptionFactor 1106 1111	E2F-7
+T1	TranscriptionFactor 0 5	E2F-7
+T2	TranscriptionFactor 391 396	E2F-7

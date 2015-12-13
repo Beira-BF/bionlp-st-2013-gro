@@ -1,0 +1,44 @@
+T1	HMGTF 0 4	SOX9
+T7	Tissue 127 133	tissue
+T13	Eukaryote 211 217	murine
+T14	TranscriptionFactor 252 272	transcription factor
+T15	HMGTF 273 277	SOX9
+T17	HMGTF 361 365	SOX9
+T19	Eukaryote 388 393	mouse
+T20	Eukaryote 398 403	human
+T21	Eukaryote 431 435	mice
+T22	Cell 437 442	cells
+T24	HMGTF 468 472	SOX9
+T28	Eukaryote 628 632	mice
+T29	HMGTF 634 638	SOX9
+T34	Eukaryote 749 753	mice
+T36	HMGTF 799 803	SOX9
+T39	HMGTF 906 910	Sox9
+T43	Eukaryote 1017 1021	mice
+T45	HMGTF 1117 1121	SOX9
+T48	HMGTF 1227 1231	SOX9
+T51	HMGTF 1315 1317	it
+T55	Tissue 237 246	epithelia
+T56	Tissue 228 236	prostate
+T57	Tissue 301 309	prostate
+T58	Tissue 369 377	prostate
+T59	MutantProtein 408 412;424 430	Pten mutant
+T60	MutantProtein 417 423	Nkx3.1
+T61	Tissue 489 497	prostate
+T62	Tissue 498 507	epithelia
+T65	Tissue 657 665	prostate
+T66	Tissue 666 675	epithelia
+T35	MutantProtein 786 797	mutant Pten
+T70	Tissue 857 865	prostate
+T71	Tissue 866 881	intraepithelial
+T75	Tissue 955 963	prostate
+T41	Cell 964 979	epithelia cells
+T42	MutantProtein 1005 1016	Pten mutant
+T77	Tissue 1027 1035	prostate
+T79	Eukaryote 1075 1080	human
+T80	Tissue 1081 1089	prostate
+T47	ExperimentalMethod 1190 1203	Ki67 staining
+T82	Tissue 1290 1298	prostate
+T84	Cell 1327 1337	tumor cell
+T85	Tissue 22 30	prostate
+T86	Protein 74 78	PTEN

@@ -1,0 +1,55 @@
+T1	Eukaryote 0 5	Human
+T12	Enzyme 188 191	HAT
+T13	Eukaryote 218 242	Saccharomyces cerevisiae
+T15	Gene 286 291	genes
+T16	Chromatin 299 308	chromatin
+T22	Enzyme 424 428	PCAF
+T28	Eukaryote 656 665	mammalian
+T31	Eukaryote 774 779	human
+T33	Protein 823 831	homologs
+T34	Eukaryote 840 845	yeast
+T35	Eukaryote 883 888	human
+T36	Protein 889 897	proteins
+T37	Sequence 926 934	sequence
+T38	Eukaryote 952 957	yeast
+T40	TranscriptionCoactivator 1044 1071	transcriptional coactivator
+T41	Function 1072 1081	functions
+T42	Chromatin 1089 1098	chromatin
+T44	Cell 1145 1155	HeLa cells
+T46	Protein 1197 1203	SAP130
+T48	Protein 1250 1256	SAP130
+T55	ProteinComplex 1456 1463	complex
+T60	Cell 1586 1594	cellular
+T61	Chromatin 1613 1622	chromatin
+T66	Sequence 1730 1738	sequence
+T72	Enzyme 151 155	GCN5
+T11	ProteinComplex 324 328	SAGA
+T17	EukaryoticCell 375 390	Mammalian cells
+T18	Enzyme 433 438	GCN5L
+T19	ProteinComplex 501 513	PCAF complex
+T20	ProteinComplex 515 519	TFTC
+T21	ProteinComplex 580 585	STAGA
+T23	ProteinComplex 666 679	HAT complexes
+T24	ExperimentalMethod 733 745	purification
+T25	ProteinComplex 780 793	STAGA complex
+T26	ProteinComplex 808 813	STAGA
+T27	TranscriptionCoactivator 846 861	SAGA components
+T29	ProteinDomain 903 921	histone-like folds
+T30	Protein 958 962	SPT7
+T32	Protein 967 971	ADA1
+T73	ProteinComplex 1006 1011	STAGA
+T39	OrganicChemical 1016 1033	acetyl coenzyme A
+T45	Protein 1209 1213	DDB1
+T49	ProteinComplex 1295 1299	SF3b
+T51	ComplexOfProteinAndRNA 1321 1329	U2 snRNP
+T52	Spliceosome 1350 1375	prespliceosomal complexes
+T76	Protein 1377 1381	DDB1
+T53	Protein 1394 1424	UV-damaged-DNA-binding protein
+T54	Protein 1469 1473	DDB2
+T56	ProteinComplex 1604 1609	STAGA
+T67	TranscriptionActivator 1748 1772	transcription activators
+T68	Protein 1782 1792	components
+T2	ProteinComplex 6 19	STAGA complex
+T3	TranscriptionActivator 25 72	chromatin-acetylating transcription coactivator
+T4	Protein 115 141	DNA damage-binding factors
+T5	Protein 134 141;93 110	factors pre-mRNA splicing

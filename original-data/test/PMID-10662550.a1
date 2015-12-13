@@ -1,0 +1,26 @@
+T6	HMGTF 118 130	SOX proteins
+T7	TranscriptionFactor 135 156	transcription factors
+T8	DNABindingDomainOfProtein 192 209	DNA-binding motif
+T11	Eukaryote 259 264	human
+T13	AminoAcid 296 306	amino-acid
+T14	Protein 307 314	protein
+T16	Tissue 349 354	brain
+T17	Tissue 384 391	tissues
+T18	HMGTF 434 438	SOX9
+T19	ProteinDomain 486 508	transactivation domain
+T20	ProteinDomain 527 538	this domain
+T21	Protein 577 584	protein
+T27	Gene 963 967	gene
+T28	Phenotype 1007 1016	phenotype
+T1	Gene 4 13	SOX8 gene
+T2	Chromosome 53 67	chromosome 16p
+T5	HMG 223 233	HMG domain
+T9	Gene 265 274	SOX8 gene
+T10	HMGTF 393 397	SOX8
+T12	HMGTF 443 448	SOX10
+T30	HMGTF 521 525	SOX8
+T22	DNARegion 679 700	1 Mb from this region
+T34	Gene 800 804	SOX8
+T35	Gene 601 605	SOX8
+T36	Chromosome 653 660	16p13.3
+T37	Gene 938 942	SOX8

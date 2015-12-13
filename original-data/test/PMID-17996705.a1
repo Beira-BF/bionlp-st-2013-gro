@@ -1,0 +1,38 @@
+T2	TranscriptionFactor 25 28	p53
+T14	Gene 253 258	genes
+T17	TranscriptionFactor 334 337	p53
+T20	ProteinComplex 366 371	TFIID
+T22	Promoter 396 404	promoter
+T23	ProteinDomain 417 429	bromodomains
+T24	Cell 449 454	cells
+T25	TranscriptionFactor 468 471	p53
+T29	Promoter 564 572	promoter
+T30	Promoter 602 610	promoter
+T31	TranscriptionFactor 633 636	p53
+T32	ProteinDomain 637 648	bromodomain
+T38	Promoter 736 744	promoter
+T39	ProteinComplex 759 764	TFIID
+T40	ProteinSubunit 765 773	subunits
+T41	ProteinSubunit 790 793	TBP
+T42	Promoter 819 827	promoter
+T44	ProteinSubunit 886 894	subunits
+T45	ProteinComplex 898 903	TFIID
+T46	Promoter 943 951	promoter
+T10	TranscriptionFactor 168 192	p53 transcription factor
+T11	Gene 269 272	p21
+T16	AminoAcid 315 330	lysine residues
+T21	ProteinSubunit 372 384	subunit TAF1
+T51	Gene 392 395	p21
+T52	AminoAcid 475 494	lysines 373 and 382
+T54	ProteinSubunit 519 523	TAF1
+T27	ProteinBindingSiteOfDNA 536 552	p53-binding site
+T28	Gene 560 563	p21
+T57	ProteinSubunit 670 674	TAF1
+T36	ProteinBindingSiteOfDNA 706 722	p53-binding site
+T37	ProteinSubunit 774 778	TAF4
+T58	ProteinSubunit 780 784	TAF5
+T59	ProteinSubunit 837 841	TAF1
+T43	DNA 865 868	DNA
+T62	Gene 939 942	p21
+T49	TranscriptionFactor 1041 1065	p53 transcription factor
+T4	ProteinComplex 38 48	holo-TFIID

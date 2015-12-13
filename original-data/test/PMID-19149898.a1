@@ -1,0 +1,39 @@
+T2	Protein 33 37	BRG1
+T5	Protein 89 97	p16INK4a
+T8	Eukaryote 140 145	human
+T11	Gene 207 211	gene
+T12	Protein 232 240	p16INK4a
+T19	Function 348 356	function
+T20	Function 383 393	activities
+T22	Protein 442 450	p16INK4a
+T25	Function 546 555	functions
+T27	Protein 605 613	p16INK4a
+T29	Protein 622 630	partners
+T30	Protein 651 659	p16INK4a
+T33	Protein 708 712	BRG1
+T34	Protein 755 763	p16INK4a
+T35	Protein 768 772	BRG1
+T36	Cell 790 800	cell lines
+T39	Protein 842 850	p16INK4a
+T41	Protein 866 870	BRG1
+T43	Protein 905 909	BRG1
+T44	Protein 930 938	p16INK4a
+T48	Protein 990 998	p16INK4a
+T49	Protein 999 1003	BRG1
+T50	ProteinComplex 1004 1011	complex
+T52	Protein 1022 1026	BRG1
+T53	Chromatin 1027 1036	chromatin
+T54	Function 1049 1057	activity
+T56	Protein 1098 1102	BRG1
+T58	Protein 1174 1182	p16INK4a
+T67	Protein 1387 1395	p16INK4a
+T68	Chromatin 1401 1410	chromatin
+T69	Function 1450 1459	functions
+T1	Protein 99 114	CDKN2A/p16INK4a
+T10	Protein 250 253	pRb
+T24	BindingAssay 571 594	yeast-two-hybrid screen
+T26	Protein 679 707	chromatin remodelling factor
+T32	Cell 807 820	melanoma cell
+T60	Protein 1215 1232	tumour suppressor
+T61	ProteinComplex 1304 1341	SWI/SNF chromatin remodelling complex
+T72	Function 434 438	role

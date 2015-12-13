@@ -1,0 +1,53 @@
+T3	Tissue 55 71	pancreatic islet
+T5	Eukaryote 105 110	human
+T16	Eukaryote 445 451	rodent
+T19	Virus 505 515	adenoviral
+T21	Gene 540 544	gene
+T30	Nucleotide 873 876	ATP
+T31	CellComponent 891 900	cytosolic
+T33	Ion 927 931	Ca2+
+T40	Ion 1065 1069	Ca2+
+T43	Cell 1138 1143	cells
+T45	MessengerRNA 1173 1177	mRNA
+T47	MessengerRNA 1231 1235	mRNA
+T57	Gene 1498 1503	genes
+T62	Gene 111 122	TCF7L2 gene
+T63	Peptide 151 158	insulin
+T64	Protein 244 250	TCF7L2
+T65	Peptide 258 265	insulin
+T66	Protein 320 326	TCF7L2
+T14	Cell 354 363	beta-cell
+T67	Protein 424 430	TCF7L2
+T68	Function 364 372	function
+T69	Tissue 452 458	islets
+T17	Cell 463 478	beta-cell lines
+T20	Cell 530 539	Beta-cell
+T72	ExperimentalMethod 571 597	quantitative real-time PCR
+T24	ExperimentalMethod 659 676	live cell imaging
+T74	ExperimentalMethod 678 697	electron microscopy
+T75	ExperimentalMethod 703 732	patch clamp electrophysiology
+T76	Protein 743 749	TCF7L2
+T79	Carbohydrate 786 793	glucose
+T80	Chemical 803 806	KCl
+T81	Peptide 815 822	insulin
+T82	Carbohydrate 838 845	glucose
+T84	Nucleotide 877 880	ADP
+T32	Protein 992 998	TCF7L2
+T35	Carbohydrate 1035 1042	glucose
+T85	Peptide 1076 1083	insulin
+T42	ExpressionProfiling 1093 1118	Gene expression profiling
+T86	Protein 1122 1128	TCF7L2
+T88	Protein 1187 1198	syntaxin 1A
+T89	Protein 1213 1221	Munc18-1
+T90	Protein 1226 1230	ZnT8
+T91	Protein 1308 1314	TCF7L2
+T92	CellComponent 1259 1290	morphologically docked vesicles
+T93	CellComponent 1328 1345	secretory granule
+T94	Quality 1369 1380	capacitance
+T96	Protein 1440 1446	TCF7L2
+T56	Cell 1488 1497	beta-cell
+T98	Peptide 1551 1558	insulin
+T100	Gene 1644 1650	TCF7L2
+T101	Protein 0 6	TCF7L2
+T102	Peptide 32 39	insulin
+T4	Cell 72 82	beta-cells

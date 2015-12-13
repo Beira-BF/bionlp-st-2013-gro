@@ -1,0 +1,46 @@
+T1	Eukaryote 10 16	murine
+T3	Enzyme 4 9	mUBC9
+T5	TranscriptionFactor 65 68	E2A
+T6	Protein 96 105	ubiquitin
+T9	Cell 130 138	cellular
+T10	Protein 139 147	proteins
+T11	CatalyticActivity 172 180	activity
+T12	Enzyme 211 213	E3
+T13	Enzyme 188 190	E2
+T14	BindingAssay 233 256	yeast two-hybrid system
+T15	DNA 289 294	cDNAs
+T16	Eukaryote 318 324	murine
+T18	Enzyme 325 327	E2
+T20	TranscriptionFactor 399 402	E2A
+T21	DNA 430 434	cDNA
+T22	AminoAcid 451 461	amino-acid
+T23	Enzyme 471 476	mUBC9
+T24	Sequence 501 509	sequence
+T25	Eukaryote 532 556	Saccharomyces cerevisiae
+T26	Eukaryote 621 626	human
+T30	Eukaryote 734 739	human
+T31	Enzyme 740 747	protein
+T32	Eukaryote 793 798	yeast
+T33	Bacterium 824 835	bacterially
+T35	FusionProtein 852 866	fusion protein
+T36	Eukaryote 879 885	murine
+T37	Cell 886 894	cellular
+T38	Protein 895 902	protein
+T41	PhysicalContinuant 1025 1030	serum
+T42	Protein 1031 1045	growth factors
+T45	Protein 1163 1179	nuclear proteins
+T48	Enzyme 184 186	E1
+T17	Enzyme 522 526	UBC9
+T49	Enzyme 561 565	HUS5
+T50	Eukaryote 571 596	Schizosaccharomyces pombe
+T51	Enzyme 627 631	UBC9
+T27	Enzyme 641 645	HUS5
+T52	Enzyme 690 694	UBC9
+T53	Enzyme 778 782	UBC9
+T56	Enzyme 846 851	mUBC9
+T57	TranscriptionFactor 976 979	E2A
+T39	Enzyme 985 990	mUBC9
+T43	Enzyme 1087 1091	UBC9
+T58	Enzyme 1096 1100	HUS5
+T59	Enzyme 1115 1120	mUBC9
+T2	CatalyticActivity 1051 1059	activity

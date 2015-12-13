@@ -1,0 +1,37 @@
+T9	Tissue 334 346	craniofacial
+T11	Tissue 370 375	heart
+T32	Gene 1078 1083	genes
+T33	Eukaryote 1104 1109	human
+T36	Eukaryote 1185 1190	human
+T38	TranscriptionCorepressor 96 100	BCOR
+T39	TranscriptionFactor 151 156	BCL-6
+T40	TranscriptionCorepressor 170 174	BCOR
+T41	Tissue 272 284	canine teeth
+T42	Tissue 305 310	roots
+T15	TranscriptionCorepressor 403 407	BCOR
+T16	Tissue 431 449	osteo-dentinogenic
+T44	Cell 487 491	MSCs
+T46	Tissue 575 579	root
+T47	TranscriptionFactor 588 597	AP-2alpha
+T48	TranscriptionCorepressor 639 643	BCOR
+T49	TranscriptionCorepressor 649 653	BCOR
+T20	TranscriptionFactor 698 707	AP-2alpha
+T50	ExperimentalMethod 709 714;724 742	Gain- of-function assays
+T22	ExperimentalMethod 719 742	loss-of-function assays
+T51	TranscriptionFactor 756 765	AP-2alpha
+T52	Tissue 810 828	osteo-dentinogenic
+T53	Cell 841 845	MSCs
+T55	TranscriptionCorepressor 871 875	BCOR
+T56	Tissue 887 893	tissue
+T57	Epigenetic 933 943	epigenetic
+T58	TranscriptionCorepressor 956 960	BCOR
+T59	Histone 988 992	H3K4
+T60	Histone 997 1002	H3K36
+T61	Cell 1018 1022	MSCs
+T64	Epigenetic 1149 1159	epigenetic
+T65	Cell 1197 1206	stem cell
+T66	Function 1207 1215	function
+T67	TranscriptionCorepressor 0 4	BCOR
+T2	Cell 15 36	mesenchymal stem cell
+T3	Function 37 45	function
+T68	Epigenetic 49 59	epigenetic

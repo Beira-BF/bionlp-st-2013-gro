@@ -1,0 +1,30 @@
+T1	Enzyme 0 4	Chk2
+T3	TranscriptionFactor 15 18	E2F
+T10	Cell 137 145	cellular
+T11	Stress 146 152	stress
+T13	Enzyme 210 214	Chk2
+T18	Enzyme 292 296	Chk2
+T20	TranscriptionFactor 331 334	E2F
+T24	Protein 395 402	protein
+T29	TranscriptionFactor 501 504	E2F
+T30	Nucleus 519 526	nuclear
+T35	TranscriptionFactor 605 608	E2F
+T37	TranscriptionFactor 624 627	E2F
+T39	TranscriptionFactor 661 664	E2F
+T44	Enzyme 757 761	Chk2
+T47	TranscriptionFactor 791 794	E2F
+T51	TranscriptionFactor 881 884	E2F
+T54	TranscriptionFactor 983 986	E2F
+T6	TranscriptionFactor 52 78	E2F-1 transcription factor
+T15	TranscriptionFactorActivity 226 240	E2F-1 activity
+T56	OrganicChemical 279 288	etoposide
+T57	AminoAcid 323 327	site
+T12	DNA 162 165	DNA
+T17	OrganicChemical 260 278	DNA-damaging agent
+T23	DNA 370 373	DNA
+T32	MutantProtein 573 584	Chk2 mutant
+T61	OrganicChemical 696 705	etoposide
+T41	Cell 709 721	tumour cells
+T42	MutantProtein 733 744	mutant chk2
+T49	DNA 812 815	DNA
+T5	DNA 36 39	DNA

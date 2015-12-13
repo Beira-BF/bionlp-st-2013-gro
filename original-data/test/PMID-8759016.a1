@@ -1,0 +1,52 @@
+T3	PhysicalContinuant 77 82	serum
+T4	Protein 83 97	growth factors
+T13	Function 326 334	activity
+T14	BindingAssay 340 363	yeast two-hybrid system
+T15	Protein 385 393	proteins
+T16	Eukaryote 423 429	murine
+T17	DNA 430 435	cDNAs
+T18	bHLHTF 487 512	helix-loop-helix proteins
+T22	Transcript 636 644	products
+T24	DNA 676 679	DNA
+T26	bHLHTF 697 705	proteins
+T29	bHLHTF 762 769	factors
+T33	Protein 861 869	proteins
+T34	bHLHTF 879 883	MyoD
+T35	bHLHTF 895 898	Myc
+T36	Function 935 943	function
+T39	bHLHTF 1016 1037	transcription factors
+T41	bHLHTF 1074 1078	MyoD
+T45	Cell 1206 1217	fibroblasts
+T46	Protein 1222 1235	growth factor
+T49	Function 1349 1359	functional
+T55	bHLHTF 122 125	Id3
+T56	bHLHTF 143 162	Id multigene family
+T6	bHLHTF 184 222	helix-loop-helix transcription factors
+T7	EukaryoticCell 246 264	murine fibroblasts
+T10	bHLHTF 322 325	Id3
+T12	bHLHTF 413 416	Id3
+T57	bHLHTF 514 517	E12
+T58	bHLHTF 519 522	E47
+T59	bHLHTF 524 528	ALF1
+T60	bHLHTF 533 536	Id4
+T19	ExperimentalMethod 538 567	Co-immunoprecipitation assays
+T61	bHLHTF 581 584	Id3
+T62	bHLHTF 600 603	E12
+T63	bHLHTF 605 608	E47
+T64	bHLHTF 648 652	ALF1
+T65	bHLHTF 663 666	Id3
+T30	EukaryoticCell 782 794	murine cells
+T31	bHLHTF 810 813	Id3
+T66	bHLHTF 870 874	E2-2
+T67	bHLHTF 927 930	Id3
+T38	bHLHTF 983 1012	basic-helix-loop-helix family
+T40	bHLHTF 1057 1069	'E' proteins
+T42	bHLHTF 1122 1125	E2A
+T68	bHLHTF 1178 1181	E2A
+T70	bHLHTF 1338 1341	Id3
+T50	bHLHTF 1374 1405	E2A-class transcription factors
+T51	bHLHTF 1424 1436	E2A proteins
+T1	bHLHTF 0 48	E2A basic-helix-loop-helix transcription factors
+T5	bHLHTF 109 120	Id3 protein
+T9	PhysicalContinuant 268 273	serum
+T71	Protein 274 288	growth factors

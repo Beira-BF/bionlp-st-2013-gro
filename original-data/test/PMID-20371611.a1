@@ -1,0 +1,61 @@
+T1	ProteinIdentification 0 14	Identification
+T3	TranscriptionActivator 65 79	transactivator
+T4	Eukaryote 84 89	human
+T7	Function 238 248	functional
+T8	Nucleus 262 269	nucleus
+T9	CellComponent 271 280	cytoplasm
+T10	CellComponent 286 298	mitochondria
+T17	Eukaryote 489 494	human
+T24	MessengerRNA 637 641	mRNA
+T25	Protein 646 653	protein
+T26	MessengerRNA 789 793	mRNA
+T34	ReporterGene 987 997	luciferase
+T35	Promoter 1084 1092	promoter
+T36	ReporterGene 1093 1103	luciferase
+T39	Promoter 1192 1200	promoter
+T43	DoubleStrandDNA 1382 1401	double-stranded DNA
+T44	TranscriptionFactor 1406 1409	Sp1
+T48	Promoter 1524 1532	promoter
+T50	TranscriptionActivator 1642 1656	transactivator
+T51	Eukaryote 1661 1666	human
+T56	Protein 143 150	hnRNP K
+T57	Protein 453 460	hnRNP K
+T18	Gene 509 513	LDLR
+T59	Gene 576 583	hnRNP K
+T60	SmallInterferingRNA 587 592	siRNA
+T61	Gene 632 636	LDLR
+T62	ExperimentalMethod 686 712	quantitative real-time PCR
+T63	ExperimentalMethod 717 738	Western blot analysis
+T64	Gene 784 788	LDLR
+T66	Gene 813 820	hnRNP K
+T67	SmallInterferingRNA 821 826	siRNA
+T29	Gene 853 857	LDLR
+T68	Promoter 858 866	promoter
+T69	Protein 935 942	hnRNP K
+T33	Gene 957 961	LDLR
+T70	Promoter 962 970	promoter
+T71	ExperimentalMethod 998 1012	reporter assay
+T74	DNA 1065 1075	constructs
+T75	Gene 1079 1083	LDLR
+T76	FusionOfGeneWithReporterGene 1104 1113	reporters
+T37	RegulatoryDNARegion 1129 1149	K-responsive element
+T38	DNARegion 1167 1169	R3
+T77	Sequence 1171 1179	sequence
+T78	ExperimentalMethod 1202 1239	Electrophoretic mobility shift assays
+T40	Protein 1254 1263	K protein
+T42	SingleStrandDNA 1275 1294	single-stranded DNA
+T80	DNARegion 1335 1337	R3
+T79	Nucleotide 1316 1318	CT
+T81	DNARegion 1324 1331	element
+T82	DNARegion 1421 1423	R3
+T46	ExperimentalMethod 1434 1470	chromatin immunoprecipitation assays
+T83	Protein 1502 1509	hnRNP K
+T84	Gene 1519 1523	LDLR
+T85	Protein 1618 1625	hnRNP K
+T86	Gene 1667 1676	LDLR gene
+T87	Gene 1754 1763	LDLR gene
+T2	Protein 18 59	heterogeneous nuclear ribonucleoprotein K
+T5	Gene 90 127	low density lipoprotein receptor gene
+T20	Cell 537 548	HepG2 cells
+T88	Gene 1187 1191	LDLR
+T49	Cell 1543 1554	HepG2 cells

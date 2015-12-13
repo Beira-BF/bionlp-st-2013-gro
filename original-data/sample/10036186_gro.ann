@@ -1,0 +1,41 @@
+T2	Increase 7 18	upregulated
+E1	Increase:T2 
+T3	Eukaryote 47 52	chick
+T4	Tissue 53 68	basilar papilla
+R3	fromSpecies Arg1:T4 Arg2:T3
+T7	Eukaryote 111 116	chick
+T8	Gene 117 121	WDR1
+R5	fromSpecies Arg1:T8 Arg2:T7
+T9	GeneExpression 130 139	expressed
+E2	GeneExpression:T9 hasPatient:T8
+R6	locatedIn Arg1:E2 Arg2:T11
+T10	Eukaryote 164 169	chick
+T11	Tissue 170 185	basilar papilla
+R7	fromSpecies Arg1:T11 Arg2:T10
+T32	BindingToProtein 647 651	bind
+E5	BindingToProtein:T32 hasPatient:T33 hasPatient:T1
+T33	Protein 652 657	actin
+T35	Protein 676 699	the novel chick protein
+T36	Protein 710 715	actin
+T37	BindingToProtein 718 725	binding
+E6	BindingToProtein:T37 hasPatient:T36 hasPatient:T35
+T42	Eukaryote 834 839	chick
+T43	Gene 840 844	WDR1
+R23	fromSpecies Arg1:T43 Arg2:T42
+T44	Eukaryote 856 861	mouse
+T45	Gene 862 866	Wdr1
+R24	fromSpecies Arg1:T45 Arg2:T44
+T46	Eukaryote 871 876	human
+T47	Gene 877 881	WDR1
+R25	fromSpecies Arg1:T47 Arg2:T46
+T48	Eukaryote 958 963	chick
+T49	Gene 964 968	WDR1
+R26	fromSpecies Arg1:T49 Arg2:T48
+T51	Eukaryote 1024 1029	chick
+T52	Tissue 1030 1045	basilar papilla
+R27	fromSpecies Arg1:T52 Arg2:T51
+T55	Eukaryote 1167 1172	human
+T56	Chromosome 1173 1185	chromosome 4
+R28	fromSpecies Arg1:T56 Arg2:T55
+R2	locatedIn Arg1:E1 Arg2:T4	
+T1	Protein 607 646	The yeast and P . polycephalum proteins

@@ -1,0 +1,50 @@
+T1	Exon 0 6	Exon-I
+T3	Eukaryote 65 70	human
+T5	Protein 127 139	glycoprotein
+T7	Gene 213 233	Angiotensinogen gene
+T9	Tissue 264 269	liver
+T11	Locus 280 290	gene locus
+T14	Exon 368 374	exon-I
+T17	Eukaryote 411 416	human
+T18	Gene 417 437	angiotensinogen gene
+T19	Cell 447 452	cells
+T20	Sequence 474 493	nucleotide sequence
+T21	Exon 497 503	exon-I
+T23	Tissue 513 518	liver
+T25	TranscriptionFactor 549 554	HNF-3
+T28	Sequence 680 688	sequence
+T31	ReporterGene 721 740	reporter constructs
+T32	Eukaryote 752 757	human
+T34	Promoter 779 787	promoter
+T37	Sequence 870 878	sequence
+T40	ReporterGene 913 932	reporter constructs
+T41	Eukaryote 938 943	human
+T42	Gene 944 964	angiotensinogen gene
+T44	NuclearReceptor 1027 1050	estrogen receptor-alpha
+T46	Sequence 1065 1073	sequence
+T50	Sequence 1197 1205	sequence
+T53	Promoter 1231 1239	promoter
+T54	ReporterGene 1252 1271	reporter constructs
+T55	Eukaryote 1283 1288	human
+T56	Gene 1289 1309	angiotensinogen gene
+T57	Promoter 1310 1318	promoter
+T58	ReporterGene 1362 1370	CAT gene
+T59	Tissue 1438 1444	tissue
+T61	Eukaryote 1472 1477	human
+T62	Gene 1478 1498	angiotensinogen gene
+T64	Gene 71 86	angiotensinogen
+T65	Protein 104 119	Angiotensinogen
+T66	Peptide 197 211	angiotensin-II
+T12	Tissue 441 446	liver
+T24	TranscriptionFactor 579 582	AP4
+T67	TranscriptionFactor 669 672	AP4
+T68	Gene 758 778	angiotensinogen gene
+T33	TranscriptionFactor 853 862	HNF-3beta
+T69	Sequence 971 987	C/A polymorphism
+T43	DNARegion 999 1002	-20
+T70	Nucleoside 1079 1091	nucleoside A
+T49	ReporterGene 1157 1174	expression vector
+T71	TranscriptionFactor 1186 1189	AP4
+T72	OrganicChemical 1214 1222	estrogen
+T73	Nucleoside 1325 1337	nucleoside A
+T74	DNARegion 1341 1344	-20

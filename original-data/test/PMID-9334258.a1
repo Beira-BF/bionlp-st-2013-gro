@@ -1,0 +1,51 @@
+T1	Sequence 0 8	Sequence
+T2	DNA 12 17	cDNAs
+T8	Eukaryote 171 176	mouse
+T12	Cell 220 231	fibroblasts
+T13	Cell 236 245	myoblasts
+T21	Function 548 558	activities
+T25	Peptide 656 668	polypeptides
+T27	SingleStrandDNA 732 738	strand
+T28	Enhancer 751 759	enhancer
+T30	Exon 802 806	exon
+T31	Gene 814 818	gene
+T33	Eukaryote 946 951	mouse
+T34	Tissue 952 956	lung
+T35	DNA 957 969	cDNA library
+T40	DNA 1099 1110	cDNA clones
+T41	Protein 1149 1157	proteins
+T45	DNA 1278 1281	DNA
+T47	Cell 1422 1430	cellular
+T4	Gene 177 216	vascular smooth muscle alpha-actin gene
+T9	Protein 294 321	single-stranded DNA binding
+T10	Function 322 332	activities
+T11	SingleStrandDNA 338 354	opposite strands
+T16	DNARegion 371 422	transcription enhancer factor-1 recognition element
+T17	Protein 582 633	vascular actin single-stranded DNA-binding factor 2
+T18	Peptide 670 673	p44
+T19	Peptide 678 681	p46
+T22	Nucleotide 720 726	purine
+T23	ProteinCodingDNARegion 787 801	protein coding
+T24	DNARegion 774 781	element
+T20	ExperimentalMethod 920 940	Expression screening
+T29	DNARegion 977 1048	vascular actin single-stranded DNA-binding factor 2 recognition element
+T32	Protein 1174 1182	Puralpha
+T36	Peptide 1123 1126	p46
+T37	Peptide 1131 1134	p44
+T38	Protein 1186 1216	retinoblastoma-binding protein
+T39	ExperimentalMethod 1353 1375	Comparative band shift
+T42	ExperimentalMethod 1380 1397	Southwestern blot
+T43	Peptide 1431 1434	p46
+T53	Peptide 1436 1439	p44
+T54	Protein 1344 1351	Purbeta
+T48	Protein 1452 1464	Pur proteins
+T55	Peptide 1521 1524	p46
+T56	Protein 1530 1538	Puralpha
+T57	Peptide 1543 1546	p44
+T58	Protein 1552 1559	Purbeta
+T59	Protein 1583 1591	Puralpha
+T60	Protein 1599 1606	Purbeta
+T50	Gene 1625 1664	vascular smooth muscle alpha-actin gene
+T3	Protein 41 92	vascular actin single-stranded DNA-binding factor 2
+T5	Protein 115 123	Puralpha
+T6	Protein 128 135	Purbeta

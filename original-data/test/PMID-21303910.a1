@@ -1,0 +1,69 @@
+T1	ProteinSubunit 0 7	Subunit
+T2	Eukaryote 28 33	human
+T4	ProteinComplex 98 110	core complex
+T5	CatalyticActivity 111 120	catalyzes
+T6	Nucleotide 121 124	ATP
+T7	Nucleosome 135 145	nucleosome
+T9	Eukaryote 198 203	human
+T10	Nucleotide 204 207	ATP
+T11	ProteinComplex 218 246	chromatin remodeling complex
+T12	Eukaryote 270 294	Saccharomyces cerevisiae
+T14	ProteinComplex 564 566	it
+T16	Sequence 627 635	sequence
+T18	ProteinSubunit 718 726	subunits
+T19	Eukaryote 742 747	yeast
+T21	ProteinSubunit 762 770	subunits
+T23	Eukaryote 870 875	human
+T26	ProteinDomain 953 960	domains
+T29	ProteinSubunit 1103 1111	subunits
+T30	Nucleotide 1136 1139	ATP
+T31	Nucleosome 1150 1160	nucleosome
+T48	Nucleotide 1661 1664	ATP
+T49	Nucleosome 1675 1685	nucleosome
+T52	ProteinComplex 1737 1749	core complex
+T57	ProteinSubunit 1892 1900	subunits
+T58	MolecularStructure 1953 1962	structure
+T59	Function 1967 1975	function
+T13	ProteinComplex 295 308	INO80 complex
+T15	Enzyme 588 606	Snf2 family ATPase
+T61	Enzyme 608 614	hIno80
+T17	Enzyme 657 669	Ino80 ATPase
+T62	Eukaryote 643 656	S. cerevisiae
+T20	ProteinComplex 748 761	INO80 complex
+T22	Eukaryote 797 805	metazoan
+T63	ProteinSubunit 815 823	subunits
+T24	ProteinComplex 876 889	INO80 complex
+T64	ProteinSubunit 911 918	modules
+T27	Enzyme 968 981	hIno80 ATPase
+T65	ProteinSubunit 989 996	modules
+T66	Peptide 1037 1047	N terminus
+T28	Enzyme 1055 1069	hIno80 protein
+T67	Eukaryote 1085 1093	metazoan
+T68	ProteinSubunit 1009 1012	one
+T69	ProteinSubunit 1180 1186	second
+T33	Enzyme 1211 1243	hIno80 Snf2-like ATPase/helicase
+T34	ProteinDomain 1248 1298	helicase-SANT-associated/post-HSA (HSA/PTH) domain
+T35	Protein 1304 1326	actin-related proteins
+T36	Protein 1327 1331	Arp4
+T37	Protein 1336 1340	Arp8
+T38	TranscriptionFactor 1350 1389	GLI-Kruppel family transcription factor
+T39	TranscriptionFactor 1390 1393	YY1
+T40	ProteinSubunit 1407 1412	third
+T41	ProteinDomain 1437 1462	hIno80 Snf2 ATPase domain
+T42	Protein 1468 1472;1482 1489	Ies2 protein
+T43	Protein 1477 1489	Ies6 protein
+T70	Enzyme 1496 1510	AAA(+) ATPases
+T71	Enzyme 1511 1517	Tip49a
+T72	Enzyme 1522 1528	Tip49b
+T45	Protein 1538 1559	actin-related protein
+T44	Protein 1560 1564	Arp5
+T46	ProteinComplex 1611 1625	hINO80 complex
+T47	ProteinSubunit 1626 1639	subassemblies
+T51	ProteinComplex 1704 1718	hINO80 complex
+T73	CatalyticActivity 1722 1731	catalyzed
+T53	ProteinDomain 1765 1787;1804 1810	hIno80 protein HSA/PTH domain
+T54	ProteinDomain 1792 1810	Snf2 ATPase domain
+T55	TranscriptionFactor 1835 1838	YY1
+T56	ProteinComplex 1983 2017	INO80 chromatin-remodeling complex
+T60	MolecularStructure 8 20	organization
+T3	ProteinComplex 34 68	INO80 chromatin remodeling complex

@@ -1,0 +1,36 @@
+T5	ProteinComplex 58 67	NF-kappaB
+T18	Stress 305 311	stress
+T21	bZIP 401 422	leucine zipper region
+T24	Stress 458 472	stress stimuli
+T25	Cell 541 546	cells
+T26	Protein 560 587	tumor necrosis factor-alpha
+T27	OrganicChemical 592 605	actinomycin D
+T28	Cell 609 614	cells
+T30	Cell 685 690	cells
+T33	Protein 730 757	tumor necrosis factor-alpha
+T43	TranscriptionCoactivator 965 973	CBP/p300
+T46	Promoter 1019 1034	promoter region
+T50	TranscriptionCoactivator 1099 1107	CBP/p300
+T52	Function 1174 1182	activity
+T53	ProteinComplex 1186 1195	NF-kappaB
+T59	Stress 1362 1368	stress
+T3	Gene 41 45	ATF3
+T15	TranscriptionFactor 177 205	transcription factor (ATF) 3
+T16	Transcript 293 301	isoforms
+T61	Transcript 362 369	variant
+T62	Transcript 370 383	ATF3deltaZip2
+T63	TranscriptionFactor 630 643	ATF3deltaZip2
+T64	TranscriptionFactor 660 673	ATF3deltaZip2
+T35	ProteinComplex 796 822	nuclear factor (NF)-kappaB
+T37	Gene 850 870	anti-apoptotic genes
+T38	Gene 879 884	cIAP2
+T67	Gene 889 893	XIAP
+T36	TranscriptionFactor 895 908	ATF3deltaZip2
+T40	ProteinComplex 926 953	p65 (RelA)-cofactor complex
+T41	Protein 978 983	HDAC1
+T42	Gene 1042 1052	cIAP2 gene
+T44	ProteinBindingSiteOfDNA 987 1002	NF-kappaB sites
+T47	TranscriptionFactor 1133 1146	ATF3deltaZip2
+T57	TranscriptionFactor 1305 1309	ATF3
+T9	TranscriptionCoactivator 127 164	CREB-binding protein/p300 coactivator
+T10	TranscriptionCoactivator 1229 1255	positive cofactor CBP/p300

@@ -1,0 +1,45 @@
+T3	Cell 67 84	endothelial cells
+T6	Protein 113 147	vascular endothelial growth factor
+T11	Cell 274 291	endothelial cells
+T12	Protein 332 340	proteins
+T18	Cell 528 545	endothelial cells
+T20	Cell 635 649	cultured cells
+T25	Promoter 739 747	promoter
+T26	Gene 767 771	gene
+T28	Protein 788 822	vascular endothelial growth factor
+T31	Cell 858 874	endothelial cell
+T42	Cell 1230 1247	endothelial cells
+T44	Protein 1364 1395	transforming growth factor beta
+T47	Protein 1433 1467	vascular endothelial growth factor
+T8	TranscriptionFactor 195 199	GATA
+T53	Cell 360 371	endothelial
+T14	TranscriptionFactor 380 384	GATA
+T15	BindingAssay 414 440	yeast two-hybrid screening
+T56	HomeoboxTF 494 497	Hex
+T58	HomeoboxTF 580 583	Hex
+T59	TranscriptionFactor 588 592	GATA
+T60	ExperimentalMethod 612 631	immunoprecipitation
+T61	HomeoboxTF 651 654	Hex
+T22	Gene 692 701	flk-1/KDR
+T62	Tissue 832 836	tube
+T63	ExperimentalMethod 888 925	electrophoretic mobility shift assays
+T64	HomeoboxTF 927 930	Hex
+T65	TranscriptionFactor 956 962	GATA-2
+T66	Gene 970 979	flk-1/KDR
+T34	DNARegion 980 1002	5'-untranslated region
+T67	TranscriptionFactorBindingSiteOfDNA 1003 1013	GATA motif
+T68	ExperimentalMethod 1027 1050	RNase protection assays
+T35	Protein 1052 1084	transforming growth factor beta1
+T36	Gene 1130 1135	flk-1
+T70	TranscriptionFactor 1167 1171	GATA
+T71	HomeoboxTF 1212 1215	Hex
+T72	HomeoboxTF 1333 1336	Hex
+T73	TranscriptionFactor 1341 1345	GATA
+T74	Enzyme 1419 1428	flk-1/KDR
+T52	TranscriptionFactorComplex 1525 1543	Hex-GATA complexes
+T2	HomeoboxTF 20 23	hex
+T76	TranscriptionFactor 28 32	GATA
+T77	Tissue 58 66	vascular
+T78	Enzyme 94 103	flk-1/KDR
+T17	Protein 504 524	GATA-binding partner
+T54	ProteinIdentification 323 331	identify

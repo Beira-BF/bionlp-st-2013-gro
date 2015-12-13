@@ -1,0 +1,38 @@
+T11	TranscriptionFactor 427 434	factors
+T25	TranscriptionFactor 956 963	factors
+T27	MicroRNA 113 119	miRNAs
+T28	Posttranscriptional 125 144	posttranscriptional
+T4	GeneExpressionRegulator 145 174	modulators of gene expression
+T30	MicroRNA 283 290	miR-145
+T8	EukaryoticCell 344 349	hESCs
+T31	TranscriptionFactor 435 439	OCT4
+T32	TranscriptionFactor 441 445	SOX2
+T33	TranscriptionFactor 451 455	KLF4
+T34	MicroRNA 477 484	miR-145
+T35	MicroRNA 510 517	miR-145
+T12	DNARegion 532 555	3' untranslated regions
+T37	Gene 559 563	OCT4
+T38	Gene 565 569	SOX2
+T39	Gene 575 579	KLF4
+T40	MicroRNA 591 598	miR-145
+T43	EukaryoticCell 619 623	hESC
+T16	MicroRNA 738 745	miR-145
+T46	TranscriptionFactor 783 787	OCT4
+T47	TranscriptionFactor 789 793	SOX2
+T48	TranscriptionFactor 799 803	KLF4
+T49	MicroRNA 835 842	miR-145
+T50	Promoter 843 851	promoter
+T51	TranslationFactor 878 882	OCT4
+T52	EukaryoticCell 886 891	hESCs
+T53	MicroRNA 968 975	miR-145
+T54	FeedbackLoop 1007 1020	feedback loop
+T55	TranscriptionFactor 1031 1035	OCT4
+T56	TranscriptionFactor 1037 1041	SOX2
+T57	TranscriptionFactor 1043 1047	KLF4
+T58	MicroRNA 1053 1060	miR-145
+T59	MicroRNA 0 12	MicroRNA-145
+T60	TranscriptionFactor 23 27	OCT4
+T61	TranslationFactor 29 33	SOX2
+T62	TranscriptionFactor 39 43	KLF4
+T2	EukaryoticCell 74 100	human embryonic stem cells
+T17	Gene 662 680	pluripotency genes

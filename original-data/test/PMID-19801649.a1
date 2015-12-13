@@ -1,0 +1,46 @@
+T14	Sequence 323 332	sequences
+T15	Promoter 344 352	promoter
+T24	Eukaryote 584 589	human
+T35	AminoAcid 1002 1010	residues
+T43	Cell 1215 1220	cells
+T47	ProteinDomain 1344 1361	activation domain
+T54	bHLHTF 136 139	E47
+T7	bHLHTF 145 188	basic helix-loop-helix transcription factor
+T8	Cell 201 209	neuronal
+T11	bHLHTF 304 307	E47
+T16	Gene 360 369	TrkB gene
+T20	Protein 428 432	TrkB
+T55	Function 478 486	function
+T56	Eukaryote 494 504	vertebrate
+T57	Tissue 505 519	nervous system
+T58	Protein 543 547	TrkB
+T23	bHLHTF 618 621	E47
+T59	Enzyme 637 641	MLK2
+T60	Enzyme 684 687	JNK
+T61	Enzyme 734 738	MLK2
+T32	ProteinDomain 771 774	AD2
+T62	bHLHTF 796 799	E47
+T63	Enzyme 813 816	JNK
+T34	AminoAcid 872 878	serine
+T64	AminoAcid 883 892	threonine
+T65	MolecularStructure 911 931	loop-helix structure
+T66	ProteinDomain 935 938	AD2
+T67	Enzyme 969 972	MLK
+T68	ProteinBindingSiteOfProtein 973 985	docking site
+T69	Enzyme 1029 1033	MLK2
+T70	bHLHTF 1059 1062	E47
+T71	Enzyme 1078 1082	MLKs
+T72	OrganicChemical 1086 1094	CEP11004
+T73	Gene 1119 1123	TrkB
+T74	Tissue 1154 1164	cerebellar
+T41	Cell 1165 1180	granule neurons
+T75	Tissue 1201 1214	neuroblastoma
+T76	Enzyme 1284 1287	MLK
+T77	Protein 1298 1302	TrkB
+T78	bHLHTF 1365 1368	E47
+T79	Enzyme 1408 1411	MLK
+T82	Enzyme 0 20	Mixed lineage kinase
+T2	bHLHTF 57 60	E47
+T83	Protein 74 78	TrkB
+T84	Cell 98 106	neuronal
+T12	RegulatoryDNARegion 317 322	E-box

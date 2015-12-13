@@ -1,0 +1,37 @@
+T1	Enzyme 0 22	Protein phosphatase 2A
+T3	Nucleus 50 57	nuclear
+T5	TranscriptionFactorActivity 75 83	activity
+T14	Gene 313 318	genes
+T17	Enzyme 386 408	protein phosphatase 2A
+T18	Enzyme 410 414	PP2A
+T23	Eukaryote 484 493	mammalian
+T27	Nucleus 554 561	nuclear
+T31	Enzyme 628 632	PP2A
+T32	CatalyticActivity 633 641	activity
+T33	ExperimentalMethod 645 654	treatment
+T35	CellComponent 679 688	cytosolic
+T42	Enzyme 835 839	PP2A
+T49	Function 1106 1113	effects
+T50	OrganicChemical 27 36	rapamycin
+T6	TranscriptionFactor 91 116	transcription factor GLI3
+T8	Protein 154 168	sonic hedgehog
+T51	Protein 170 173	SHH
+T52	TranscriptionFactor 257 261	GLI1
+T53	TranscriptionFactor 263 267	GLI2
+T54	TranscriptionFactor 273 277	GLI3
+T13	ProteinSubunit 421 439	regulatory subunit
+T19	ProteinSubunit 441 447	alpha4
+T20	OrganicChemical 453 462	rapamycin
+T21	ProteinComplex 504 530	rapamycin kinase complex 1
+T24	ProteinComplex 532 538	mTORC1
+T25	TranscriptionFactorActivity 579 603	transcriptional activity
+T29	TranscriptionFactor 607 611	GLI3
+T55	OrganicChemical 660 669	rapamycin
+T57	TranscriptionFactor 702 706	GLI3
+T37	Gene 755 771	GLI3 target gene
+T38	Gene 776 796	cell cycle regulator
+T39	Gene 798 807	cyclin D1
+T43	Protein 875 884	cyclin D1
+T45	Protein 1002 1005	SHH
+T47	Enzyme 1022 1043	tumor suppressor PP2A
+T48	OrganicChemical 1117 1126	rapamycin

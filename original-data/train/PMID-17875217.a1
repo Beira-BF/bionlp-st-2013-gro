@@ -1,0 +1,54 @@
+T4	Protein 25 30	Par17
+T6	CellComponent 50 70	mitochondrial matrix
+T7	Peptide 93 103	prepeptide
+T8	Eukaryote 124 133	Hominidae
+T9	Protein 139 147	parvulin
+T10	Enzyme 153 188	peptidyl prolyl cis/trans isomerase
+T11	Enzyme 189 194	Par14
+T12	Eukaryote 222 231	metazoans
+T13	Protein 257 265	parvulin
+T14	Protein 266 271	Par17
+T15	ProteinDomain 295 312	N-terminal domain
+T16	Eukaryote 413 418	human
+T17	Protein 434 439	Par17
+T18	Eukaryote 445 451	bovine
+T19	Eukaryote 456 462	rodent
+T20	Gene 479 484	Par17
+T21	Exon 485 489	exon
+T22	Eukaryote 518 533	primate species
+T23	Protein 561 566	Par17
+T24	Eukaryote 596 613	Hominidae species
+T25	Eukaryote 624 630	humans
+T26	Eukaryote 657 674	mammalian species
+T27	Enzyme 691 696	Par14
+T28	Protein 709 714	Par17
+T30	CellComponent 746 764	membrane fractions
+T31	Eukaryote 768 773	human
+T32	Cell 774 786	cell lysates
+T33	Protein 820 825	Par17
+T34	Enzyme 835 840	Par14
+T35	CellComponent 860 873	mitochondrial
+T36	Enzyme 884 889	Par14
+T37	Protein 894 899	Par17
+T39	Eukaryote 925 930	human
+T40	Eukaryote 932 935	rat
+T41	Eukaryote 940 945	yeast
+T42	CellComponent 946 958	mitochondria
+T43	Protein 1000 1005	Par17
+T44	CellComponent 1006 1019	mitochondrial
+T46	Protein 1077 1082	Par17
+T48	CellComponent 1101 1113	mitochondria
+T49	CellComponent 1128 1136	membrane
+T50	CellComponent 1186 1206	mitochondrial matrix
+T51	Protein 1218 1223	Par17
+T53	DoubleStrandDNA 1245 1264	double-stranded DNA
+T57	Protein 1343 1348	Par17
+T59	CellComponent 1368 1388	mitochondrial matrix
+T60	CellComponent 1418 1431	mitochondrial
+T61	Peptide 1432 1442	prepeptide
+T62	Protein 1478 1485	protein
+T63	CellComponent 1505 1518	mitochondrial
+T64	Eukaryote 1531 1540	Hominidae
+T1	Protein 4 24	DNA binding parvulin
+T2	CellComponent 728 741	mitochondrial
+T3	Protein 1322 1342	DNA binding parvulin

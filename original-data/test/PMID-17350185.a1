@@ -1,0 +1,65 @@
+T1	Protein 0 9	TNF-alpha
+T4	Eukaryote 37 42	human
+T6	Tissue 75 79	lung
+T8	Protein 98 125	Bone Morphogenetic Proteins
+T10	MolecularEntity 144 153	molecules
+T14	Eukaryote 240 250	Drosophila
+T17	Protein 369 378	TNF-alpha
+T21	Protein 438 447	TNF-alpha
+T23	MessengerRNA 461 465	mRNA
+T24	Tissue 469 473	lung
+T28	Eukaryote 546 551	human
+T29	Promoter 557 565	promoter
+T31	Promoter 640 648	promoter
+T35	Gene 722 731	TNF-alpha
+T36	ExperimentalMethod 732 741	treatment
+T37	Protein 759 763	RelA
+T39	Protein 787 796	TNF-alpha
+T40	Protein 850 859	TNF-alpha
+T43	Eukaryote 951 956	human
+T44	Promoter 962 970	promoter
+T45	ProteinBindingSiteOfDNA 1001 1014	binding sites
+T46	ProteinBindingSiteOfDNA 1063 1076	binding sites
+T48	ProteinBindingSiteOfDNA 1171 1184	binding sites
+T50	DNAFragment 1212 1220	fragment
+T52	Protein 1238 1242	RelA
+T55	Protein 1310 1314	RelA
+T56	Gene 1345 1354	TNF-alpha
+T60	Tissue 1438 1443	lungs
+T61	Protein 1481 1490	TNF-alpha
+T63	Protein 1499 1503	RelA
+T70	Tissue 1732 1736	lung
+T3	Gene 43 71	Bone Morphogenetic Protein-4
+T5	Cell 80 96	epithelial cells
+T7	Eukaryote 157 167	vertebrate
+T12	Gene 203 211	Bmp gene
+T15	Gene 256 264	Bmp gene
+T74	Gene 266 269	dpp
+T75	Protein 286 292	Dorsal
+T76	Eukaryote 298 310	invertebrate
+T77	Protein 311 320	homologue
+T78	ProteinComplex 324 333	Rel-NF-kB
+T79	ProteinComplex 396 401	NF-kB
+T20	Gene 416 420	Bmp4
+T80	Protein 456 460	Bmp4
+T25	Cell 474 499	adenocarcinoma A549 cells
+T81	Gene 552 556	Bmp4
+T27	Gene 635 639	Bmp4
+T33	Protein 675 685	p65 (RelA)
+T82	DNAMolecule 697 703	vector
+T38	Function 777 783	effect
+T84	TranscriptionRepressorActivity 830 846	repressor effect
+T85	Gene 863 867	Bmp4
+T86	MutantProtein 920 933	mutant of IkB
+T87	Gene 957 961	Bmp4
+T88	ProteinComplex 1019 1024	NF-kB
+T89	ProteinComplex 1100 1105	NF-kB
+T90	TranscriptionRepressorActivity 1107 1123	Repressor effect
+T91	ProteinComplex 1127 1132	NF-kB
+T51	Protein 1247 1250	SP1
+T54	Protein 1252 1255	SP1
+T94	ReporterGene 1393 1397	LacZ
+T95	ReporterGeneConstruction 1417 1426	Bmp4-lacz
+T97	Protein 1519 1522	SP1
+T66	Gene 1568 1577	Bmp4 gene
+T98	Protein 1650 1659	mediators

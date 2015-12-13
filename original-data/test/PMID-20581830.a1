@@ -1,0 +1,32 @@
+T6	TranscriptionCoactivator 89 101	coactivators
+T14	Cell 227 232	cells
+T17	Function 359 367	activity
+T19	Promoter 445 453	promoter
+T20	Function 462 470	activity
+T24	Protein 512 522	Interferon
+T25	TranscriptionFactor 547 567	transcription factor
+T26	Promoter 580 588	promoter
+T29	TranscriptionCoactivator 673 685	coactivators
+T30	Promoter 773 781	promoter
+T34	Eukaryote 882 887	human
+T35	Tissue 888 904	pancreatic islet
+T38	Cell 931 939	cellular
+T11	Protein 180 189	IFN-alpha
+T12	Protein 194 202	IFN-beta
+T41	TranscriptionFactor 304 308	MafB
+T42	TranscriptionFactor 369 373	MafB
+T18	TranscriptionActivatorActivity 390 431	positive basal regulator of transcription
+T43	Gene 439 444	IFNB1
+T21	ProteinBindingSiteOfDNA 474 510	transcription factor AP-1-like sites
+T22	MolecularEntity 523 532	elicitors
+T44	TranscriptionFactor 568 572	IRF3
+T45	TranscriptionFactor 600 604	MafB
+T46	Antagonist 632 642	antagonist
+T48	TranscriptionFactor 691 695	IRF3
+T49	TranscriptionFactor 761 765	MafB
+T51	TranscriptionFactor 838 842	IRF3
+T52	TranscriptionFactor 874 878	MafB
+T33	Cell 905 915	beta cells
+T53	TranscriptionFactor 25 29	MafB
+T2	Antagonist 30 41	antagonizes
+T54	TranscriptionFactor 130 134	IRF3

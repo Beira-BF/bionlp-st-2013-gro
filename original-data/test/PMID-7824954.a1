@@ -1,0 +1,47 @@
+T1	ExperimentalMethod 0 7	Cloning
+T2	Eukaryote 24 29	human
+T3	ProteinComplex 30 35	TFIID
+T4	ProteinSubunit 36 43	subunit
+T6	TranscriptionActivator 73 99	transcriptional activators
+T7	ProteinComplex 101 106	TFIID
+T8	ProteinSubunit 112 124	multisubunit
+T9	ProteinComplex 125 140	protein complex
+T11	TBP 180 183	TBP
+T13	ProteinComplex 241 246	TFIID
+T14	TranscriptionActivator 265 274	activator
+T16	ExperimentalMethod 304 311	cloning
+T17	DNA 317 334	complementary DNA
+T18	Eukaryote 346 351	human
+T20	Eukaryote 401 411	Drosophila
+T21	ProteinComplex 412 417	TFIID
+T24	Eukaryote 504 509	human
+T25	ProteinComplex 510 515	TFIID
+T27	Peptide 528 542	central region
+T28	TranscriptionActivator 561 571	activators
+T29	TranscriptionActivator 583 586	Sp1
+T30	Virus 603 613	adenoviral
+T31	TranscriptionActivator 614 617	E1A
+T32	Virus 623 658	human immunodeficiency virus-type 1
+T34	ProteinDomain 692 713	amino-terminal domain
+T36	TranscriptionActivator 749 752	Sp1
+T39	DNABindingDomainOfProtein 774 792	DNA-binding domain
+T40	ProteinDomain 836 854	activation domains
+T42	Eukaryote 889 899	Drosophila
+T43	Eukaryote 921 926	human
+T48	TranscriptionActivator 996 1006	activators
+T49	Protein 222 226	TAFs
+T50	Protein 233 237	TAFs
+T51	ProteinSubunit 363 370	TAFII55
+T19	Protein 352 361	TFIID TAF
+T52	ProteinSubunit 436 443	TAFII55
+T53	ProteinSubunit 491 499	TAFII230
+T26	ProteinSubunit 524 527	its
+T54	TranscriptionActivator 588 591	YY1
+T55	TranscriptionActivator 593 596	USF
+T56	TranscriptionActivator 598 601	CTF
+T33	TranscriptionActivator 659 671	Tat proteins
+T57	ProteinSubunit 719 726	TAFII55
+T37	AminoAcid 821 830	glutamine
+T38	ProteinSubunit 900 908	TAFII110
+T44	Protein 927 936	TFIID TAF
+T45	TranscriptionCoactivator 946 958	co-activator

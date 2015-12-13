@@ -1,0 +1,31 @@
+T1	Function 0 10	Functional
+T2	Eukaryote 27 32	human
+T5	ProteinSubunit 80 87	subunit
+T6	Eukaryote 95 100	human
+T8	TranscriptionFactor 122 127	TFIID
+T11	ProteinSubunit 266 273	subunit
+T15	AminoAcid 364 375	amino acids
+T16	CatalyticActivity 397 412	kinase activity
+T18	Function 429 437	function
+T20	AminoAcid 485 496	amino acids
+T21	ProteinDomain 500 517	the kinase domain
+T24	CatalyticActivity 577 587	activities
+T32	Promoter 837 846	promoters
+T38	CatalyticActivity 995 1010	kinase activity
+T40	Gene 1064 1069	genes
+T41	ProteinSubunit 129 137	TAFII250
+T9	ProteinDomain 174 205	serine/threonine kinase domains
+T43	GeneralTranscriptionFactor 281 299	basal factor TFIIF
+T12	ProteinDomain 338 362	N-terminal kinase domain
+T14	ProteinSubunit 615 623	TAFII250
+T17	ProteinDomain 653 677	N-terminal kinase domain
+T27	Cell 728 738	ts13 cells
+T44	Temperature 754 765	temperature
+T46	ProteinSubunit 776 784	TAFII250
+T31	Gene 819 827	cyclin A
+T47	Gene 832 836	cdc2
+T48	ProteinSubunit 888 897	hTAFII250
+T36	ProteinDomain 931 955	N-terminal kinase domain
+T37	ProteinSubunit 986 994	TAFII250
+T49	ProteinSubunit 33 41	TAFII250
+T3	ProteinDomain 42 66	N-terminal kinase domain

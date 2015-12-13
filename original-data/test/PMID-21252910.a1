@@ -1,0 +1,39 @@
+T9	Protein 188 191	p53
+T13	Stress 226 232	stress
+T14	Protein 234 237	p53
+T20	Cell 346 371	hematopoietic progenitors
+T27	Protein 675 678	p53
+T30	Protein 734 737	p53
+T35	Cell 830 837	neurons
+T40	LivingEntity 974 981	embryos
+T49	LivingEntity 1186 1193	embryos
+T56	Protein 1346 1349	p53
+T4	TranscriptionFactor 104 117	Snail factors
+T63	TranscriptionFactor 242 248	Snail2
+T64	Antagonist 253 269	antagonistically
+T16	Protein 282 320	p53 upregulated modulator of apoptosis
+T17	Protein 322 326	Puma
+T18	DNA 382 385	DNA
+T65	Tissue 451 476	developing nervous system
+T22	Gene 486 497	Snail genes
+T23	EukaryoticCell 516 534	vertebrate neurons
+T24	TranscriptionFactor 563 570	Scratch
+T66	TranscriptionFactor 598 620	neural-specific factor
+T25	TranscriptionFactor 643 651	scratch2
+T28	DNA 685 688	DNA
+T68	Protein 707 711	puma
+T33	TranscriptionFactor 784 792	scratch2
+T71	Protein 864 868	Puma
+T39	Gene 942 950	scratch2
+T74	Eukaryote 964 973	zebrafish
+T75	Cell 991 999	neuronal
+T76	Cell 1098 1106	neuronal
+T78	Cell 1134 1153	neuronal precursors
+T51	Cell 1228 1248	progenitor/stem cell
+T81	Protein 1350 1354	Puma
+T82	TranscriptionFactor 1360 1367	Scratch
+T83	Eukaryote 1385 1395	vertebrate
+T84	Tissue 1396 1410	nervous system
+T86	Protein 14 18	Puma
+T87	TranscriptionFactor 22 30	scratch2
+T88	Cell 47 55	neuronal

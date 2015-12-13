@@ -1,0 +1,45 @@
+T8	Tissue 174 181	cardiac
+T12	Tissue 371 376	heart
+T15	bHLHTF 508 521	bHLH proteins
+T25	Tissue 901 906	heart
+T27	Protein 980 987	protein
+T34	TranscriptionCoactivator 1107 1134	transcriptional coactivator
+T35	TranscriptionCorepressor 1139 1150	corepressor
+T37	TranscriptionCofactor 1202 1206	FHL2
+T46	TranscriptionCofactor 1383 1387	FHL2
+T49	DNA 1470 1473	DNA
+T59	Tissue 1728 1733	heart
+T6	bHLHTF 104 140	basic helix-loop-helix (bHLH) factor
+T7	bHLHTF 141 146	Hand1
+T60	bHLHTF 282 287	Hand1
+T61	bHLHTF 323 328	Hand1
+T62	bHLHTF 397 402	Hand1
+T63	bHLHTF 445 470	near-ubiquitous E-factors
+T17	bHLHTF 595 608	Hand1 protein
+T19	Protein 632 649	non-bHLH proteins
+T65	bHLHTF 732 737	Hand1
+T67	Function 782 790	function
+T24	bHLHTF 879 884	Hand1
+T68	Function 885 893	activity
+T70	bHLHTF 974 979	Hand1
+T29	Protein 1006 1022	non-bHLH factors
+T71	bHLHTF 1059 1064	Hand1
+T31	TranscriptionCofactor 1074 1092	LIM domain protein
+T32	TranscriptionCofactor 1093 1097	FHL2
+T33	Tissue 1179 1193	cardiovascular
+T72	bHLHTF 1222 1227	Hand1
+T39	bHLH 1236 1247	bHLH domain
+T40	bHLHTF 1271 1276	Hand1
+T73	bHLHTF 1277 1280	E12
+T74	bHLHTF 1336 1341	Hand1
+T75	bHLHTF 1342 1347	Hand1
+T47	bHLHTF 1460 1465	Hand1
+T76	bHLHTF 1466 1469	E12
+T77	bHLHTF 1548 1553	Hand1
+T55	TranscriptionCofactor 1607 1620	cofactor FHL2
+T56	bHLHTF 1695 1700	Hand1
+T58	Function 1701 1709	activity
+T78	bHLHTF 27 32	Hand1
+T3	TranscriptionCofactor 85 98	cofactor FHL2
+T4	bHLHTF 47 52	Hand1
+T5	bHLHTF 53 56	E12

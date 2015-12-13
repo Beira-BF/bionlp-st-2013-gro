@@ -1,0 +1,38 @@
+T3	Promoter 38 53	promoter region
+T4	Eukaryote 57 62	human
+T13	TranscriptionFactor 378 381	Sp1
+T14	MessengerRNA 394 398	mRNA
+T15	Protein 403 410	protein
+T19	Promoter 486 501	promoter region
+T20	Promoter 522 530	promoter
+T21	Eukaryote 534 539	human
+T23	ReporterGene 627 651	luciferase reporter gene
+T28	Function 887 897	functional
+T30	Function 953 962	functions
+T34	Gene 85 91	NKX3.1
+T6	Gene 97 128	prostate-specific homeobox gene
+T35	Tissue 149 157	prostate
+T36	Tissue 174 182	prostate
+T37	HomeoboxTF 254 260	NKX3.1
+T38	Tissue 264 272	prostate
+T39	ExperimentalMethod 286 292	RT-PCR
+T40	ExperimentalMethod 297 309	western blot
+T41	HomeoboxTF 325 331	NKX3.1
+T11	Tissue 421 436	prostate cancer
+T16	Cell 437 448	LNCaP cells
+T17	ProteinBindingSiteOfDNA 466 478	Sp1-elements
+T18	Gene 505 511	NKX3.1
+T43	Gene 540 551	NKX3.1 gene
+T22	ProteinBindingSiteOfDNA 578 590	Sp1-elements
+T24	ExperimentalMethod 682 708	deletion mutation analysis
+T45	ExperimentalMethod 710 730	plasmid construction
+T46	ExperimentalMethod 732 736	EMSA
+T25	ExperimentalMethod 741 772	oligonucleotide decoy technique
+T26	ProteinBindingSiteOfDNA 778 790	Sp1-elements
+T27	DNARegion 813 823	?29 to ?43
+T47	DNARegion 828 838	-60 to -46
+T48	Gene 842 853	NKX3.1 gene
+T29	ProteinBindingSiteOfDNA 996 1007	Sp1 element
+T32	Gene 1011 1017	NKX3.1
+T1	ProteinBindingSiteOfDNA 18 30	Sp1-elements
+T2	Gene 77 83	NKX3.1

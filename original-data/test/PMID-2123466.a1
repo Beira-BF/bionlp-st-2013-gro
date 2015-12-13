@@ -1,0 +1,57 @@
+T2	ProteinDomain 44 64	dimerization domains
+T7	TranscriptionFactor 133 153	transcription factor
+T9	Virus 174 179	viral
+T13	ExperimentalMethod 271 288	molecular cloning
+T14	Eukaryote 313 318	human
+T20	BasicDomain 489 501	basic domain
+T21	DNA 555 558	DNA
+T29	DNA 828 831	DNA
+T31	DNA 914 917	DNA
+T41	ProteinComplex 1497 1506	complexes
+T42	Protein 1623 1630	protein
+T43	Protein 1631 1638	protein
+T48	Function 1852 1862	functional
+T49	Protein 1915 1923	partners
+T4	bHLHTF 123 127	AP-4
+T5	Cell 184 192	cellular
+T6	Gene 193 198	genes
+T10	Sequence 243 249	CAGCTG
+T12	bHLHTF 319 323	AP-4
+T53	DNA 324 329	cDNAs
+T15	AminoAcid 343 353	amino acid
+T54	Sequence 354 362	sequence
+T55	bHLHTF 376 380	AP-4
+T16	bHLHTF 403 416	(HLH) protein
+T17	bHLHTF 457 461	AP-4
+T18	bHLH 462 471	HLH motif
+T19	bHLHTF 590 602	HLH proteins
+T23	bHLHTF 604 608	AP-4
+T24	ProteinDomain 638 665	protein dimerization motifs
+T25	ProteinDomain 704 707	LR1
+T26	ProteinDomain 712 715	LR2
+T28	MutantProtein 754 767	point mutants
+T30	bHLH 879 895	HLH basic region
+T59	MutantProtein 977 995	truncated versions
+T60	bHLHTF 999 1003	AP-4
+T61	Solution 1007 1015	solution
+T62	ProteinDomain 1035 1038;1046 1052	LR1 domain
+T34	ProteinDomain 1042 1052	LR2 domain
+T63	bHLHTF 1054 1058	AP-4
+T36	bHLHTF 1185 1188	E12
+T37	MutantProtein 1223 1233	delta C222
+T38	ProteinDomain 1247 1250	LR1
+T64	ProteinDomain 1255 1258	LR2
+T65	bHLH 1281 1284	HLH
+T66	bHLHTF 1313 1316	E12
+T67	bHLHTF 1328 1332	AP-4
+T68	ProteinDomain 1354 1357	LR2
+T69	ProteinDomain 1361 1364	LR1
+T71	MutantProtein 1454 1464	delta C222
+T72	bHLHTF 1531 1535	AP-4
+T73	MutantProtein 1512 1527	longer versions
+T74	ProteinDomain 1549 1552	LR1
+T75	ProteinDomain 1560 1563	LR2
+T76	bHLHTF 1600 1604	AP-4
+T78	ProteinBindingSiteOfProtein 1639 1649	interfaces
+T46	bHLHTF 1794 1817	helix-loop-helix family
+T1	bHLHTF 21 25	AP-4

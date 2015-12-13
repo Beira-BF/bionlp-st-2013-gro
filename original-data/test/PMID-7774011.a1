@@ -1,0 +1,27 @@
+T2	TranscriptionFactor 21 26	NF-E2
+T9	Eukaryote 297 301	mice
+T12	ProteinSubunit 337 340	p45
+T16	TranscriptionFactor 394 399	NF-E2
+T18	Eukaryote 424 428	mice
+T19	CellComponent 508 519	cytoplasmic
+T21	PhysicalContinuant 569 574	serum
+T28	TranscriptionFactor 842 847	NF-E2
+T30	Gene 878 883	genes
+T31	Cell 168 183	blood platelets
+T32	Cell 256 270	megakaryocytes
+T14	Cell 434 455	circulating platelets
+T33	Cell 485 499	megakaryocytes
+T34	Cell 520 528	platelet
+T35	Cell 547 556	platelets
+T22	Protein 618 622	MGDF
+T25	Cell 678 692	megakaryocytes
+T38	Protein 728 742	thrombopoietin
+T39	Protein 781 787	factor
+T40	Cell 792 805	megakaryocyte
+T42	Cell 821 829	platelet
+T43	Protein 913 927	thrombopoietin
+T44	ExperimentalMethod 969 985	genetic analysis
+T45	Cell 989 1002	megakaryocyte
+T1	Cell 43 51	platelet
+T48	Protein 107 111	MGDF
+T49	Cell 115 128	megakaryocyte

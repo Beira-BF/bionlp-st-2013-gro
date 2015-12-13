@@ -1,0 +1,31 @@
+T9	Eukaryote 225 229	mice
+T11	Tissue 278 294	pancreatic islet
+T22	Promoter 581 589	promoter
+T27	DNABindingDomainOfProtein 771 789	DNA-binding domain
+T37	TranscriptionCoactivator 996 999	CBP
+T38	TranscriptionCoactivator 1004 1008	p300
+T44	Peptide 1263 1274	polypeptide
+T45	Promoter 1285 1294	promoters
+T46	Tissue 1298 1315	pancreatic islets
+T49	Eukaryote 1363 1369	humans
+T4	bHLHTF 121 128	NEUROD1
+T5	bHLHTF 144 149	BETA2
+T7	Tissue 188 208	endocrine pancreatic
+T50	Gene 270 276	Neurod
+T14	Gene 407 411	Ins2
+T53	bHLHTF 414 421	NEUROD1
+T16	bHLHTF 488 491	E47
+T18	Gene 517 520	INS
+T21	DNARegion 558 569	E-box motif
+T54	Gene 577 580	INS
+T55	bHLHTF 625 632	NEUROD1
+T26	AminoAcid 756 763	Arg 111
+T56	DNARegion 801 806	E-box
+T57	bHLHTF 827 834	NEUROD1
+T33	ProteinDomain 906 946	carboxy-terminal trans-activation domain
+T31	Peptide 872 893	truncated polypeptide
+T36	AminoAcid 1139 1146	Arg 111
+T59	bHLHTF 1204 1211	NEUROD1
+T60	bHLHTF 1063 1092	truncated NEUROD1 polypeptide
+T61	bHLHTF 1255 1262	NEUROD1
+T62	bHLHTF 13 20	NEUROD1

@@ -1,0 +1,38 @@
+T7	DNA 384 390	genome
+T13	Gene 587 592	genes
+T20	Promoter 866 874	promoter
+T21	Promoter 901 909	promoter
+T31	Cell 1186 1190	cell
+T34	Protein 100 114	claudin family
+T3	CellComponent 126 148	tight junction strands
+T35	CellComponent 223 231	barriers
+T36	Cell 210 222	paracellular
+T37	Protein 260 267	claudin
+T38	Protein 321 328	claudin
+T39	CellComponent 353 360	barrier
+T8	ExpressionProfiling 391 411	expression profiling
+T9	HMGTF 458 466	(SOX)-18
+T10	CellComponent 633 640	barrier
+T11	Cell 621 632	endothelial
+T15	HMGTF 673 679	SOX-18
+T41	MutantProtein 704 710	mutant
+T42	HMGTF 731 737	SOX-18
+T43	Protein 785 790	CLDN5
+T18	TranscriptionFactorBindingSiteOfDNA 836 852	SOX-binding site
+T19	Gene 860 865	CLDN5
+T24	HMGTF 962 968	SOX-18
+T45	Cell 989 1000	endothelial
+T46	CellComponent 1001 1008	barrier
+T47	Function 1009 1017	function
+T26	ExperimentalMethod 1034 1075	electric cell-substrate impedance sensing
+T27	HMGTF 1105 1111	SOX-18
+T28	Gene 1133 1138	CLDN5
+T48	Cell 1161 1172	endothelial
+T32	HMGTF 1289 1295	SOX-18
+T49	Cell 1320 1331	endothelial
+T50	CellComponent 1332 1339	barrier
+T1	HMGTF 0 6	SOX-18
+T52	Cell 16 27	endothelial
+T54	CellComponent 67 74	barrier
+T55	Function 75 83	function
+T53	Gene 37 46	claudin-5

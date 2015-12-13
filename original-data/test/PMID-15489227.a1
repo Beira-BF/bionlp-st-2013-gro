@@ -1,0 +1,71 @@
+T12	ProteinSubunit 415 419	RelA
+T25	MutantProtein 1161 1168	mutants
+T27	FusionProtein 1216 1230	fusion protein
+T31	Cell 1399 1403	cell
+T33	CatalyticActivity 1456 1476	enzymatic activities
+T34	Enzyme 1564 1572	IKKalpha
+T35	Enzyme 1574 1581	IKKbeta
+T39	Cell 1738 1749	fibroblasts
+T45	TranscriptionFactorComplex 2018 2023	TFIID
+T50	ProteinDomain 2165 2187	transactivation domain
+T51	Enzyme 2250 2257	kinases
+T11	AminoAcid 421 431	serine 536
+T56	Stress 487 510	proinflammatory stimuli
+T17	Enzyme 708 731	c-Jun N-terminal kinase
+T57	Enzyme 733 743	p38 kinase
+T18	Enzyme 745 782	extracellular signal-regulated kinase
+T19	Enzyme 787 816	phosphatidylinositol 3-kinase
+T58	Protein 820 833	interleukin-1
+T59	Protein 838 859	tumor necrosis factor
+T60	AminoAcid 868 875	Ser-536
+T63	AminoAcid 965 972	Ser-536
+T22	Enzyme 1043 1059	(IKK)-alpha/beta
+T66	OrganicChemical 1133 1139	SC-514
+T23	Enzyme 1179 1182	IKK
+T24	Protein 1186 1211	green fluorescent protein
+T26	ProteinSubunit 1212 1215	p65
+T67	AminoAcid 1253 1260	Ser-536
+T69	Enzyme 1279 1282	IKK
+T30	Enzyme 1323 1336	IKKalpha/beta
+T70	Enzyme 1349 1364	Ser-536 kinases
+T71	ExperimentalMethod 1366 1395	Chromatographic fractionation
+T32	ProteinIdentification 1425 1439	identification
+T73	AminoAcid 1493 1500	Ser-536
+T74	Enzyme 1531 1537	kinase
+T75	Enzyme 1583 1593	IKKepsilon
+T76	Enzyme 1599 1603	TBK1
+T77	Enzyme 1619 1629	IKKepsilon
+T78	Enzyme 1634 1638	TBK1
+T79	AminoAcid 1653 1660	Ser-536
+T38	MutantProtein 1701 1720	mutant p65 proteins
+T80	ProteinSubunit 1724 1727	p65
+T81	MutantProtein 1788 1793	S536D
+T82	AminoAcid 1903 1910	Ser-536
+T83	AminoAcid 1842 1849	Ser-536
+T84	AminoAcid 1854 1861	Asp-533
+T85	Chemical 1820 1833	hydrogen bond
+T86	MutantProtein 1863 1868	S536N
+T87	Gene 1918 1931	interleukin-8
+T43	ProteinSubunit 1997 2001	II31
+T89	Chemical 2064 2077	hydrogen bond
+T48	TranscriptionCorepressor 2112 2144	amino-terminal enhancer of split
+T49	ProteinSubunit 2152 2155	p65
+T90	AminoAcid 2275 2282	Ser-536
+T91	ProteinSubunit 2286 2289	p65
+T92	Function 2302 2310	function
+T94	ProteinSubunit 2363 2373	components
+T54	GeneralTranscriptionFactor 2381 2412	basal transcriptional machinery
+T55	Gene 2420 2433	interleukin-8
+T95	Promoter 2434 2442	promoter
+T96	Protein 17 30	interleukin-1
+T97	ProteinSubunit 60 63	p65
+T98	AminoAcid 79 89	serine 536
+T4	Enzyme 157 170	(IKK)-{alpha}
+T99	Enzyme 172 181	IKK{beta}
+T100	Enzyme 183 195	IKK{epsilon}
+T5	Enzyme 252 256	TBK1
+T6	Enzyme 274 280	kinase
+T7	ProteinSubunit 339 343	II31
+T8	Gene 353 366	interleukin-8
+T101	ProteinSubunit 293 296	p65
+T93	AminoAcid 2336 2340	site
